@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1801,
+    "word": "Rigorous",
+    "pos": "adj.",
+    "pronunciation": "/ˈrɪɡ.ər.əs/",
+    "definition": "Extremely thorough, exhaustive, and adhering strictly to methodological standards and statistical controls.",
+    "etymology": "From Middle English rigour, from Old French rigor, from Latin rigor ('stiffness').",
+    "manuscriptExample": "To ensure rigorous evaluation of Western blot quantification, all signal densities were normalized against total protein stain.",
+    "conferenceExample": "The editorial board commended the manuscript for its rigorous statistical controls and blind validation cohorts.",
+    "tags": ["Peer Review", "Manuscript Editing"],
+    "synonyms": ["Meticulous", "Scrupulous", "Exhaustive", "Stringent"],
+    "antonyms": ["Cursory", "Sloppy", "Lax", "Superficial"]
+  },
+  {
+    "id": 1802,
+    "word": "Rebuttal",
+    "pos": "noun",
+    "pronunciation": "/rɪˈbʌt.əl/",
+    "definition": "A formal written argument or evidence presented by manuscript authors to address referee criticisms during peer review.",
+    "etymology": "From Anglo-Norman rebuter ('to push back').",
+    "manuscriptExample": "In our point-by-point rebuttal, we supplied additional flow cytometry gating controls requested in Comment 4.",
+    "conferenceExample": "The editorial team reviewed the author rebuttal and agreed that new siRNA knockout experiments resolved earlier doubts.",
+    "tags": ["Peer Review", "Editorial Meetings"],
+    "synonyms": ["Counterargument", "Refutation", "Response", "Rejoinder"],
+    "antonyms": ["Concession", "Acquiescence", "Agreement"]
+  },
+  {
+    "id": 1803,
+    "word": "Refractory",
+    "pos": "adj.",
+    "pronunciation": "/rɪˈfræk.tər.i/",
+    "definition": "Resistant to treatment, stimulus, or pharmacological intervention; unmanageable by standard protocols.",
+    "etymology": "From Latin refractarius ('stubborn').",
+    "manuscriptExample": "Patients with refractory acute myeloid leukemia displayed elevated expression of efflux transporter ABCB1.",
+    "conferenceExample": "The panel debated whether the cell line was completely refractory to targeted kinase inhibition.",
+    "tags": ["Life Sciences", "Peer Review"],
+    "synonyms": ["Resistant", "Unresponsive", "Intractable"],
+    "antonyms": ["Responsive", "Sensitive", "Susceptible"]
+  }
+]

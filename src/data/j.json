@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1001,
+    "word": "Juxtacrine",
+    "pos": "adj.",
+    "pronunciation": "/ˈdʒʌk.stə.krɪn/",
+    "definition": "Relating to a form of cell-to-cell signaling where a ligand on one cell binds directly to a receptor on an adjacent cell.",
+    "etymology": "From Latin juxta ('near, adjacent') + Greek κρίνειν (krínein, 'to separate, secrete').",
+    "manuscriptExample": "Notch receptor signaling operates via juxtacrine interaction between neighboring membrane-bound proteins.",
+    "conferenceExample": "The reviewer inquired whether paracrine factors could be excluded in favor of purely juxtacrine communication.",
+    "tags": ["Life Sciences", "Manuscript Editing"],
+    "synonyms": ["Contact-dependent", "Membrane-bound signaling"],
+    "antonyms": ["Paracrine", "Endocrine", "Autocrine"]
+  },
+  {
+    "id": 1002,
+    "word": "Juxtaposition",
+    "pos": "noun",
+    "pronunciation": "/ˌdʒʌk.stə.pəˈzɪʃ.ən/",
+    "definition": "The act or placement of two elements or biological structures side by side to highlight comparison or contrast.",
+    "etymology": "From Latin juxta ('next to') + French position.",
+    "manuscriptExample": "The structural juxtaposition of wild-type and mutant active sites illuminated key catalytic differences.",
+    "conferenceExample": "In Figure 4, side-by-side juxtaposition of immunofluorescence channels clearly demonstrated co-localization.",
+    "tags": ["Manuscript Editing", "Editorial Meetings"],
+    "synonyms": ["Collocation", "Comparison", "Adjacency"],
+    "antonyms": ["Separation", "Distance", "Isolation"]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": 2001,
+    "word": "Tacit",
+    "pos": "adj.",
+    "pronunciation": "/ˈtæs.ɪt/",
+    "definition": "Implied, understood, or inferred without being explicitly stated in text or protocol manuals.",
+    "etymology": "From French tacite, from Latin tacitus ('silent').",
+    "manuscriptExample": "The manuscript relies on the tacit assumption that cell density remains constant throughout the 72-hour readout.",
+    "conferenceExample": "There was tacit consensus among peer reviewers that the manuscript merits a major revision.",
+    "tags": ["Editorial Meetings", "Peer Review"],
+    "synonyms": ["Implicit", "Unspoken", "Inferred", "Understood"],
+    "antonyms": ["Explicit", "Expressed", "Stated", "Direct"]
+  },
+  {
+    "id": 2002,
+    "word": "Transcriptomic",
+    "pos": "adj.",
+    "pronunciation": "/ˌtræn.skrɪpˈtoʊ.mɪk/",
+    "definition": "Relating to the complete set of RNA transcripts produced by the genome under specific physiological conditions.",
+    "etymology": "From transcript + -omic.",
+    "manuscriptExample": "Transcriptomic profiling identified 142 differentially expressed genes involved in cholesterol biosynthesis.",
+    "conferenceExample": "The reviewer commended the inclusion of bulk and single-cell transcriptomic validation cohorts.",
+    "tags": ["Life Sciences", "Peer Review"],
+    "synonyms": ["Gene expression profiling", "RNA-seq analysis"],
+    "antonyms": ["Genomic DNA static sequencing"]
+  },
+  {
+    "id": 2003,
+    "word": "Transient",
+    "pos": "adj.",
+    "pronunciation": "/ˈtræn.zi.ənt/",
+    "definition": "Lasting only for a short time; impermanent or non-integrated gene expression or physiological event.",
+    "etymology": "From Latin transiens, present participle of transire ('to pass over').",
+    "manuscriptExample": "Transient plasmid transfection achieved peak luciferase expression at 24 hours post-lipofection.",
+    "conferenceExample": "We addressed whether the calcium flux represented a transient spike or sustained cytosolic elevation.",
+    "tags": ["Life Sciences", "Peer Review"],
+    "synonyms": ["Ephemeral", "Fleeting", "Short-lived", "Temporary"],
+    "antonyms": ["Stable", "Sustained", "Permanent"]
+  },
+  {
+    "id": 2004,
+    "word": "Translational",
+    "pos": "adj.",
+    "pronunciation": "/trænzˈleɪ.ʃən.əl/",
+    "definition": "Relating to the application of basic scientific discoveries into clinical therapies or medical practice.",
+    "etymology": "From translation + -al.",
+    "manuscriptExample": "The manuscript highlights the translational significance of targeting mutant allele X in patient-derived models.",
+    "conferenceExample": "The associate editor praised the study for bridging basic mechanistic insights and clinical translational potential.",
+    "tags": ["Life Sciences", "Manuscript Editing"],
+    "synonyms": ["Clinical application", "Bench-to-bedside"],
+    "antonyms": ["Purely theoretical", "In vitro isolated"]
+  }
+]

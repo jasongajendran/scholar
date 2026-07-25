@@ -1,0 +1,28 @@
+[
+  {
+    "id": 901,
+    "word": "Inchoate",
+    "pos": "adj.",
+    "pronunciation": "/ɪnˈkoʊ.eɪt/",
+    "definition": "Just begun, underdeveloped, or in an early formative state requiring further mechanistic maturation.",
+    "etymology": "From Latin inchoatus, past participle of inchoare ('to begin').",
+    "manuscriptExample": "Understanding of long non-coding RNA tertiary folding remains inchoate compared to mRNA dynamics.",
+    "conferenceExample": "The editorial board judged the preliminary draft as too inchoate for publication in a high-impact journal.",
+    "tags": ["Editorial Meetings", "Manuscript Editing"],
+    "synonyms": ["Incipient", "Rudimentary", "Developing", "Nascent"],
+    "antonyms": ["Mature", "Evolved", "Complete"]
+  },
+  {
+    "id": 902,
+    "word": "Immunoblot",
+    "pos": "noun",
+    "pronunciation": "/ˈɪm.jə.noʊˌblɒt/",
+    "definition": "An analytical technique used to detect specific proteins in a given sample of tissue extract or homogenate.",
+    "etymology": "From immuno- + blot.",
+    "manuscriptExample": "Immunoblot quantification revealed marked hyperphosphorylation of Akt following 15 minutes of cytokine stimulation.",
+    "conferenceExample": "The editor required uncropped full-length immunoblots for all molecular weight markers in the supplement.",
+    "tags": ["Life Sciences", "Peer Review"],
+    "synonyms": ["Western blot", "Protein assay"],
+    "antonyms": ["Northern blot", "Southern blot"]
+  }
+]

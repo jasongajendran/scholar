@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "word": "Paradigm",
+    "pos": "noun",
+    "pronunciation": "/ˈpær.ə.daɪm/",
+    "definition": "A typical pattern, exemplar, or overarching conceptual framework within a scientific discipline.",
+    "etymology": "From Late Latin paradigma, from Ancient Greek παράδειγμα (parádeigma, 'pattern, model').",
+    "manuscriptExample": "Our single-cell RNA-sequencing data challenge the prevailing paradigm regarding macrophage polarization kinetics in chronic inflammatory tissue.",
+    "conferenceExample": "In our rebuttal letter to Reviewer 2, we clarified how this finding shifts the current paradigm of epigenetic lineage commitment.",
+    "tags": ["Life Sciences", "Manuscript Editing"],
+    "synonyms": ["Archetype", "Benchmark", "Framework", "Model", "Standard"],
+    "antonyms": ["Anomaly", "Deviation", "Exception", "Impropriety"]
+  },
+  {
+    "id": 1602,
+    "word": "Pathognomonic",
+    "pos": "adj.",
+    "pronunciation": "/pəˌθɒɡ.nəˈmɒn.ɪk/",
+    "definition": "Specifically characteristic or diagnostic of a particular disease or pathological condition.",
+    "etymology": "From Ancient Greek παθογνωμονικός (pathognōmonikós, 'skilled in diagnosing disease').",
+    "manuscriptExample": "Histological examination revealed intracellular viral inclusion bodies pathognomonic for acute cytomegalovirus colitis.",
+    "conferenceExample": "The peer reviewer praised the inclusion of pathognomonic biomarker staining in Figure 1.",
+    "tags": ["Life Sciences", "Manuscript Editing"],
+    "synonyms": ["Diagnostic", "Characteristic", "Distinctive", "Symptomatic"],
+    "antonyms": ["Non-specific", "Atypical", "Uncharacteristic"]
+  },
+  {
+    "id": 1603,
+    "word": "Potentiate",
+    "pos": "verb",
+    "pronunciation": "/pəˈten.ʃi.eɪt/",
+    "definition": "To enhance, synergize, or increase the strength and activity of a biological pathway or drug treatment.",
+    "etymology": "From Late Latin potentiātus, from Latin potentia ('power').",
+    "manuscriptExample": "Co-treatment with HDAC inhibitor dramatically potentiated the cytotoxic effects of cisplatin in resistant ovarian cancer lines.",
+    "conferenceExample": "The team examined whether combination therapy potentiated target inhibition beyond additive effects.",
+    "tags": ["Life Sciences", "Peer Review"],
+    "synonyms": ["Enhance", "Synergize", "Boost", "Amplify"],
+    "antonyms": ["Inhibit", "Attenuate", "Suppress"]
+  },
+  {
+    "id": 1604,
+    "word": "Paucity",
+    "pos": "noun",
+    "pronunciation": "/ˈpɔː.sə.ti/",
+    "definition": "A smallness of quantity, scarcity, or inadequate presence of literature or sample numbers.",
+    "etymology": "From Old French paucite, from Latin paucitas ('fewness').",
+    "manuscriptExample": "Due to a paucity of high-grade primary tumor samples, secondary validation was performed using patient-derived xenografts.",
+    "conferenceExample": "The editor highlighted the paucity of mechanistic insights in the discussion section as a key deficiency.",
+    "tags": ["Manuscript Editing", "Peer Review"],
+    "synonyms": ["Scarcity", "Dearth", "Shortage", "Lack"],
+    "antonyms": ["Abundance", "Surfeit", "Plethora"]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 401,
+    "word": "Delineate",
+    "pos": "verb",
+    "pronunciation": "/dɪˈlɪn.i.eɪt/",
+    "definition": "To describe, outline, or mark out the specific boundaries or steps of a biological pathway with precision.",
+    "etymology": "From Latin delineatus, past participle of delineare ('to sketch out, trace').",
+    "manuscriptExample": "High-resolution cryo-EM allowed us to delineate the atomic contact residues between the spike protein and receptor.",
+    "conferenceExample": "Reviewer 3 recommended rewriting Section 2.4 to better delineate inclusion criteria for patient cohorts.",
+    "tags": ["Manuscript Editing", "Life Sciences"],
+    "synonyms": ["Outline", "Define", "Detail", "Map"],
+    "antonyms": ["Blur", "Confuse", "Obscure"]
+  },
+  {
+    "id": 402,
+    "word": "Dichotomy",
+    "pos": "noun",
+    "pronunciation": "/daɪˈkɒt.ə.mi/",
+    "definition": "A division or contrast between two states represented as being opposed or distinct.",
+    "etymology": "From Ancient Greek διχοτομία (dichotomía, 'a cutting in two').",
+    "manuscriptExample": "Our findings reconcile the longstanding dichotomy between genetic predisposition and environmental drivers.",
+    "conferenceExample": "In the rebuttal, we clarified that M1/M2 macrophage states present a continuous spectrum rather than a rigid dichotomy.",
+    "tags": ["Manuscript Editing", "Editorial Meetings"],
+    "synonyms": ["Division", "Polarity", "Split", "Dualism"],
+    "antonyms": ["Continuum", "Unity", "Integration"]
+  }
+]

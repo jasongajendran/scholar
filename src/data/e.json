@@ -1,0 +1,41 @@
+[
+  {
+    "id": 501,
+    "word": "Elucidate",
+    "pos": "verb",
+    "pronunciation": "/iˈluː.sɪ.deɪt/",
+    "definition": "To make clear, explain thoroughly, or throw light upon a complex biological mechanism or pathway.",
+    "etymology": "From Late Latin elucidatus, past participle of elucidare ('to make clear').",
+    "manuscriptExample": "Further crystallographic studies are required to elucidate the active site geometry of the enzyme.",
+    "conferenceExample": "The presentation clearly elucidated the feedback loop regulating microRNA expression during hypoxia.",
+    "tags": ["Manuscript Editing", "Life Sciences"],
+    "synonyms": ["Clarify", "Explicate", "Illuminate", "Unravel"],
+    "antonyms": ["Obfuscate", "Obscure", "Befuddle"]
+  },
+  {
+    "id": 502,
+    "word": "Empirical",
+    "pos": "adj.",
+    "pronunciation": "/ɪmˈpɪr.ɪ.kəl/",
+    "definition": "Derived from or verifiable through direct observation or controlled experiment rather than pure theory.",
+    "etymology": "From Latin empiricus, from Ancient Greek ἐμπειρικός (empeirikós, 'experienced').",
+    "manuscriptExample": "We provided empirical verification of membrane permeability using fluorescence recovery after photobleaching.",
+    "conferenceExample": "Theoretical kinetics must be supported by empirical binding affinity assays prior to journal acceptance.",
+    "tags": ["Life Sciences", "Manuscript Editing"],
+    "synonyms": ["Observational", "Experimental", "Evidence-based"],
+    "antonyms": ["Theoretical", "Hypothetical", "Speculative"]
+  },
+  {
+    "id": 503,
+    "word": "Equipoise",
+    "pos": "noun",
+    "pronunciation": "/ˈek.wɪ.pɔɪz/",
+    "definition": "A state of genuine clinical or scientific uncertainty regarding the relative efficacy of competing treatments.",
+    "etymology": "From equi- ('equal') + poise ('balance').",
+    "manuscriptExample": "Clinical trial enrollment proceeded under strict ethical equipoise between standard-of-care and immunotherapy.",
+    "conferenceExample": "The IRB committee confirmed that genuine equipoise was maintained throughout the multi-center trial.",
+    "tags": ["Peer Review", "Life Sciences"],
+    "synonyms": ["Equilibrium", "Balance", "Uncertainty"],
+    "antonyms": ["Bias", "Imbalance", "Preponderance"]
+  }
+]

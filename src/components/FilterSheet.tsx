@@ -1,5 +1,5 @@
 import { motion, AnimatePresence } from 'motion/react';
-import { Search, X, Check, Bookmark, Filter, Sparkles } from 'lucide-react';
+import { Search, X, Check, Bookmark, Filter, Sparkles, BookOpen } from 'lucide-react';
 
 interface FilterSheetProps {
   isOpen: boolean;
@@ -10,8 +10,11 @@ interface FilterSheetProps {
   setActiveLetter: (letter: string) => void;
   activePos: string;
   setActivePos: (pos: string) => void;
+  activeCategory: string;
+  setActiveCategory: (cat: string) => void;
   alphabet: string[];
   posTypes: string[];
+  categoryTypes: string[];
   addressedLetters: string[];
   totalTerms: number;
   bookmarkedCount: number;
@@ -28,8 +31,11 @@ export function FilterSheet({
   setActiveLetter,
   activePos,
   setActivePos,
+  activeCategory,
+  setActiveCategory,
   alphabet,
   posTypes,
+  categoryTypes,
   addressedLetters,
   totalTerms,
   bookmarkedCount,
@@ -66,7 +72,7 @@ export function FilterSheet({
           animate={{ y: 0 }}
           exit={{ y: '100%' }}
           transition={{ type: 'spring', damping: 28, stiffness: 300 }}
-          className="relative w-full max-w-2xl max-h-[85vh] bg-[#121215] border-t border-zinc-800 rounded-t-3xl p-6 shadow-2xl z-10 overflow-y-auto no-scrollbar"
+          className="relative w-full max-w-2xl max-h-[85vh] bg-[#121216] border-t border-zinc-800 rounded-t-3xl p-6 shadow-2xl z-10 overflow-y-auto no-scrollbar"
         >
           {/* Drag Handle */}
           <div className="w-12 h-1.5 bg-zinc-700/60 rounded-full mx-auto mb-6 shrink-0" />
@@ -74,8 +80,8 @@ export function FilterSheet({
           {/* Header */}
           <div className="flex items-center justify-between mb-6">
             <div className="flex items-center gap-2">
-              <Filter size={18} className="text-amber-400" />
-              <h3 className="text-lg font-serif italic text-zinc-100">Index & Search Filters</h3>
+              <Filter size={18} className="text-emerald-400" />
+              <h3 className="text-lg font-serif italic text-zinc-100">Scholar Lexicon Filters</h3>
             </div>
             <button
               onClick={onClose}
@@ -90,10 +96,10 @@ export function FilterSheet({
             <Search className="absolute left-4 top-1/2 -translate-y-1/2 h-5 w-5 text-zinc-500" />
             <input
               type="text"
-              placeholder="Search English or Tamil terms..."
+              placeholder="Search scientific terms, definitions..."
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              className="w-full bg-zinc-900 border border-zinc-800 text-zinc-100 rounded-2xl py-3.5 pl-12 pr-10 text-sm focus:outline-none focus:ring-1 focus:ring-amber-400/50"
+              className="w-full bg-zinc-900 border border-zinc-800 text-zinc-100 rounded-2xl py-3.5 pl-12 pr-10 text-sm focus:outline-none focus:ring-1 focus:ring-emerald-400/50"
             />
             {searchQuery && (
               <button
@@ -103,6 +109,29 @@ export function FilterSheet({
                 <X size={16} />
               </button>
             )}
+          </div>
+
+          {/* Domain Category Pills Filter */}
+          <div className="mb-6">
+            <h4 className="text-xs font-mono text-zinc-400 uppercase tracking-widest mb-3">Domain Category</h4>
+            <div className="flex flex-wrap gap-2">
+              {categoryTypes.map((cat) => (
+                <button
+                  key={cat}
+                  onClick={() => {
+                    triggerHaptic();
+                    setActiveCategory(cat);
+                  }}
+                  className={`py-2 px-3.5 rounded-full text-xs font-mono transition-all border ${
+                    activeCategory === cat
+                      ? 'bg-sky-400 text-black border-sky-400 font-bold shadow-md shadow-sky-400/20'
+                      : 'bg-sky-950/40 text-sky-300 border-sky-800/40 hover:bg-sky-900/60'
+                  }`}
+                >
+                  {cat === 'all' ? 'All Categories' : cat}
+                </button>
+              ))}
+            </div>
           </div>
 
           {/* Saved Terms Quick Toggle */}
@@ -121,8 +150,8 @@ export function FilterSheet({
               <div className="flex items-center gap-3">
                 <Bookmark size={18} className={showOnlyBookmarks ? 'fill-amber-400 text-amber-400' : 'text-zinc-400'} />
                 <div className="text-left">
-                  <span className="text-sm font-medium block">Filter Saved / Bookmarked Terms</span>
-                  <span className="text-xs text-zinc-500 font-mono">{bookmarkedCount} terms saved in offline cache</span>
+                  <span className="text-sm font-medium block">Filter Bookmarked Terms</span>
+                  <span className="text-xs text-zinc-500 font-mono">{bookmarkedCount} terms saved locally</span>
                 </div>
               </div>
               {showOnlyBookmarks && <Check size={18} className="text-amber-400" />}
@@ -142,8 +171,8 @@ export function FilterSheet({
                   }}
                   className={`py-2.5 px-3 rounded-xl text-xs font-mono tracking-wider transition-all border text-center ${
                     activePos === pos
-                      ? 'bg-amber-400 text-black border-amber-400 font-bold'
-                      : 'bg-zinc-900 text-zinc-300 border-zinc-800 hover:border-zinc-700'
+                      ? 'bg-purple-400 text-black border-purple-400 font-bold'
+                      : 'bg-purple-950/30 text-purple-300 border-purple-800/30 hover:border-purple-700/50'
                   }`}
                 >
                   {pos.toUpperCase()}
@@ -156,7 +185,7 @@ export function FilterSheet({
           <div className="mb-8">
             <div className="flex items-center justify-between mb-3">
               <h4 className="text-xs font-mono text-zinc-400 uppercase tracking-widest">Alphabetical Index</h4>
-              <span className="text-xs font-mono text-amber-400">A to Z Complete</span>
+              <span className="text-xs font-mono text-emerald-400">A to Z Filter</span>
             </div>
             <div className="grid grid-cols-7 sm:grid-cols-9 gap-2">
               <button
@@ -166,7 +195,7 @@ export function FilterSheet({
                 }}
                 className={`h-11 flex items-center justify-center rounded-xl text-xs font-serif italic transition-all border ${
                   activeLetter === 'all'
-                    ? 'bg-amber-400 text-black border-amber-400 font-bold'
+                    ? 'bg-emerald-400 text-black border-emerald-400 font-bold'
                     : 'bg-zinc-900 text-zinc-300 border-zinc-800'
                 }`}
               >
@@ -184,9 +213,9 @@ export function FilterSheet({
                     }}
                     className={`h-11 flex items-center justify-center rounded-xl text-xs font-serif italic transition-all border ${
                       activeLetter === letter
-                        ? 'bg-amber-400 text-black border-amber-400 font-bold'
+                        ? 'bg-emerald-400 text-black border-emerald-400 font-bold'
                         : isAddressed
-                        ? 'bg-zinc-900 text-zinc-300 border-zinc-800 hover:border-amber-400/40'
+                        ? 'bg-zinc-900 text-zinc-300 border-zinc-800 hover:border-emerald-400/40'
                         : 'bg-zinc-950 text-zinc-700 border-zinc-900 opacity-40 cursor-not-allowed'
                     }`}
                   >
@@ -200,7 +229,7 @@ export function FilterSheet({
           {/* Apply Button */}
           <button
             onClick={onClose}
-            className="w-full py-4 rounded-2xl bg-amber-400 text-black font-mono text-xs uppercase tracking-wider font-bold shadow-lg active:scale-98 transition-all"
+            className="w-full py-4 rounded-2xl bg-emerald-400 text-black font-mono text-xs uppercase tracking-wider font-bold shadow-lg active:scale-98 transition-all"
           >
             Apply Filters & View ({totalTerms} Terms)
           </button>

@@ -1,5 +1,5 @@
 import { motion } from 'motion/react';
-import { BookOpen, Search, Layers, Bookmark, Shuffle, LayoutGrid, List } from 'lucide-react';
+import { BookOpen, Search, Layers, Bookmark, Shuffle, LayoutGrid } from 'lucide-react';
 
 interface BottomNavProps {
   currentTab: 'feed' | 'study';
@@ -49,20 +49,19 @@ export function BottomNav({
             if (currentTab === 'study') {
               setCurrentTab('feed');
             } else {
-              // Toggle list vs grid mode
               setViewMode(viewMode === 'list' ? 'grid' : 'list');
             }
           }}
           className={`relative flex flex-col items-center justify-center py-2 px-3 rounded-full transition-all ${
             currentTab === 'feed' && !showOnlyBookmarks
-              ? 'text-amber-400 font-medium'
+              ? 'text-emerald-400 font-medium'
               : 'text-zinc-400 hover:text-zinc-200'
           }`}
         >
           {currentTab === 'feed' && !showOnlyBookmarks && (
             <motion.div
               layoutId="bottomNavBubble"
-              className="absolute inset-0 bg-amber-400/15 border border-amber-400/30 rounded-full -z-10"
+              className="absolute inset-0 bg-emerald-400/15 border border-emerald-400/30 rounded-full -z-10"
               transition={{ type: 'spring', stiffness: 350, damping: 25 }}
             />
           )}
@@ -93,14 +92,14 @@ export function BottomNav({
           }}
           className={`relative flex flex-col items-center justify-center py-2 px-3 rounded-full transition-all ${
             currentTab === 'study'
-              ? 'text-amber-400 font-medium'
+              ? 'text-emerald-400 font-medium'
               : 'text-zinc-400 hover:text-zinc-200'
           }`}
         >
           {currentTab === 'study' && (
             <motion.div
               layoutId="bottomNavBubble"
-              className="absolute inset-0 bg-amber-400/15 border border-amber-400/30 rounded-full -z-10"
+              className="absolute inset-0 bg-emerald-400/15 border border-emerald-400/30 rounded-full -z-10"
               transition={{ type: 'spring', stiffness: 350, damping: 25 }}
             />
           )}
@@ -145,7 +144,7 @@ export function BottomNav({
             triggerHaptic();
             onSelectRandomWord();
           }}
-          className="relative flex flex-col items-center justify-center py-2 px-3 rounded-full text-zinc-400 hover:text-amber-400 active:scale-95 transition-all"
+          className="relative flex flex-col items-center justify-center py-2 px-3 rounded-full text-zinc-400 hover:text-emerald-400 active:scale-95 transition-all"
           title="Surprise Random Term"
         >
           <Shuffle size={18} />

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 201,
+    "word": "Bifurcation",
+    "pos": "noun",
+    "pronunciation": "/ˌbaɪ.fərˈkeɪ.ʃən/",
+    "definition": "A division into two branches or divergent developmental lineages in stem cell trajectory modeling.",
+    "etymology": "From New Latin bifurcatio, from Latin bi- ('two') + furca ('fork').",
+    "manuscriptExample": "Single-cell pseudotime analysis identified a critical transcriptional bifurcation governing myeloid versus lymphoid fate.",
+    "conferenceExample": "We addressed the reviewer's query regarding marker gene expression prior to cell lineage bifurcation.",
+    "tags": ["Life Sciences", "Manuscript Editing"],
+    "synonyms": ["Divergence", "Branching", "Dichotomy", "Forking"],
+    "antonyms": ["Convergence", "Union", "Merging"]
+  },
+  {
+    "id": 202,
+    "word": "Bioavailability",
+    "pos": "noun",
+    "pronunciation": "/ˌbaɪ.oʊ.əˌveɪ.ləˈbɪl.ə.ti/",
+    "definition": "The proportion of a drug or biomarker that enters systemic circulation and reaches the active site.",
+    "etymology": "From Greek βίος (bíos, 'life') + availability.",
+    "manuscriptExample": "Liposomal encapsulation increased oral bioavailability of the small-molecule inhibitor by four-fold.",
+    "conferenceExample": "The panel requested pharmacokinetic curves demonstrating adequate target tissue bioavailability.",
+    "tags": ["Life Sciences", "Peer Review"],
+    "synonyms": ["Absorption", "Reachability", "Accessibility"],
+    "antonyms": ["Impenetrability", "Inaccessibility"]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 2101,
+    "word": "Ubiquitination",
+    "pos": "noun",
+    "pronunciation": "/juːˌbɪk.wɪ.tɪˈneɪ.ʃən/",
+    "definition": "An enzymatic post-translational modification where a ubiquitin protein is attached to a substrate, targeting it for proteasomal degradation.",
+    "etymology": "From ubiquitous + -ation.",
+    "manuscriptExample": "Polyubiquitination of tumor suppressor p53 was attenuated following treatment with E3 ligase inhibitors.",
+    "conferenceExample": "The reviewer asked whether deubiquitinating enzyme (DUB) activity was blocked during cell lysis.",
+    "tags": ["Life Sciences", "Peer Review"],
+    "synonyms": ["Polyubiquitination", "Proteasomal targeting"],
+    "antonyms": ["Deubiquitination", "Protein stabilization"]
+  },
+  {
+    "id": 2102,
+    "word": "Unequivocal",
+    "pos": "adj.",
+    "pronunciation": "/ˌʌn.ɪˈkwɪv.ə.kəl/",
+    "definition": "Leaving no doubt; clear, unambiguous, and supported by conclusive statistical significance.",
+    "etymology": "From un- ('not') + equivocal.",
+    "manuscriptExample": "Rescue experiments provided unequivocal evidence that kinase activation is required for cell migration.",
+    "conferenceExample": "The handling editor praised the authors for delivering an unequivocal answer to a longstanding field question.",
+    "tags": ["Peer Review", "Manuscript Editing"],
+    "synonyms": ["Definitive", "Unambiguous", "Conclusive", "Indisputable"],
+    "antonyms": ["Equivocal", "Ambiguous", "Inconclusive"]
+  }
+]

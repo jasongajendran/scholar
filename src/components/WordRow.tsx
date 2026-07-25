@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { motion } from 'motion/react';
-import { Volume2, Copy, Check, Bookmark } from 'lucide-react';
+import { Volume2, Copy, Check, Bookmark, FileText, Landmark } from 'lucide-react';
 import { LexiconWord } from '../types';
 import { speakWord } from '../utils/speech';
 
@@ -28,7 +28,6 @@ export function WordRow({
   const rowRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    // Only apply Intersection Observer for mobile/tablet where hover doesn't work well for scrolling
     if (typeof window !== 'undefined' && window.innerWidth < 1024) {
       const observer = new IntersectionObserver(
         ([entry]) => {
@@ -74,7 +73,9 @@ export function WordRow({
   const handleCopy = (e: React.MouseEvent) => {
     e.stopPropagation();
     triggerHaptic();
-    navigator.clipboard.writeText(`${word.word} - ${word.definition}\nEN: ${word.enExample}\nTA: ${word.taExample}`);
+    navigator.clipboard.writeText(
+      `${word.word} (${word.pos})\nDef: ${word.definition}\nManuscript Context: ${word.manuscriptExample}\nConference Context: ${word.conferenceExample}`
+    );
     setCopied(true);
     setTimeout(() => setCopied(false), 2000);
   };
@@ -92,20 +93,17 @@ export function WordRow({
     }
   };
 
-  // Helper to highlight occurrences of the word within the text on hover or when centered
   const highlightMatch = (text: string, match: string) => {
     if (!match || typeof match !== 'string' || typeof text !== 'string') return text;
-    // Handle multiple terms (e.g., "மாதிரி / சிந்தனை முறை")
-    const matchTerms = match.split('/').map(t => t.trim()).filter(Boolean);
-    const safeMatches = matchTerms.map(t => t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
-    const parts = text.split(new RegExp(`(${safeMatches.join('|')})`, 'gi'));
+    const safeMatch = match.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const parts = text.split(new RegExp(`(${safeMatch})`, 'gi'));
     
     return (
       <>
         {parts.map((part, i) => {
-          const isMatch = matchTerms.some(t => part.toLowerCase() === t.toLowerCase());
+          const isMatch = part.toLowerCase() === match.toLowerCase();
           return isMatch ? (
-            <span key={i} className={`rounded-sm px-0.5 -mx-0.5 transition-all duration-500 font-medium ${isCentered ? 'text-amber-400 bg-amber-400/10' : 'text-zinc-200 group-hover:text-amber-400 group-hover:bg-amber-400/10 group-active:text-amber-400 group-active:bg-amber-400/10'}`}>{part}</span>
+            <span key={i} className={`rounded-sm px-0.5 -mx-0.5 transition-all duration-500 font-medium ${isCentered ? 'text-emerald-400 bg-emerald-400/10' : 'text-zinc-100 bg-emerald-400/10'}`}>{part}</span>
           ) : (
             part
           );
@@ -121,22 +119,21 @@ export function WordRow({
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true, margin: "-50px" }}
       transition={{ duration: 0.6, ease: [0.16, 1, 0.3, 1] }}
-      onTouchStart={() => {}} 
       onClick={() => {
         triggerHaptic();
         onSelectWord(word);
       }}
       tabIndex={0}
-      className={`group relative flex flex-col md:flex-row gap-6 md:gap-12 py-12 md:py-20 border-t border-zinc-800/50 transition-all duration-300 px-4 md:px-8 cursor-pointer focus:outline-none ${isCentered ? 'bg-zinc-900/40' : 'hover:bg-zinc-900/40 active:bg-zinc-900/60'}`}
+      className={`group relative flex flex-col lg:flex-row gap-6 lg:gap-12 py-10 lg:py-16 border-t border-zinc-800/60 transition-all duration-300 px-4 md:px-8 cursor-pointer focus:outline-none ${isCentered ? 'bg-zinc-900/40' : 'hover:bg-zinc-900/40 active:bg-zinc-900/60'}`}
     >
       {/* Index Number */}
-      <div className="absolute top-4 left-4 md:top-8 md:left-8 text-xs font-mono text-zinc-600 tracking-widest flex items-center gap-2">
-        <span>{index.toString().padStart(2, '0')}</span>
+      <div className="absolute top-4 left-4 md:top-6 md:left-8 text-xs font-mono text-zinc-600 tracking-widest flex items-center gap-2">
+        <span>#{index.toString().padStart(2, '0')}</span>
         {isBookmarked && <Bookmark size={12} className="text-amber-400 fill-amber-400" />}
       </div>
 
       {/* Top Right Actions */}
-      <div className="absolute top-4 right-4 md:top-8 md:right-8 flex items-center gap-2 opacity-100 md:opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+      <div className="absolute top-4 right-4 md:top-6 md:right-8 flex items-center gap-2 opacity-100 md:opacity-0 group-hover:opacity-100 transition-opacity duration-300">
         <button 
           onClick={handleBookmark}
           className={`p-2 rounded-full bg-zinc-900/80 md:bg-transparent hover:bg-zinc-800 transition-colors ${isBookmarked ? 'text-amber-400' : 'text-zinc-400 hover:text-amber-400'}`}
@@ -146,8 +143,8 @@ export function WordRow({
         </button>
         <button 
           onClick={handleSpeak}
-          className={`p-2 rounded-full bg-zinc-900/80 md:bg-transparent hover:bg-zinc-800 text-zinc-400 hover:text-amber-400 transition-colors ${
-            isSpeaking ? 'text-amber-400 animate-pulse' : ''
+          className={`p-2 rounded-full bg-zinc-900/80 md:bg-transparent hover:bg-zinc-800 text-zinc-400 hover:text-emerald-400 transition-colors ${
+            isSpeaking ? 'text-emerald-400 animate-pulse' : ''
           }`}
           title="Pronounce word"
         >
@@ -155,88 +152,107 @@ export function WordRow({
         </button>
         <button 
           onClick={handleCopy}
-          className="p-2 rounded-full bg-zinc-900/80 md:bg-transparent hover:bg-zinc-800 text-zinc-400 hover:text-amber-400 transition-colors"
+          className="p-2 rounded-full bg-zinc-900/80 md:bg-transparent hover:bg-zinc-800 text-zinc-400 hover:text-emerald-400 transition-colors"
           title="Copy to clipboard"
         >
           {copied ? <Check size={16} className="text-emerald-400" /> : <Copy size={16} />}
         </button>
       </div>
 
-      {/* Left Column: Word & Definition */}
-      <div className="md:w-5/12 flex flex-col justify-center">
-        <div className="flex items-baseline gap-4">
-          <h2 className={`text-4xl md:text-5xl lg:text-6xl font-serif italic tracking-tight transition-colors duration-500 ${isCentered ? 'text-amber-400' : 'text-zinc-100 group-hover:text-amber-400 group-active:text-amber-400'}`}>
+      {/* Left Column: Word, POS, Tags, Definition */}
+      <div className="lg:w-5/12 flex flex-col justify-center">
+        <div className="flex items-baseline gap-3 flex-wrap">
+          <h2 className="text-3xl md:text-4xl lg:text-5xl font-serif italic tracking-tight text-zinc-100">
             {word.word}
           </h2>
-          <span className="text-sm font-mono text-purple-300 bg-purple-400/10 px-2 py-0.5 rounded border border-purple-400/20">{word.pos}</span>
+          {/* POS Badge */}
+          <span className="text-xs font-mono text-purple-300 bg-purple-950/60 px-2.5 py-0.5 rounded-full border border-purple-800/40 uppercase tracking-wider font-medium">
+            {word.pos}
+          </span>
         </div>
-        <div className="mt-6 flex flex-col gap-4">
-          <p className="text-zinc-400 font-sans text-sm md:text-base leading-relaxed tracking-wide">
-            <span className="text-zinc-500 italic mr-2 text-xs">def.</span>
-            {word.definition}
+
+        {word.pronunciation && (
+          <p className="text-xs font-mono text-emerald-400/80 mt-1">
+            {word.pronunciation}
           </p>
-          <p className="text-zinc-400 font-tamil text-sm md:text-base leading-relaxed tracking-wide">
-            <span className="text-zinc-500 font-mono mr-2 text-xs">ta.</span>
-            <span className={`transition-colors duration-500 font-medium ${isCentered ? 'text-amber-400' : 'text-amber-400/80 group-hover:text-amber-400 group-active:text-amber-400'}`}>
-              {word.taWord}
-            </span>
-          </p>
-          
-          {/* Synonyms & Antonyms */}
-          {(word.synonyms?.length || word.antonyms?.length) ? (
-            <div className="mt-2 flex flex-col gap-2">
-              {word.synonyms && word.synonyms.length > 0 && (
-                <div className="flex items-center gap-2 flex-wrap">
-                  <span className="text-[10px] font-mono text-emerald-400/70 uppercase tracking-widest">Syn</span>
-                  <div className="flex flex-wrap gap-1.5">
-                    {word.synonyms.map((syn, i) => (
-                      <span 
-                        key={i} 
-                        onClick={(e) => handleSynAntClick(e, syn)}
-                        className="text-xs text-emerald-300 bg-emerald-400/10 hover:bg-emerald-400/20 px-2 py-0.5 rounded border border-emerald-400/20 cursor-pointer transition-colors"
-                      >
-                        {syn}
-                      </span>
-                    ))}
-                  </div>
+        )}
+
+        {/* Category Pills */}
+        {word.tags && word.tags.length > 0 && (
+          <div className="flex flex-wrap gap-1.5 mt-3">
+            {word.tags.map((tag, i) => (
+              <span key={i} className="text-[10px] font-mono text-sky-300 bg-sky-950/60 px-2.5 py-0.5 rounded-full border border-sky-800/40">
+                {tag}
+              </span>
+            ))}
+          </div>
+        )}
+
+        <p className="text-zinc-300 font-sans text-sm md:text-base leading-relaxed tracking-wide mt-4">
+          <span className="text-zinc-500 font-mono text-xs italic mr-2">def.</span>
+          {word.definition}
+        </p>
+
+        {/* Interactive Synonyms & Antonyms */}
+        {(word.synonyms?.length || word.antonyms?.length) ? (
+          <div className="mt-4 flex flex-col gap-2">
+            {word.synonyms && word.synonyms.length > 0 && (
+              <div className="flex items-center gap-2 flex-wrap">
+                <span className="text-[10px] font-mono text-emerald-400/80 uppercase tracking-widest font-semibold">Synonyms</span>
+                <div className="flex flex-wrap gap-1.5">
+                  {word.synonyms.map((syn, i) => (
+                    <button 
+                      key={i} 
+                      onClick={(e) => handleSynAntClick(e, syn)}
+                      className="text-xs font-mono text-emerald-300 bg-emerald-950/60 hover:bg-emerald-900/80 px-2.5 py-0.5 rounded-full border border-emerald-800/40 transition-colors"
+                    >
+                      {syn}
+                    </button>
+                  ))}
                 </div>
-              )}
-              {word.antonyms && word.antonyms.length > 0 && (
-                <div className="flex items-center gap-2 flex-wrap">
-                  <span className="text-[10px] font-mono text-rose-400/70 uppercase tracking-widest">Ant</span>
-                  <div className="flex flex-wrap gap-1.5">
-                    {word.antonyms.map((ant, i) => (
-                      <span 
-                        key={i} 
-                        onClick={(e) => handleSynAntClick(e, ant)}
-                        className="text-xs text-rose-300 bg-rose-400/10 hover:bg-rose-400/20 px-2 py-0.5 rounded border border-rose-400/20 cursor-pointer transition-colors"
-                      >
-                        {ant}
-                      </span>
-                    ))}
-                  </div>
+              </div>
+            )}
+            {word.antonyms && word.antonyms.length > 0 && (
+              <div className="flex items-center gap-2 flex-wrap">
+                <span className="text-[10px] font-mono text-rose-400/80 uppercase tracking-widest font-semibold">Antonyms</span>
+                <div className="flex flex-wrap gap-1.5">
+                  {word.antonyms.map((ant, i) => (
+                    <button 
+                      key={i} 
+                      onClick={(e) => handleSynAntClick(e, ant)}
+                      className="text-xs font-mono text-rose-300 bg-rose-950/60 hover:bg-rose-900/80 px-2.5 py-0.5 rounded-full border border-rose-800/40 transition-colors"
+                    >
+                      {ant}
+                    </button>
+                  ))}
                 </div>
-              )}
-            </div>
-          ) : null}
-        </div>
+              </div>
+            )}
+          </div>
+        ) : null}
       </div>
 
-      {/* Right Column: Examples */}
-      <div className="md:w-7/12 flex flex-col justify-center gap-6 md:gap-8">
-        {/* English Example */}
-        <div className={`relative pl-6 md:pl-8 border-l transition-colors duration-500 ${isCentered ? 'border-amber-400/30' : 'border-zinc-800 group-hover:border-amber-400/30'}`}>
-          <span className="absolute -left-3 top-0 text-xs font-mono text-blue-300 bg-[#0a0a0a] py-1 px-2 rounded-full border border-blue-400/20 shadow-sm shadow-blue-400/5">EN</span>
-          <p className="text-lg md:text-xl font-serif text-zinc-300 leading-relaxed">
-            "{highlightMatch(word.enExample, word.word)}"
+      {/* Right Column: Dual Context Cards */}
+      <div className="lg:w-7/12 flex flex-col justify-center gap-4">
+        {/* Manuscript Context */}
+        <div className={`relative p-4 rounded-xl bg-zinc-950/80 border transition-all duration-300 ${isCentered ? 'border-sky-500/40' : 'border-zinc-800/80 group-hover:border-sky-500/30'}`}>
+          <div className="flex items-center gap-2 text-sky-300 font-mono text-xs uppercase tracking-wider mb-1 font-semibold">
+            <FileText size={14} />
+            <span>📄 Manuscript / Editorial Context</span>
+          </div>
+          <p className="text-sm md:text-base font-serif text-zinc-200 italic leading-relaxed">
+            "{highlightMatch(word.manuscriptExample, word.word)}"
           </p>
         </div>
         
-        {/* Tamil Example */}
-        <div className={`relative pl-6 md:pl-8 border-l transition-colors duration-500 ${isCentered ? 'border-amber-400/30' : 'border-zinc-800 group-hover:border-amber-400/30'}`}>
-          <span className="absolute -left-3 top-0 text-xs font-mono text-indigo-300 bg-[#0a0a0a] py-1 px-2 rounded-full border border-indigo-400/20 shadow-sm shadow-indigo-400/5">TA</span>
-          <p className="text-base md:text-lg font-tamil text-zinc-400 leading-relaxed font-light">
-            "{highlightMatch(word.taExample, word.taWord)}"
+        {/* Academic Meeting / Conference Context */}
+        <div className={`relative p-4 rounded-xl bg-zinc-950/80 border transition-all duration-300 ${isCentered ? 'border-indigo-500/40' : 'border-zinc-800/80 group-hover:border-indigo-500/30'}`}>
+          <div className="flex items-center gap-2 text-indigo-300 font-mono text-xs uppercase tracking-wider mb-1 font-semibold">
+            <Landmark size={14} />
+            <span>🏛️ Academic Meeting / Conference Context</span>
+          </div>
+          <p className="text-sm md:text-base font-serif text-zinc-200 italic leading-relaxed">
+            "{highlightMatch(word.conferenceExample, word.word)}"
           </p>
         </div>
       </div>

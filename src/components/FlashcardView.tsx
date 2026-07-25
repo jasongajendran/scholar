@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
-import { Volume2, Bookmark, Shuffle, RotateCcw, ChevronLeft, ChevronRight, Sparkles, HelpCircle, CheckCircle2 } from 'lucide-react';
+import { Volume2, Bookmark, Shuffle, RotateCcw, ChevronLeft, ChevronRight, Sparkles, HelpCircle, CheckCircle2, FileText, Landmark } from 'lucide-react';
 import { LexiconWord } from '../types';
 import { speakWord } from '../utils/speech';
 
@@ -30,12 +30,12 @@ export function FlashcardView({
   if (!deck || deck.length === 0) {
     return (
       <div className="flex flex-col items-center justify-center h-[60vh] text-center px-6">
-        <div className="w-16 h-16 rounded-full bg-zinc-900 border border-zinc-800 flex items-center justify-center mb-4 text-amber-400">
+        <div className="w-16 h-16 rounded-full bg-zinc-900 border border-zinc-800 flex items-center justify-center mb-4 text-emerald-400">
           <HelpCircle size={28} />
         </div>
         <h3 className="text-2xl font-serif italic text-zinc-200 mb-2">No Flashcards Available</h3>
         <p className="text-zinc-500 font-sans text-sm max-w-sm">
-          Select a different letter or filter to populate the flashcard study deck.
+          Select a different category or letter to populate the study deck.
         </p>
       </div>
     );
@@ -104,14 +104,14 @@ export function FlashcardView({
       <div className="w-full flex items-center justify-between mb-6">
         <div>
           <span className="text-xs font-mono text-zinc-500 uppercase tracking-widest block">
-            Interactive Deck
+            Scholar Study Deck
           </span>
           <div className="flex items-center gap-2 mt-0.5">
-            <span className="text-sm font-mono text-amber-400 font-medium">
+            <span className="text-sm font-mono text-emerald-400 font-medium">
               {currentIndex + 1} / {deck.length}
             </span>
             {masteredIds.length > 0 && (
-              <span className="text-[11px] font-mono text-emerald-400 bg-emerald-400/10 px-2 py-0.5 rounded-full border border-emerald-400/20">
+              <span className="text-[11px] font-mono text-emerald-400 bg-emerald-950/60 px-2 py-0.5 rounded-full border border-emerald-800/40">
                 {masteredIds.length} Mastered
               </span>
             )}
@@ -121,7 +121,7 @@ export function FlashcardView({
         <div className="flex items-center gap-2">
           <button
             onClick={handleShuffle}
-            className="p-2.5 rounded-xl bg-zinc-900/80 border border-zinc-800 text-zinc-400 hover:text-amber-400 active:scale-95 transition-all flex items-center gap-1.5 text-xs font-mono"
+            className="p-2.5 rounded-xl bg-zinc-900/80 border border-zinc-800 text-zinc-400 hover:text-emerald-400 active:scale-95 transition-all flex items-center gap-1.5 text-xs font-mono"
             title="Shuffle Deck"
           >
             <Shuffle size={15} />
@@ -143,14 +143,14 @@ export function FlashcardView({
       {/* Progress Bar */}
       <div className="w-full h-1 bg-zinc-800 rounded-full overflow-hidden mb-8">
         <motion.div
-          className="h-full bg-amber-400"
+          className="h-full bg-emerald-400"
           animate={{ width: `${((currentIndex + 1) / deck.length) * 100}%` }}
           transition={{ duration: 0.3 }}
         />
       </div>
 
       {/* 3D Flip Card Container */}
-      <div className="w-full relative aspect-[4/5] sm:aspect-[16/11] perspective-1000 my-auto cursor-pointer">
+      <div className="w-full relative min-h-[400px] perspective-1000 my-auto cursor-pointer">
         <AnimatePresence mode="wait" custom={direction}>
           <motion.div
             key={currentWord.id}
@@ -176,18 +176,25 @@ export function FlashcardView({
                   transform: 'rotateY(0deg)',
                   visibility: isFlipped ? 'hidden' : 'visible'
                 }}
-                className={`absolute inset-0 w-full h-full rounded-3xl p-6 sm:p-8 flex flex-col justify-between shadow-2xl bg-[#121216] border border-zinc-800 text-zinc-100 transition-all duration-200 ${
+                className={`absolute inset-0 w-full min-h-[400px] rounded-3xl p-6 sm:p-8 flex flex-col justify-between shadow-2xl bg-[#121216] border border-zinc-800 text-zinc-100 transition-all duration-200 ${
                   isFlipped ? 'opacity-0 pointer-events-none' : 'opacity-100 pointer-events-auto'
                 }`}
               >
                 {/* Ambient Background Glow */}
-                <div className="absolute -top-20 -right-20 w-40 h-40 bg-amber-400/10 rounded-full blur-3xl pointer-events-none" />
+                <div className="absolute -top-20 -right-20 w-40 h-40 bg-emerald-500/10 rounded-full blur-3xl pointer-events-none" />
 
-                {/* Card Top Actions */}
-                <div className="flex items-center justify-between z-10">
-                  <span className="text-xs font-mono text-zinc-400 bg-zinc-800/90 px-3 py-1 rounded-full border border-zinc-700/60 uppercase tracking-widest">
-                    {currentWord.pos}
-                  </span>
+                {/* Card Top Actions & Badges */}
+                <div className="flex items-center justify-between z-10 flex-wrap gap-2">
+                  <div className="flex items-center gap-1.5 flex-wrap">
+                    <span className="text-xs font-mono text-purple-300 bg-purple-950/60 px-3 py-1 rounded-full border border-purple-800/40 uppercase tracking-widest font-medium">
+                      {currentWord.pos}
+                    </span>
+                    {currentWord.tags && currentWord.tags.map((tag, i) => (
+                      <span key={i} className="text-xs font-mono text-sky-300 bg-sky-950/60 px-2.5 py-1 rounded-full border border-sky-800/40">
+                        {tag}
+                      </span>
+                    ))}
+                  </div>
 
                   <div className="flex items-center gap-2">
                     <button
@@ -217,7 +224,7 @@ export function FlashcardView({
                     </button>
                     <button
                       onClick={handleSpeak}
-                      className="p-2 rounded-full bg-amber-400/15 text-amber-400 hover:bg-amber-400/25 active:scale-95 transition-all"
+                      className="p-2 rounded-full bg-emerald-500/15 text-emerald-400 hover:bg-emerald-500/25 active:scale-95 transition-all"
                       title="Pronounce"
                     >
                       <Volume2 size={18} />
@@ -226,23 +233,25 @@ export function FlashcardView({
                 </div>
 
                 {/* Front Side Body */}
-                <div className="my-auto flex flex-col items-center text-center z-10 py-6">
-                  <h2 className="text-4xl sm:text-5xl font-serif font-semibold text-zinc-50 mb-3 tracking-tight">
+                <div className="my-auto flex flex-col items-center text-center z-10 py-8">
+                  <h2 className="text-4xl sm:text-5xl font-serif font-semibold text-zinc-50 mb-3 tracking-tight italic">
                     {currentWord.word}
                   </h2>
-                  <p className="text-lg font-tamil text-amber-400 font-medium mb-3">
-                    {currentWord.taWord}
-                  </p>
-                  <div className="w-12 h-0.5 bg-amber-400/50 rounded-full my-3" />
+                  {currentWord.pronunciation && (
+                    <p className="text-sm font-mono text-emerald-400/90 mb-3">
+                      {currentWord.pronunciation}
+                    </p>
+                  )}
+                  <div className="w-12 h-0.5 bg-emerald-400/50 rounded-full my-3" />
                   <p className="text-xs font-mono text-zinc-400 tracking-widest uppercase">
-                    Tap card to reveal definition
+                    Tap card to reveal definition & publication context
                   </p>
                 </div>
 
                 {/* Front Footer */}
                 <div className="flex items-center justify-between text-xs font-mono text-zinc-500 border-t border-zinc-800/80 pt-4 z-10">
-                  <span className="flex items-center gap-1 text-[11px]">
-                    <Sparkles size={12} className="text-amber-400" />
+                  <span className="flex items-center gap-1 text-[11px] text-emerald-400">
+                    <Sparkles size={12} />
                     Tap to Flip
                   </span>
                   <span className="text-[11px]">Swipe or use arrows</span>
@@ -257,22 +266,22 @@ export function FlashcardView({
                   transform: 'rotateY(180deg)',
                   visibility: isFlipped ? 'visible' : 'hidden'
                 }}
-                className={`absolute inset-0 w-full h-full rounded-3xl p-6 sm:p-8 flex flex-col justify-between shadow-2xl bg-[#181822] border border-amber-400/50 text-zinc-100 transition-all duration-200 ${
+                className={`absolute inset-0 w-full min-h-[400px] rounded-3xl p-6 sm:p-8 flex flex-col justify-between shadow-2xl bg-[#141820] border border-emerald-500/40 text-zinc-100 transition-all duration-200 ${
                   isFlipped ? 'opacity-100 pointer-events-auto' : 'opacity-0 pointer-events-none'
                 }`}
               >
                 {/* Ambient Background Glow */}
-                <div className="absolute -bottom-20 -left-20 w-40 h-40 bg-amber-400/10 rounded-full blur-3xl pointer-events-none" />
+                <div className="absolute -bottom-20 -left-20 w-40 h-40 bg-emerald-500/10 rounded-full blur-3xl pointer-events-none" />
 
                 {/* Top Actions on Back */}
                 <div className="flex items-center justify-between z-10">
-                  <span className="text-xs font-mono text-amber-400 bg-amber-400/10 px-3 py-1 rounded-full border border-amber-400/20 uppercase tracking-widest font-medium">
-                    Answer / Definition
+                  <span className="text-xs font-mono text-emerald-400 bg-emerald-950/60 px-3 py-1 rounded-full border border-emerald-800/40 uppercase tracking-widest font-medium">
+                    Publication Definition
                   </span>
                   <div className="flex items-center gap-2">
                     <button
                       onClick={handleSpeak}
-                      className="p-2 rounded-full bg-amber-400/15 text-amber-400 hover:bg-amber-400/25 active:scale-95 transition-all"
+                      className="p-2 rounded-full bg-emerald-500/15 text-emerald-400 hover:bg-emerald-500/25 active:scale-95 transition-all"
                       title="Pronounce"
                     >
                       <Volume2 size={18} />
@@ -283,8 +292,8 @@ export function FlashcardView({
                 {/* Back Side Body */}
                 <div className="my-auto flex flex-col z-10 space-y-3 py-2">
                   <div>
-                    <h3 className="text-2xl font-serif text-amber-300 font-semibold">
-                      {currentWord.word} <span className="text-sm font-tamil text-zinc-300 font-normal">({currentWord.taWord})</span>
+                    <h3 className="text-2xl font-serif text-emerald-300 font-semibold italic">
+                      {currentWord.word}
                     </h3>
                   </div>
 
@@ -292,27 +301,38 @@ export function FlashcardView({
                     <span className="text-[10px] font-mono text-zinc-400 uppercase tracking-widest block mb-1">
                       Definition
                     </span>
-                    <p className="text-xs sm:text-sm font-sans text-zinc-100 leading-relaxed font-normal">
+                    <p className="text-xs sm:text-sm font-sans text-zinc-100 leading-relaxed">
                       {currentWord.definition}
                     </p>
                   </div>
 
-                  <div className="p-3 rounded-xl bg-zinc-950 border border-zinc-800">
-                    <span className="text-[10px] font-mono text-amber-400 uppercase tracking-widest block mb-0.5 font-medium">
-                      Context Example
-                    </span>
-                    <p className="text-xs font-serif text-zinc-200">
-                      "{currentWord.enExample}"
-                    </p>
-                    <p className="text-xs font-tamil text-zinc-300 mt-1">
-                      "{currentWord.taExample}"
-                    </p>
+                  {/* Dual Context */}
+                  <div className="space-y-2">
+                    <div className="p-3 rounded-xl bg-zinc-950/80 border border-sky-900/40">
+                      <div className="flex items-center gap-1.5 text-sky-300 font-mono text-[10px] uppercase font-semibold">
+                        <FileText size={12} />
+                        <span>Manuscript Context</span>
+                      </div>
+                      <p className="text-xs font-serif italic text-zinc-200 mt-1">
+                        "{currentWord.manuscriptExample}"
+                      </p>
+                    </div>
+
+                    <div className="p-3 rounded-xl bg-zinc-950/80 border border-indigo-900/40">
+                      <div className="flex items-center gap-1.5 text-indigo-300 font-mono text-[10px] uppercase font-semibold">
+                        <Landmark size={12} />
+                        <span>Conference Context</span>
+                      </div>
+                      <p className="text-xs font-serif italic text-zinc-200 mt-1">
+                        "{currentWord.conferenceExample}"
+                      </p>
+                    </div>
                   </div>
                 </div>
 
                 {/* Back Footer */}
                 <div className="flex items-center justify-between text-xs font-mono text-zinc-500 border-t border-zinc-800/80 pt-4 z-10">
-                  <span className="flex items-center gap-1 text-[11px] text-amber-400">
+                  <span className="flex items-center gap-1 text-[11px] text-emerald-400">
                     <Sparkles size={12} />
                     Answer Revealed
                   </span>
@@ -328,7 +348,7 @@ export function FlashcardView({
       <div className="flex items-center justify-center gap-6 mt-8 w-full">
         <button
           onClick={handlePrev}
-          className="w-14 h-14 rounded-full bg-zinc-900 border border-zinc-800 text-zinc-300 hover:text-white hover:border-amber-400/50 active:scale-90 transition-all flex items-center justify-center shadow-lg"
+          className="w-14 h-14 rounded-full bg-zinc-900 border border-zinc-800 text-zinc-300 hover:text-white hover:border-emerald-400/50 active:scale-90 transition-all flex items-center justify-center shadow-lg"
           aria-label="Previous card"
         >
           <ChevronLeft size={24} />
@@ -336,14 +356,14 @@ export function FlashcardView({
 
         <button
           onClick={handleFlip}
-          className="px-6 py-3.5 rounded-full bg-amber-400 text-black font-mono text-xs uppercase tracking-wider font-semibold active:scale-95 transition-all shadow-lg shadow-amber-400/10 flex items-center gap-2"
+          className="px-6 py-3.5 rounded-full bg-emerald-500 text-black font-mono text-xs uppercase tracking-wider font-semibold active:scale-95 transition-all shadow-lg shadow-emerald-500/10 flex items-center gap-2"
         >
           <span>{isFlipped ? 'Show Front' : 'Flip Card'}</span>
         </button>
 
         <button
           onClick={handleNext}
-          className="w-14 h-14 rounded-full bg-zinc-900 border border-zinc-800 text-zinc-300 hover:text-white hover:border-amber-400/50 active:scale-90 transition-all flex items-center justify-center shadow-lg"
+          className="w-14 h-14 rounded-full bg-zinc-900 border border-zinc-800 text-zinc-300 hover:text-white hover:border-emerald-400/50 active:scale-90 transition-all flex items-center justify-center shadow-lg"
           aria-label="Next card"
         >
           <ChevronRight size={24} />

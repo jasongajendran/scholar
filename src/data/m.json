@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1301,
+    "word": "Methodological",
+    "pos": "adj.",
+    "pronunciation": "/ˌmeθ.ə.dəˈlɒdʒ.ɪ.kəl/",
+    "definition": "Pertaining to the systematic, orderly procedure or design applied in scientific inquiry.",
+    "etymology": "From New Latin methodologicus, from Ancient Greek μέθοδος (méthodos).",
+    "manuscriptExample": "Detailed methodological parameters regarding mass spectrometry gradient profiles are provided in Supplementary Methods.",
+    "conferenceExample": "Reviewer 1 raised a valid methodological concern regarding baseline peptide concentration.",
+    "tags": ["Manuscript Editing", "Peer Review"],
+    "synonyms": ["Systematic", "Procedural", "Analytical", "Structured"],
+    "antonyms": ["Haphazard", "Arbitrary", "Chaotic"]
+  },
+  {
+    "id": 1302,
+    "word": "Modulation",
+    "pos": "noun",
+    "pronunciation": "/ˌmɒd.jəˈleɪ.ʃən/",
+    "definition": "The regulatory adjustment or alteration of biological activity, gene transcription, or signaling pathways.",
+    "etymology": "From Latin modulatio ('rhythmic measure').",
+    "manuscriptExample": "Allosteric modulation of receptor X led to a three-fold increase in downstream cAMP accumulation.",
+    "conferenceExample": "We addressed whether genetic knockouts resulted in compensatory modulation of related kinase isoforms.",
+    "tags": ["Life Sciences", "Peer Review"],
+    "synonyms": ["Regulation", "Tuning", "Alteration", "Adjustment"],
+    "antonyms": ["Fixation", "Stagnation", "Static level"]
+  }
+]

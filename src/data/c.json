@@ -1,0 +1,41 @@
+[
+  {
+    "id": 301,
+    "word": "Caveat",
+    "pos": "noun",
+    "pronunciation": "/ˈkæv.i.æt/",
+    "definition": "A warning, limitation, or qualifying statement attached to a scientific claim or experimental interpretation.",
+    "etymology": "From Latin caveat ('let him beware').",
+    "manuscriptExample": "A notable caveat of this organoid model is the absence of a vascularized stromal microenvironment.",
+    "conferenceExample": "During the editorial meeting, we emphasized this caveat so the authors do not overstate their clinical findings.",
+    "tags": ["Peer Review", "Editorial Meetings"],
+    "synonyms": ["Qualification", "Limitation", "Proviso", "Reservation"],
+    "antonyms": ["Guarantee", "Certainty", "Endorsement"]
+  },
+  {
+    "id": 302,
+    "word": "Corroborate",
+    "pos": "verb",
+    "pronunciation": "/kəˈrɒb.ə.reɪt/",
+    "definition": "To confirm, support, or give additional authority to a dataset using independent evidence.",
+    "etymology": "From Latin corroboratus, past participle of corroborare ('to strengthen').",
+    "manuscriptExample": "Orthogonal qPCR analysis corroborated the micro-RNA microarray findings across all primary biopsies.",
+    "conferenceExample": "The external referee requested additional mass spectrometry assays to corroborate co-immunoprecipitation results.",
+    "tags": ["Peer Review", "Life Sciences"],
+    "synonyms": ["Substantiate", "Confirm", "Validate", "Authenticate"],
+    "antonyms": ["Refute", "Contradict", "Disprove"]
+  },
+  {
+    "id": 303,
+    "word": "Concomitant",
+    "pos": "adj.",
+    "pronunciation": "/kənˈkɒm.ɪ.tənt/",
+    "definition": "Naturally accompanying, co-occurring, or associated with another physiological event.",
+    "etymology": "From Late Latin concomitans, present participle of concomitari ('to accompany').",
+    "manuscriptExample": "Inhibition of CDK4/6 induced senescence with a concomitant reduction in phosphorylated Rb protein levels.",
+    "conferenceExample": "We discussed whether the concomitant spike in liver enzymes was drug-induced or vehicle-related.",
+    "tags": ["Life Sciences", "Manuscript Editing"],
+    "synonyms": ["Concurrent", "Simultaneous", "Co-occurring"],
+    "antonyms": ["Independent", "Sequential", "Unrelated"]
+  }
+]

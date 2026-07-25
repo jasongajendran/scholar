@@ -1,0 +1,28 @@
+[
+  {
+    "id": 801,
+    "word": "Heterogeneity",
+    "pos": "noun",
+    "pronunciation": "/ˌhet.ər.oʊ.dʒəˈniː.ə.ti/",
+    "definition": "The quality or state of being diverse in character, cellular state, or gene expression within a population.",
+    "etymology": "From Ancient Greek ἑτερογενής (heterogenḗs, 'of different kinds').",
+    "manuscriptExample": "Single-cell RNA sequencing unveiled extensive transcriptional heterogeneity in the tumor microenvironment.",
+    "conferenceExample": "Reviewers noted that tumor heterogeneity might account for divergent patient responses in the clinical trial.",
+    "tags": ["Life Sciences", "Peer Review"],
+    "synonyms": ["Diversity", "Variance", "Multiformity", "Disparity"],
+    "antonyms": ["Homogeneity", "Uniformity", "Sameness"]
+  },
+  {
+    "id": 802,
+    "word": "Histology",
+    "pos": "noun",
+    "pronunciation": "/hɪˈstɒl.ə.dʒi/",
+    "definition": "The microscopic study of tissue structures, cellular organization, and pathological alterations.",
+    "etymology": "From Ancient Greek ἱστός (histós, 'web, tissue') + -logy.",
+    "manuscriptExample": "Histology sections stained with hematoxylin and eosin demonstrated severe necrotic lesion clearance.",
+    "conferenceExample": "The pathologist on our review board confirmed that blind histology scoring verified the treatment effect.",
+    "tags": ["Life Sciences", "Manuscript Editing"],
+    "synonyms": ["Micro-anatomy", "Tissue architecture"],
+    "antonyms": ["Gross anatomy"]
+  }
+]

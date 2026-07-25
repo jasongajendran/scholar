@@ -1,0 +1,28 @@
+[
+  {
+    "id": 2601,
+    "word": "Z-stack",
+    "pos": "noun",
+    "pronunciation": "/ˈziː.stæk/",
+    "definition": "A series of 2D optical confocal images taken at sequential focal planes along the vertical axis to reconstruct a 3D volume.",
+    "etymology": "From Z (depth axis) + stack.",
+    "manuscriptExample": "Confocal Z-stack imaging confirmed intracellular internalization of fluorescently labeled nanoparticles.",
+    "conferenceExample": "The reviewer commended the inclusion of maximum intensity projection renderings generated from 40-micron Z-stacks.",
+    "tags": ["Life Sciences", "Peer Review"],
+    "synonyms": ["3D optical sectioning", "Focal plane series"],
+    "antonyms": ["Single 2D plane"]
+  },
+  {
+    "id": 2602,
+    "word": "Zymography",
+    "pos": "noun",
+    "pronunciation": "/zaɪˈmɒɡ.rə.fi/",
+    "definition": "An electrophoretic technique for detecting hydrolytic enzyme activity using substrate-impregnated gels.",
+    "etymology": "From Ancient Greek ζύμη (zúmē, 'leaven') + -graphy.",
+    "manuscriptExample": "Gelatin zymography revealed elevated MMP-2 and MMP-9 enzymatic cleavage in conditioned media.",
+    "conferenceExample": "Reviewer 1 requested gel zymography quantification alongside Western blotting to verify protease secretion.",
+    "tags": ["Life Sciences", "Peer Review"],
+    "synonyms": ["Substrate gel electrophoresis", "Enzymatic assay"],
+    "antonyms": ["Static protein blot"]
+  }
+]

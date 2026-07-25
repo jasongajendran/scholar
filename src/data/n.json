@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1401,
+    "word": "Nascent",
+    "pos": "adj.",
+    "pronunciation": "/ˈnæs.ənt/",
+    "definition": "Just coming into existence and displaying early signs of functional development or RNA transcription.",
+    "etymology": "From Latin nascens, present participle of nasci ('to be born').",
+    "manuscriptExample": "Nascent RNA sequencing (PRO-seq) captured immediate transcriptional responses following heat shock induction.",
+    "conferenceExample": "The referee requested metabolic labeling assays to specifically quantify nascent protein synthesis.",
+    "tags": ["Life Sciences", "Peer Review"],
+    "synonyms": ["Incipient", "Emerging", "Formative", "Developing"],
+    "antonyms": ["Mature", "Degraded", "Terminated"]
+  },
+  {
+    "id": 1402,
+    "word": "Normalization",
+    "pos": "noun",
+    "pronunciation": "/ˌnɔː.mə.laɪˈzeɪ.ʃən/",
+    "definition": "The process of adjusting raw experimental measurements against baseline standards or internal housekeeping controls.",
+    "etymology": "From normal + -ization.",
+    "manuscriptExample": "Quantification of qPCR signal required double normalization against GAPDH and beta-actin housekeeping transcripts.",
+    "conferenceExample": "The handling editor requested clarification regarding total protein normalization across Western blot lanes.",
+    "tags": ["Peer Review", "Manuscript Editing"],
+    "synonyms": ["Standardization", "Calibration", "Scaling", "Adjustment"],
+    "antonyms": ["Raw count", "Uncalibrated measurement"]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 2401,
+    "word": "Xenograft",
+    "pos": "noun",
+    "pronunciation": "/ˈzen.ə.ɡræft/",
+    "definition": "A tissue graft or tumor cell transplant derived from a species different from the recipient animal host.",
+    "etymology": "From Ancient Greek ξένος (xénos, 'foreign, stranger') + graft.",
+    "manuscriptExample": "Patient-derived xenograft (PDX) mouse models preserved the histological architecture and clonal diversity of primary tumors.",
+    "conferenceExample": "The associate editor inquired whether in vivo antitumor efficacy was evaluated in orthotopic xenograft models.",
+    "tags": ["Life Sciences", "Peer Review"],
+    "synonyms": ["Heterograft", "Cross-species transplant"],
+    "antonyms": ["Allograft", "Isograft", "Autograft"]
+  },
+  {
+    "id": 2402,
+    "word": "Xenobiotic",
+    "pos": "noun",
+    "pronunciation": "/ˌzen.oʊ.baɪˈɒt.ɪk/",
+    "definition": "A chemical compound or drug that is foreign to a living organism or biological system.",
+    "etymology": "From Ancient Greek ξένος (xénos, 'foreign') + βίος (bíos, 'life').",
+    "manuscriptExample": "Cytochrome P450 monooxygenases mediate the primary oxidative metabolism of foreign xenobiotics in hepatic tissue.",
+    "conferenceExample": "We addressed Reviewer 1's questions regarding intracellular xenobiotic accumulation rates.",
+    "tags": ["Life Sciences", "Manuscript Editing"],
+    "synonyms": ["Foreign compound", "Exogenous substance"],
+    "antonyms": ["Endogenous metabolite"]
+  }
+]

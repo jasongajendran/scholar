@@ -1,0 +1,28 @@
+[
+  {
+    "id": 2201,
+    "word": "Veracity",
+    "pos": "noun",
+    "pronunciation": "/vəˈræs.ə.ti/",
+    "definition": "Truthfulness, accuracy, and rigorous fidelity to raw scientific data and ethical publishing standards.",
+    "etymology": "From French véracité, from Medieval Latin veracitas.",
+    "manuscriptExample": "Raw uncropped gel images were submitted to the repository to confirm the veracity of all immunoblot bands.",
+    "conferenceExample": "Journal integrity officers audited microplate readings to verify the veracity of reported luminescence values.",
+    "tags": ["Editorial Meetings", "Manuscript Editing"],
+    "synonyms": ["Accuracy", "Truthfulness", "Fidelity", "Authenticity"],
+    "antonyms": ["Falsity", "Inaccuracy", "Fabrication"]
+  },
+  {
+    "id": 2202,
+    "word": "Viability",
+    "pos": "noun",
+    "pronunciation": "/ˌvaɪ.əˈbɪl.ə.ti/",
+    "definition": "The capacity of living cells or organisms to maintain metabolism, grow, or survive in culture.",
+    "etymology": "From French viabilité, from viable ('capable of life').",
+    "manuscriptExample": "Cell viability was evaluated at 24, 48, and 72 hours post-transfection using automated trypan blue exclusion.",
+    "conferenceExample": "Reviewers questioned whether decreased cell viability accounted for the reduction in secreted cytokine levels.",
+    "tags": ["Life Sciences", "Peer Review"],
+    "synonyms": ["Survivability", "Vitality", "Feasibility"],
+    "antonyms": ["Mortality", "Lethality", "Necrosis"]
+  }
+]

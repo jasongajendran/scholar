@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1201,
+    "word": "Lineage",
+    "pos": "noun",
+    "pronunciation": "/ˈlɪn.i.ɪdʒ/",
+    "definition": "The direct line of cell division or evolutionary descent linking a progenitor stem cell to its specialized progeny.",
+    "etymology": "From Old French lignage, from ligne ('line').",
+    "manuscriptExample": "Single-cell lineage tracing mapped embryonic neural crest cell migration into peripheral autonomic ganglia.",
+    "conferenceExample": "The reviewer commended the manuscript for validating lineage commitment markers across multiple differentiation stages.",
+    "tags": ["Life Sciences", "Manuscript Editing"],
+    "synonyms": ["Pedigree", "Ancestry", "Derivation", "Progeniture"],
+    "antonyms": ["Unrelated pool", "Admixture"]
+  },
+  {
+    "id": 1202,
+    "word": "Luminescence",
+    "pos": "noun",
+    "pronunciation": "/ˌluː.mɪˈnes.əns/",
+    "definition": "Light emission from a chemical or enzymatic reaction not resulting from heat, widely used in reporter gene assays.",
+    "etymology": "From Latin lumen ('light') + -escence.",
+    "manuscriptExample": "Bioluminescence signal intensity was monitored in real-time using a CCD camera imaging chamber.",
+    "conferenceExample": "The section editor asked for vehicle luminescence baselines to verify signal specificity.",
+    "tags": ["Life Sciences", "Peer Review"],
+    "synonyms": ["Fluorescence", "Phosphorescence", "Chemiluminescence"],
+    "antonyms": ["Darkness", "Absorbance"]
+  }
+]

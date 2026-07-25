@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1701,
+    "word": "Quantification",
+    "pos": "noun",
+    "pronunciation": "/ˌkwɒn.tɪ.fɪˈkeɪ.ʃən/",
+    "definition": "The act of giving numerical or statistical form to biological measurements, intensity signals, or cell counts.",
+    "etymology": "From Latin quantus ('how much') + facere ('to make').",
+    "manuscriptExample": "Densitometric quantification of Western blot bands was performed across four biological replicates.",
+    "conferenceExample": "The referee required robust automated image quantification rather than manual spot counting.",
+    "tags": ["Life Sciences", "Peer Review"],
+    "synonyms": ["Measurement", "Estimation", "Enumeration", "Rating"],
+    "antonyms": ["Qualitative description", "Subjective impression"]
+  },
+  {
+    "id": 1702,
+    "word": "Quench",
+    "pos": "verb",
+    "pronunciation": "/kwentʃ/",
+    "definition": "To suppress, extinguish, or decrease fluorescence intensity or enzymatic activity rapidly during a assay.",
+    "etymology": "From Middle English quenchen, from Old English cwencan.",
+    "manuscriptExample": "Extracellular fluorescence was quenched using trypan blue prior to microplate reader analysis.",
+    "conferenceExample": "Reviewer 3 queried whether auto-fluorescence background was adequately quenched in tissue sections.",
+    "tags": ["Life Sciences", "Peer Review"],
+    "synonyms": ["Suppress", "Extinguish", "Dampen", "Neutralize"],
+    "antonyms": ["Excite", "Amplify", "Enhance"]
+  }
+]

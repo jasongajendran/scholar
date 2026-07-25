@@ -1,0 +1,41 @@
+[
+  {
+    "id": 101,
+    "word": "Anomaly",
+    "pos": "noun",
+    "pronunciation": "/əˈnɒm.ə.li/",
+    "definition": "A deviation from expected theoretical rules, standard physiological baselines, or general control outcomes.",
+    "etymology": "From Ancient Greek ἀνωμαλία (anōmalía, 'irregularity').",
+    "manuscriptExample": "The outlier point in batch 3 was flagged as a technical anomaly caused by a pipette calibration error.",
+    "conferenceExample": "The reviewer asked whether the transient temperature spike represented a biological anomaly or equipment drift.",
+    "tags": ["Life Sciences", "Peer Review"],
+    "synonyms": ["Aberration", "Irregularity", "Deviance", "Outlier"],
+    "antonyms": ["Norm", "Standard", "Regularity"]
+  },
+  {
+    "id": 102,
+    "word": "Attenuate",
+    "pos": "verb",
+    "pronunciation": "/əˈten.ju.eɪt/",
+    "definition": "To reduce the force, intensity, virulence, or amplitude of a biological signal or response.",
+    "etymology": "From Latin attenuatus, past participle of attenuare ('to make thin, diminish').",
+    "manuscriptExample": "Pre-treatment with the antioxidant compound significantly attenuated ROS-induced apoptotic signaling.",
+    "conferenceExample": "Reviewers asked whether siRNA knockdowns attenuated target protein levels by at least 80%.",
+    "tags": ["Life Sciences", "Peer Review"],
+    "synonyms": ["Diminish", "Dampen", "Mitigate", "Weaken"],
+    "antonyms": ["Exacerbate", "Amplify", "Enhance"]
+  },
+  {
+    "id": 103,
+    "word": "Assay",
+    "pos": "noun",
+    "pronunciation": "/ˈæs.eɪ/",
+    "definition": "An investigative procedure in laboratory medicine or biological research for measuring the presence or amount of a substance.",
+    "etymology": "From Old French essai ('trial, attempt').",
+    "manuscriptExample": "A luminescent ATP cell viability assay was deployed to assess drug toxicity across 12 somatic cell lines.",
+    "conferenceExample": "The committee inquired whether an orthogonal enzymatic assay was performed to confirm binding.",
+    "tags": ["Life Sciences", "Manuscript Editing"],
+    "synonyms": ["Analysis", "Evaluation", "Test", "Screen"],
+    "antonyms": ["Conjecture", "Guess"]
+  }
+]

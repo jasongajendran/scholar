@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1101,
+    "word": "Kinetics",
+    "pos": "noun",
+    "pronunciation": "/kɪˈnet.ɪks/",
+    "definition": "The rate of chemical or biochemical reactions and the specific mechanisms governing ligand-receptor association and dissociation.",
+    "etymology": "From Ancient Greek κινητικός (kinētikós, 'moving, put in motion').",
+    "manuscriptExample": "Surface plasmon resonance (SPR) assays established rapid association kinetics alongside an exceptionally slow off-rate.",
+    "conferenceExample": "Reviewer 2 queried whether temperature shifts altered enzymatic cleavage kinetics in cell-free systems.",
+    "tags": ["Life Sciences", "Peer Review"],
+    "synonyms": ["Reaction rate", "Dynamics", "Velocity"],
+    "antonyms": ["Statics", "Thermodynamic equilibrium"]
+  },
+  {
+    "id": 1102,
+    "word": "Knockdown",
+    "pos": "noun",
+    "pronunciation": "/ˈnɒk.daʊn/",
+    "definition": "An experimental technique that transiently reduces gene expression without complete genetic deletion.",
+    "etymology": "From knock + down.",
+    "manuscriptExample": "siRNA-mediated knockdown of GAPDH reduced transcript levels by 85% compared to non-targeting controls.",
+    "conferenceExample": "We performed Western blot verification 48 hours post-transfection to confirm sustained protein knockdown.",
+    "tags": ["Life Sciences", "Peer Review"],
+    "synonyms": ["Silencing", "Attenuated expression", "Depletion"],
+    "antonyms": ["Overexpression", "Knockin", "Upregulation"]
+  }
+]

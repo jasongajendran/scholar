@@ -1,0 +1,28 @@
+[
+  {
+    "id": 2501,
+    "word": "Yield",
+    "pos": "noun",
+    "pronunciation": "/jiːld/",
+    "definition": "The quantity of purified protein, nucleic acid, or chemical product obtained from a extraction or reaction protocol.",
+    "etymology": "From Old English gieldan ('to pay, produce').",
+    "manuscriptExample": "Optimization of cell lysis buffers increased recombinant protein yield by 2.5-fold without compromising purity.",
+    "conferenceExample": "The referee noted that RNA extraction yield was exceptionally high for degraded formalin-fixed tissue.",
+    "tags": ["Life Sciences", "Peer Review"],
+    "synonyms": ["Output", "Recovery", "Productivity", "Quantity"],
+    "antonyms": ["Loss", "Depletion", "Wastage"]
+  },
+  {
+    "id": 2502,
+    "word": "Y-axis",
+    "pos": "noun",
+    "pronunciation": "/ˈwaɪ.æk.sɪs/",
+    "definition": "The vertical coordinate axis in a scatter plot or bar chart, typically representing the dependent variable in data visualization.",
+    "etymology": "From Y + axis.",
+    "manuscriptExample": "The Y-axis represents fold-change in relative mRNA luminescence normalized to vehicle control.",
+    "conferenceExample": "Reviewer 3 requested logarithmic scaling on the Y-axis to clearly display low-abundance transcript values.",
+    "tags": ["Manuscript Editing", "Peer Review"],
+    "synonyms": ["Vertical axis", "Ordinate"],
+    "antonyms": ["X-axis", "Abscissa"]
+  }
+]

@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
-import { Volume2, Copy, Check, Bookmark, X, Share2, Sparkles, BookOpen, Globe } from 'lucide-react';
+import { Volume2, Copy, Check, Bookmark, X, Share2, Sparkles, BookOpen, FileText, Landmark, Compass } from 'lucide-react';
 import { LexiconWord } from '../types';
 import { speakWord } from '../utils/speech';
 
@@ -49,7 +49,9 @@ export function WordDetailModal({
 
   const handleCopy = () => {
     triggerHaptic();
-    navigator.clipboard.writeText(`${word.word} (${word.taWord})\nDef: ${word.definition}\nEN Example: ${word.enExample}\nTA Example: ${word.taExample}`);
+    navigator.clipboard.writeText(
+      `${word.word} (${word.pos})\nDef: ${word.definition}\nManuscript Context: ${word.manuscriptExample}\nConference Context: ${word.conferenceExample}`
+    );
     setCopied(true);
     setTimeout(() => setCopied(false), 2000);
   };
@@ -59,8 +61,8 @@ export function WordDetailModal({
     if (navigator.share) {
       try {
         await navigator.share({
-          title: `Engineer Lexicon: ${word.word}`,
-          text: `${word.word} - ${word.definition} (${word.taWord})`,
+          title: `Scholar Lexicon: ${word.word}`,
+          text: `${word.word} - ${word.definition}`,
           url: window.location.href,
         });
       } catch (e) {
@@ -98,20 +100,24 @@ export function WordDetailModal({
             animate={{ y: 0, opacity: 1 }}
             exit={{ y: '100%', opacity: 0 }}
             transition={{ type: 'spring', damping: 25, stiffness: 300 }}
-            className="relative w-full max-w-xl max-h-[90vh] overflow-y-auto bg-[#121215] border border-zinc-800 rounded-t-3xl sm:rounded-3xl p-6 sm:p-8 shadow-2xl z-10 flex flex-col no-scrollbar"
+            className="relative w-full max-w-xl max-h-[90vh] overflow-y-auto bg-[#121216] border border-zinc-800 rounded-t-3xl sm:rounded-3xl p-6 sm:p-8 shadow-2xl z-10 flex flex-col no-scrollbar"
           >
             {/* Drag Handle for Mobile */}
             <div className="w-12 h-1.5 bg-zinc-700/60 rounded-full mx-auto mb-6 sm:hidden shrink-0" />
 
-            {/* Top Bar */}
+            {/* Top Bar Badges */}
             <div className="flex items-center justify-between mb-6">
-              <div className="flex items-center gap-2">
-                <span className="text-xs font-mono text-purple-300 uppercase tracking-widest bg-purple-400/10 px-2.5 py-1 rounded-full border border-purple-400/20">
+              <div className="flex items-center gap-2 flex-wrap">
+                {/* POS: Lavender / Purple Pill */}
+                <span className="text-xs font-mono text-purple-300 bg-purple-950/60 px-3 py-1 rounded-full border border-purple-800/40 uppercase tracking-wider font-medium">
                   {word.pos}
                 </span>
-                <span className="text-xs font-mono text-amber-400 bg-amber-400/10 px-2.5 py-1 rounded-full border border-amber-400/20">
-                  Technical Lexicon
-                </span>
+                {/* Domain Category Tags: Pastel Blue / Slate Pills */}
+                {word.tags && word.tags.map((tag, i) => (
+                  <span key={i} className="text-xs font-mono text-sky-300 bg-sky-950/60 px-2.5 py-1 rounded-full border border-sky-800/40">
+                    {tag}
+                  </span>
+                ))}
               </div>
               <button
                 onClick={onClose}
@@ -122,15 +128,22 @@ export function WordDetailModal({
             </div>
 
             {/* Word Header */}
-            <div className="mb-8">
+            <div className="mb-6">
               <div className="flex items-baseline justify-between gap-4">
-                <h2 className="text-4xl sm:text-5xl font-serif italic text-zinc-50 tracking-tight">
-                  {word.word}
-                </h2>
+                <div>
+                  <h2 className="text-4xl sm:text-5xl font-serif italic text-zinc-50 tracking-tight font-medium">
+                    {word.word}
+                  </h2>
+                  {word.pronunciation && (
+                    <p className="text-sm font-mono text-emerald-400/90 mt-1">
+                      {word.pronunciation}
+                    </p>
+                  )}
+                </div>
                 <button
                   onClick={handleSpeak}
-                  className={`p-3 rounded-full bg-amber-400 text-black hover:bg-amber-300 active:scale-95 transition-all shadow-lg flex items-center justify-center shrink-0 ${
-                    isSpeaking ? 'ring-4 ring-amber-400/40 animate-pulse' : ''
+                  className={`p-3 rounded-full bg-emerald-500 text-black hover:bg-emerald-400 active:scale-95 transition-all shadow-lg flex items-center justify-center shrink-0 ${
+                    isSpeaking ? 'ring-4 ring-emerald-400/40 animate-pulse' : ''
                   }`}
                   title="Listen Pronunciation"
                 >
@@ -141,25 +154,21 @@ export function WordDetailModal({
               {/* Sound Wave Animation when speaking */}
               {isSpeaking && (
                 <div className="flex items-center gap-1 mt-3">
-                  <span className="text-xs font-mono text-amber-400 mr-2">Pronouncing...</span>
+                  <span className="text-xs font-mono text-emerald-400 mr-2">Pronouncing...</span>
                   {[0, 1, 2, 3, 4].map(i => (
                     <motion.div
                       key={i}
                       animate={{ height: ['4px', '16px', '4px'] }}
                       transition={{ repeat: Infinity, duration: 0.5, delay: i * 0.1 }}
-                      className="w-1 bg-amber-400 rounded-full"
+                      className="w-1 bg-emerald-400 rounded-full"
                     />
                   ))}
                 </div>
               )}
-
-              <p className="text-xl font-tamil text-amber-400 font-medium mt-2">
-                {word.taWord}
-              </p>
             </div>
 
             {/* Quick Action Dock */}
-            <div className="grid grid-cols-3 gap-3 mb-8 bg-zinc-900/60 p-2 rounded-2xl border border-zinc-800/80">
+            <div className="grid grid-cols-3 gap-3 mb-6 bg-zinc-900/60 p-2 rounded-2xl border border-zinc-800/80">
               <button
                 onClick={() => {
                   triggerHaptic();
@@ -193,10 +202,10 @@ export function WordDetailModal({
             </div>
 
             {/* Core Definition */}
-            <div className="space-y-6">
-              <div className="p-5 rounded-2xl bg-zinc-900/40 border border-zinc-800/60">
+            <div className="space-y-5">
+              <div className="p-5 rounded-2xl bg-zinc-900/50 border border-zinc-800/70">
                 <div className="flex items-center gap-2 mb-2">
-                  <BookOpen size={15} className="text-amber-400" />
+                  <BookOpen size={15} className="text-emerald-400" />
                   <h4 className="text-xs font-mono text-zinc-400 uppercase tracking-widest">Definition</h4>
                 </div>
                 <p className="text-zinc-200 font-sans text-base leading-relaxed">
@@ -204,47 +213,62 @@ export function WordDetailModal({
                 </p>
               </div>
 
-              {/* Examples */}
-              <div className="space-y-4">
-                <div className="p-5 rounded-2xl bg-zinc-900/30 border border-zinc-800/50">
-                  <div className="flex items-center gap-2 mb-2">
-                    <Globe size={15} className="text-blue-300" />
-                    <h4 className="text-xs font-mono text-blue-300 uppercase tracking-widest">English Context</h4>
+              {/* Etymology */}
+              {word.etymology && (
+                <div className="p-4 rounded-2xl bg-zinc-900/30 border border-zinc-800/50">
+                  <div className="flex items-center gap-2 mb-1.5">
+                    <Compass size={14} className="text-amber-400/80" />
+                    <h4 className="text-xs font-mono text-amber-400/80 uppercase tracking-widest">Etymology & Origin</h4>
                   </div>
-                  <p className="text-zinc-300 font-serif italic text-base sm:text-lg leading-relaxed">
-                    "{word.enExample}"
+                  <p className="text-zinc-300 font-sans text-xs leading-relaxed italic">
+                    {word.etymology}
+                  </p>
+                </div>
+              )}
+
+              {/* Dual Context Cards */}
+              <div className="space-y-3">
+                {/* 📄 Manuscript / Editorial Context */}
+                <div className="p-5 rounded-2xl bg-zinc-950/80 border border-sky-900/40">
+                  <div className="flex items-center gap-2 mb-2">
+                    <FileText size={15} className="text-sky-400" />
+                    <h4 className="text-xs font-mono text-sky-300 uppercase tracking-widest font-semibold">📄 Manuscript / Editorial Context</h4>
+                  </div>
+                  <p className="text-zinc-200 font-serif italic text-base leading-relaxed">
+                    "{word.manuscriptExample}"
                   </p>
                 </div>
 
-                <div className="p-5 rounded-2xl bg-zinc-900/30 border border-zinc-800/50">
+                {/* 🏛️ Academic Meeting / Conference Context */}
+                <div className="p-5 rounded-2xl bg-zinc-950/80 border border-indigo-900/40">
                   <div className="flex items-center gap-2 mb-2">
-                    <span className="text-xs font-mono text-indigo-300">TA</span>
-                    <h4 className="text-xs font-mono text-indigo-300 uppercase tracking-widest">Tamil Context</h4>
+                    <Landmark size={15} className="text-indigo-400" />
+                    <h4 className="text-xs font-mono text-indigo-300 uppercase tracking-widest font-semibold">🏛️ Academic Meeting / Conference Context</h4>
                   </div>
-                  <p className="text-zinc-300 font-tamil text-base leading-relaxed">
-                    "{word.taExample}"
+                  <p className="text-zinc-200 font-serif italic text-base leading-relaxed">
+                    "{word.conferenceExample}"
                   </p>
                 </div>
               </div>
 
               {/* Synonyms & Antonyms */}
               {((word.synonyms && word.synonyms.length > 0) || (word.antonyms && word.antonyms.length > 0)) && (
-                <div className="p-5 rounded-2xl bg-zinc-900/30 border border-zinc-800/50 space-y-4">
+                <div className="p-5 rounded-2xl bg-zinc-900/40 border border-zinc-800/60 space-y-4">
                   {word.synonyms && word.synonyms.length > 0 && (
                     <div>
                       <div className="flex items-center gap-1.5 mb-2">
-                        <Sparkles size={13} className="text-emerald-400/80" />
-                        <span className="text-xs font-mono text-emerald-400/80 uppercase tracking-widest">Synonyms</span>
+                        <Sparkles size={13} className="text-emerald-400" />
+                        <span className="text-xs font-mono text-emerald-400 uppercase tracking-widest font-semibold">Synonyms</span>
                       </div>
                       <div className="flex flex-wrap gap-2">
                         {word.synonyms.map((syn, idx) => (
-                          <span
+                          <button
                             key={idx}
                             onClick={() => handleSynAntClick(syn)}
-                            className="text-xs font-mono text-emerald-300 bg-emerald-400/10 px-3 py-1 rounded-full border border-emerald-400/20 cursor-pointer hover:bg-emerald-400/20 transition-colors"
+                            className="text-xs font-mono text-emerald-300 bg-emerald-950/60 px-3 py-1 rounded-full border border-emerald-800/40 hover:bg-emerald-900/80 transition-colors"
                           >
                             {syn}
-                          </span>
+                          </button>
                         ))}
                       </div>
                     </div>
@@ -252,16 +276,16 @@ export function WordDetailModal({
 
                   {word.antonyms && word.antonyms.length > 0 && (
                     <div>
-                      <span className="text-xs font-mono text-rose-400/80 uppercase tracking-widest block mb-2">Antonyms</span>
+                      <span className="text-xs font-mono text-rose-400 uppercase tracking-widest block mb-2 font-semibold">Antonyms</span>
                       <div className="flex flex-wrap gap-2">
                         {word.antonyms.map((ant, idx) => (
-                          <span
+                          <button
                             key={idx}
                             onClick={() => handleSynAntClick(ant)}
-                            className="text-xs font-mono text-rose-300 bg-rose-400/10 px-3 py-1 rounded-full border border-rose-400/20 cursor-pointer hover:bg-rose-400/20 transition-colors"
+                            className="text-xs font-mono text-rose-300 bg-rose-950/60 px-3 py-1 rounded-full border border-rose-800/40 hover:bg-rose-900/80 transition-colors"
                           >
                             {ant}
-                          </span>
+                          </button>
                         ))}
                       </div>
                     </div>

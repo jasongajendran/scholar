@@ -1,0 +1,28 @@
+[
+  {
+    "id": 601,
+    "word": "Fractionation",
+    "pos": "noun",
+    "pronunciation": "/ˌfræk.ʃənˈeɪ.ʃən/",
+    "definition": "A separation process in which a biochemical mixture is divided into distinct cellular or molecular fractions.",
+    "etymology": "From Latin fractio ('breaking').",
+    "manuscriptExample": "Subcellular fractionation confirmed nuclear translocation of the transcription factor upon ligand stimulation.",
+    "conferenceExample": "The reviewer questioned whether cytosolic contamination was present in the nuclear membrane fraction.",
+    "tags": ["Life Sciences", "Peer Review"],
+    "synonyms": ["Separation", "Partitioning", "Isolation", "Purification"],
+    "antonyms": ["Aggregation", "Reconstitution", "Combination"]
+  },
+  {
+    "id": 602,
+    "word": "Fidelity",
+    "pos": "noun",
+    "pronunciation": "/fɪˈdel.ə.ti/",
+    "definition": "The accuracy and exactness with which biological processes like DNA replication or translation copy genetic code.",
+    "etymology": "From Latin fidelitas ('faithfulness').",
+    "manuscriptExample": "High-fidelity polymerases were utilized to minimize PCR-induced error rates during library preparation.",
+    "conferenceExample": "We addressed Reviewer 2's query regarding transcriptional fidelity under cellular stress conditions.",
+    "tags": ["Life Sciences", "Manuscript Editing"],
+    "synonyms": ["Accuracy", "Precision", "Exactness", "Fidelity"],
+    "antonyms": ["Infidelity", "Inaccuracy", "Error"]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1501,
+    "word": "Obfuscate",
+    "pos": "verb",
+    "pronunciation": "/ˈɒb.fʌs.keɪt/",
+    "definition": "To obscure, render unclear, or complicate language in a way that conceals methodological details or weak findings.",
+    "etymology": "From Late Latin obfuscatus, past participle of obfuscare ('to darken').",
+    "manuscriptExample": "Passive voice constructions in the results section serve only to obfuscate the sequence of enzyme digestion steps.",
+    "conferenceExample": "We asked the authors to revise Figure 3 because crowded axes obfuscate statistical differences between wild-type and mutant lineages.",
+    "tags": ["Manuscript Editing", "Peer Review"],
+    "synonyms": ["Obscure", "Muddle", "Cloud", "Befog"],
+    "antonyms": ["Elucidate", "Clarify", "Illuminate"]
+  },
+  {
+    "id": 1502,
+    "word": "Ostensible",
+    "pos": "adj.",
+    "pronunciation": "/ɒsˈten.sə.bəl/",
+    "definition": "Stated or appearing to be true or present, but not necessarily confirmed upon rigorous mechanistic inspection.",
+    "etymology": "From French ostensible, from Latin ostensus ('shown').",
+    "manuscriptExample": "The ostensible increase in proliferation was shown to stem from vehicle evaporation in outer microplate wells.",
+    "conferenceExample": "Reviewer 1 pointed out that the ostensible drug selectivity vanished when tested against isoform variants.",
+    "tags": ["Peer Review", "Manuscript Editing"],
+    "synonyms": ["Apparent", "Seeming", "Superficial", "Supposed"],
+    "antonyms": ["Genuine", "Real", "Actual"]
+  },
+  {
+    "id": 1503,
+    "word": "Orthogonal",
+    "pos": "adj.",
+    "pronunciation": "/ɔːˈθɒɡ.ən.əl/",
+    "definition": "Statistically independent or utilizing completely distinct physical/chemical methods to validate a hypothesis.",
+    "etymology": "From Ancient Greek ὀρθογώνιος (orthogṓnios, 'right-angled').",
+    "manuscriptExample": "To confirm flow cytometry results, we employed an orthogonal assay based on single-molecule mass photometry.",
+    "conferenceExample": "The referee strongly urged the authors to provide orthogonal evidence before claiming direct receptor activation.",
+    "tags": ["Peer Review", "Life Sciences"],
+    "synonyms": ["Independent", "Complementary", "Uncorrelated"],
+    "antonyms": ["Redundant", "Dependent", "Identical"]
+  }
+]

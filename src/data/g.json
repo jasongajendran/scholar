@@ -1,0 +1,28 @@
+[
+  {
+    "id": 701,
+    "word": "Germane",
+    "pos": "adj.",
+    "pronunciation": "/dʒɜːˈmeɪn/",
+    "definition": "Relevant, pertinent, and directly applicable to the specific reviewer inquiry or research focus.",
+    "etymology": "From Middle English germain ('having the same parents').",
+    "manuscriptExample": "Only literature germane to mammalian homolog regulation was cited in the introduction.",
+    "conferenceExample": "The referee's comment was highly germane, leading us to incorporate an essential negative control.",
+    "tags": ["Peer Review", "Manuscript Editing"],
+    "synonyms": ["Pertinent", "Relevant", "Applicable", "Apropos"],
+    "antonyms": ["Irrelevant", "Extraneous", "Impertinent"]
+  },
+  {
+    "id": 702,
+    "word": "Gating",
+    "pos": "noun",
+    "pronunciation": "/ˈɡeɪ.tɪŋ/",
+    "definition": "The sequential selection of specific cell populations based on fluorescence or scatter parameters in flow cytometry.",
+    "etymology": "From gate + -ing.",
+    "manuscriptExample": "Detailed flow cytometry gating strategies are provided in Supplementary Figure S3.",
+    "conferenceExample": "Reviewer 1 requested singlet gating controls to rule out doublet contamination in the live-cell gate.",
+    "tags": ["Life Sciences", "Peer Review"],
+    "synonyms": ["Filtering", "Selection", "Thresholding", "Isolation"],
+    "antonyms": ["Unfiltered", "Broad sampling"]
+  }
+]

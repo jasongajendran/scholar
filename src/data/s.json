@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1901,
+    "word": "Substantiate",
+    "pos": "verb",
+    "pronunciation": "/səbˈstæn.ʃi.eɪt/",
+    "definition": "To establish, prove, or strengthen an assertion by providing concrete empirical evidence.",
+    "etymology": "From Late Latin substantiātus, past participle of substantiāre.",
+    "manuscriptExample": "Complementary in vivo CRISPR knockout models were deployed to substantiate observed transcriptomic downregulation.",
+    "conferenceExample": "While the hypothesis is compelling, we requested the authors perform an orthogonal assay to substantiate their claim.",
+    "tags": ["Peer Review", "Life Sciences"],
+    "synonyms": ["Corroborate", "Validate", "Verify", "Authenticate"],
+    "antonyms": ["Refute", "Disprove", "Undermine"]
+  },
+  {
+    "id": 1902,
+    "word": "Salient",
+    "pos": "adj.",
+    "pronunciation": "/ˈseɪ.li.ənt/",
+    "definition": "Most prominent, conspicuous, or crucial for understanding a dataset or scientific hypothesis.",
+    "etymology": "From Latin saliens, present participle of salīre ('to leap').",
+    "manuscriptExample": "The most salient feature of the single-cell trajectory is the abrupt bifurcation at day 4 of stem cell differentiation.",
+    "conferenceExample": "In the executive summary for the editor-in-chief, we highlighted three salient findings supporting publication.",
+    "tags": ["Manuscript Editing", "Editorial Meetings"],
+    "synonyms": ["Prominent", "Striking", "Pivotal", "Key"],
+    "antonyms": ["Inconspicuous", "Trivial", "Negligible"]
+  },
+  {
+    "id": 1903,
+    "word": "Spurious",
+    "pos": "adj.",
+    "pronunciation": "/ˈspjʊər.i.əs/",
+    "definition": "False, misleading, or apparent correlations resulting from confounding variables or experimental artifacts.",
+    "etymology": "From Latin spurius ('false, illegitimate').",
+    "manuscriptExample": "Inclusion of isotype controls prevented spurious antibody binding in immunohistochemical staining of tumor sections.",
+    "conferenceExample": "The editor warned that without Bonferroni correction, the apparent correlation was likely a spurious false positive.",
+    "tags": ["Peer Review", "Life Sciences"],
+    "synonyms": ["Specious", "Bogus", "False", "Invalid"],
+    "antonyms": ["Genuine", "Authentic", "Valid"]
+  },
+  {
+    "id": 1904,
+    "word": "Stratification",
+    "pos": "noun",
+    "pronunciation": "/ˌstræt.ɪ.fɪˈkeɪ.ʃən/",
+    "definition": "The categorization of patient cohorts or biological samples into distinct sub-groups based on biomarker expression.",
+    "etymology": "From Latin stratum ('layer') + -fication.",
+    "manuscriptExample": "Biomarker-guided patient stratification significantly enhanced overall survival benefit in the phase III trial.",
+    "conferenceExample": "Reviewer 2 recommended clinical risk stratification prior to secondary endpoint statistical analysis.",
+    "tags": ["Life Sciences", "Peer Review"],
+    "synonyms": ["Categorization", "Subgrouping", "Classification"],
+    "antonyms": ["Homogenization", "Pooling", "Aggregation"]
+  },
+  {
+    "id": 1905,
+    "word": "Synergy",
+    "pos": "noun",
+    "pronunciation": "/ˈsɪn.ə.dʒi/",
+    "definition": "An interaction where the combined efficacy of two biological agents exceeds the sum of their individual effects.",
+    "etymology": "From Ancient Greek συνεργία (synergía, 'working together').",
+    "manuscriptExample": "Combination treatment demonstrated potent synergy, yielding a combination index (CI) value well below 0.5.",
+    "conferenceExample": "The panel queried whether the observed tumor regression reflected true drug synergy or additive cytotoxicity.",
+    "tags": ["Life Sciences", "Peer Review"],
+    "synonyms": ["Potentiation", "Cooperation", "Symbiosis"],
+    "antonyms": ["Antagonism", "Interference", "Inhibition"]
+  }
+]

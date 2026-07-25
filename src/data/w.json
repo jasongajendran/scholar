@@ -1,0 +1,28 @@
+[
+  {
+    "id": 2301,
+    "word": "Wild-type",
+    "pos": "adj.",
+    "pronunciation": "/ˈwaɪld.taɪp/",
+    "definition": "The typical form of an organism, strain, gene, or characteristic as it occurs in nature, as distinguished from mutant forms.",
+    "etymology": "From wild + type.",
+    "manuscriptExample": "Heterozygous mutants exhibited a 50% reduction in enzyme activity relative to wild-type littermate controls.",
+    "conferenceExample": "Reviewer 2 requested wild-type rescue expression vectors to confirm gene specificity.",
+    "tags": ["Life Sciences", "Peer Review"],
+    "synonyms": ["Unmutated", "Baseline strain", "Native form"],
+    "antonyms": ["Mutant", "Knockout", "Transgenic"]
+  },
+  {
+    "id": 2302,
+    "word": "Washout",
+    "pos": "noun",
+    "pronunciation": "/ˈwɒʃ.aʊt/",
+    "definition": "A period during an experiment where drug treatment is withdrawn and cells are washed to evaluate signal reversibility.",
+    "etymology": "From wash + out.",
+    "manuscriptExample": "Inhibition of receptor autophosphorylation was fully reversible following a 2-hour compound washout.",
+    "conferenceExample": "The panel requested a washout study to determine if targeted pathway shutdown induced persistent senescence.",
+    "tags": ["Life Sciences", "Peer Review"],
+    "synonyms": ["Clearance phase", "Recovery period"],
+    "antonyms": ["Continuous exposure", "Sustained dosing"]
+  }
+]
