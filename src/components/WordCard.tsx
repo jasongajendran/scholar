@@ -70,17 +70,12 @@ export function WordCard({
   };
 
   return (
-    <motion.div
-      initial={{ opacity: 0, y: 15 }}
-      whileInView={{ opacity: 1, y: 0 }}
-      viewport={{ once: true, margin: "-50px" }}
-      whileHover={{ y: -4, scale: 1.01 }}
-      whileTap={{ scale: 0.98 }}
+    <div
       onClick={() => {
         triggerHaptic();
         onSelectWord(word);
       }}
-      className="group relative flex flex-col justify-between p-6 rounded-2xl bg-zinc-900/70 border border-zinc-800/80 hover:border-emerald-500/40 active:border-emerald-500/60 hover:bg-zinc-900/95 transition-all duration-300 shadow-xl cursor-pointer overflow-hidden backdrop-blur-md"
+      className="group relative flex flex-col justify-between p-6 rounded-2xl bg-zinc-900 border border-zinc-800/80 hover:border-emerald-500/40 active:border-emerald-500/60 transition-colors duration-200 shadow-xl cursor-pointer overflow-hidden"
     >
       {/* Ambient Glow */}
       <div className="absolute -top-24 -right-24 w-48 h-48 bg-emerald-500/5 rounded-full blur-3xl pointer-events-none group-hover:bg-emerald-500/10 transition-all duration-500" />
@@ -214,6 +209,6 @@ export function WordCard({
           Full Details &rarr;
         </span>
       </div>
-    </motion.div>
+    </div>
   );
 }

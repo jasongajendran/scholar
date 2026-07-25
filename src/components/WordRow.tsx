@@ -24,30 +24,6 @@ export function WordRow({
 }: WordRowProps) {
   const [copied, setCopied] = useState(false);
   const [isSpeaking, setIsSpeaking] = useState(false);
-  const [isCentered, setIsCentered] = useState(false);
-  const rowRef = useRef<HTMLDivElement>(null);
-
-  useEffect(() => {
-    if (typeof window !== 'undefined' && window.innerWidth < 1024) {
-      const observer = new IntersectionObserver(
-        ([entry]) => {
-          setIsCentered(entry.isIntersecting);
-        },
-        {
-          rootMargin: '-40% 0px -40% 0px',
-          threshold: 0
-        }
-      );
-
-      if (rowRef.current) {
-        observer.observe(rowRef.current);
-      }
-
-      return () => {
-        if (rowRef.current) observer.unobserve(rowRef.current);
-      };
-    }
-  }, []);
 
   const triggerHaptic = () => {
     if (typeof window !== 'undefined' && 'vibrate' in navigator) {
@@ -103,7 +79,7 @@ export function WordRow({
         {parts.map((part, i) => {
           const isMatch = part.toLowerCase() === match.toLowerCase();
           return isMatch ? (
-            <span key={i} className={`rounded-sm px-0.5 -mx-0.5 transition-all duration-500 font-medium ${isCentered ? 'text-emerald-400 bg-emerald-400/10' : 'text-zinc-100 bg-emerald-400/10'}`}>{part}</span>
+            <span key={i} className="rounded-sm px-0.5 -mx-0.5 font-medium text-emerald-400 bg-emerald-400/10">{part}</span>
           ) : (
             part
           );
@@ -113,18 +89,12 @@ export function WordRow({
   };
 
   return (
-    <motion.div 
-      ref={rowRef}
-      initial={{ opacity: 0, y: 20 }}
-      whileInView={{ opacity: 1, y: 0 }}
-      viewport={{ once: true, margin: "-50px" }}
-      transition={{ duration: 0.6, ease: [0.16, 1, 0.3, 1] }}
+    <div 
       onClick={() => {
         triggerHaptic();
         onSelectWord(word);
       }}
-      tabIndex={0}
-      className={`group relative flex flex-col lg:flex-row gap-6 lg:gap-12 py-10 lg:py-16 border-t border-zinc-800/60 transition-all duration-300 px-4 md:px-8 cursor-pointer focus:outline-none ${isCentered ? 'bg-zinc-900/40' : 'hover:bg-zinc-900/40 active:bg-zinc-900/60'}`}
+      className="group relative flex flex-col lg:flex-row gap-6 lg:gap-12 py-10 lg:py-16 border-t border-zinc-800/60 transition-colors duration-200 px-4 md:px-8 cursor-pointer hover:bg-zinc-900/40 active:bg-zinc-900/60"
     >
       {/* Index Number */}
       <div className="absolute top-4 left-4 md:top-6 md:left-8 text-xs font-mono text-zinc-600 tracking-widest flex items-center gap-2">
@@ -235,7 +205,7 @@ export function WordRow({
       {/* Right Column: Dual Context Cards */}
       <div className="lg:w-7/12 flex flex-col justify-center gap-4">
         {/* Manuscript Context */}
-        <div className={`relative p-4 rounded-xl bg-zinc-950/80 border transition-all duration-300 ${isCentered ? 'border-sky-500/40' : 'border-zinc-800/80 group-hover:border-sky-500/30'}`}>
+        <div className="relative p-4 rounded-xl bg-zinc-950/80 border border-zinc-800/80 group-hover:border-sky-500/30 transition-colors duration-200">
           <div className="flex items-center gap-2 text-sky-300 font-mono text-xs uppercase tracking-wider mb-1 font-semibold">
             <FileText size={14} />
             <span>📄 Manuscript / Editorial Context</span>
@@ -246,7 +216,7 @@ export function WordRow({
         </div>
         
         {/* Academic Meeting / Conference Context */}
-        <div className={`relative p-4 rounded-xl bg-zinc-950/80 border transition-all duration-300 ${isCentered ? 'border-indigo-500/40' : 'border-zinc-800/80 group-hover:border-indigo-500/30'}`}>
+        <div className="relative p-4 rounded-xl bg-zinc-950/80 border border-zinc-800/80 group-hover:border-indigo-500/30 transition-colors duration-200">
           <div className="flex items-center gap-2 text-indigo-300 font-mono text-xs uppercase tracking-wider mb-1 font-semibold">
             <Landmark size={14} />
             <span>🏛️ Academic Meeting / Conference Context</span>
@@ -256,6 +226,6 @@ export function WordRow({
           </p>
         </div>
       </div>
-    </motion.div>
+    </div>
   );
 }
