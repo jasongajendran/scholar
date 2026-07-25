@@ -1,28 +1,577 @@
 [
   {
-    "id": 2601,
-    "word": "Z-stack",
+    "id": 1792,
+    "word": "Z-axis",
     "pos": "noun",
-    "pronunciation": "/ˈziː.stæk/",
-    "definition": "A series of 2D optical confocal images taken at sequential focal planes along the vertical axis to reconstruct a 3D volume.",
-    "etymology": "From Z (depth axis) + stack.",
-    "manuscriptExample": "Confocal Z-stack imaging confirmed intracellular internalization of fluorescently labeled nanoparticles.",
-    "conferenceExample": "The reviewer commended the inclusion of maximum intensity projection renderings generated from 40-micron Z-stacks.",
-    "tags": ["Life Sciences", "Peer Review"],
-    "synonyms": ["3D optical sectioning", "Focal plane series"],
-    "antonyms": ["Single 2D plane"]
+    "pronunciation": "/zaxis/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding z-axis.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how z-axis serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of z-axis to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   },
   {
-    "id": 2602,
+    "id": 1793,
+    "word": "Zeal",
+    "pos": "adj.",
+    "pronunciation": "/zeal/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding zeal.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how zeal serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of zeal to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1794,
+    "word": "Zealous",
+    "pos": "adj.",
+    "pronunciation": "/zealous/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding zealous.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how zealous serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of zealous to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1795,
+    "word": "Zenith",
+    "pos": "noun",
+    "pronunciation": "/zenith/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding zenith.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how zenith serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of zenith to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1796,
+    "word": "Zero-order",
+    "pos": "noun",
+    "pronunciation": "/zeroorder/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding zero-order.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how zero-order serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of zero-order to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1797,
+    "word": "Zero-sum",
+    "pos": "noun",
+    "pronunciation": "/zerosum/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding zero-sum.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how zero-sum serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of zero-sum to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1798,
+    "word": "Zinc-finger",
+    "pos": "noun",
+    "pronunciation": "/zincfinger/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding zinc-finger.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how zinc-finger serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of zinc-finger to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1799,
+    "word": "Zirconium",
+    "pos": "noun",
+    "pronunciation": "/zirconium/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding zirconium.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how zirconium serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of zirconium to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1800,
+    "word": "Zonal",
+    "pos": "adj.",
+    "pronunciation": "/zonal/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding zonal.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how zonal serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of zonal to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1801,
+    "word": "Zone-of-inhibition",
+    "pos": "noun",
+    "pronunciation": "/zoneofinhibition/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding zone-of-inhibition.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how zone-of-inhibition serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of zone-of-inhibition to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1802,
+    "word": "Zone-refining",
+    "pos": "noun",
+    "pronunciation": "/zonerefining/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding zone-refining.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how zone-refining serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of zone-refining to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1803,
+    "word": "Zoonoses",
+    "pos": "noun",
+    "pronunciation": "/zoonoses/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding zoonoses.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how zoonoses serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of zoonoses to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1804,
+    "word": "Zoonosis",
+    "pos": "noun",
+    "pronunciation": "/zoonosis/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding zoonosis.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how zoonosis serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of zoonosis to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1805,
+    "word": "Zoonotic",
+    "pos": "adj.",
+    "pronunciation": "/zoonotic/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding zoonotic.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how zoonotic serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of zoonotic to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1806,
+    "word": "Zooplankton",
+    "pos": "noun",
+    "pronunciation": "/zooplankton/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding zooplankton.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how zooplankton serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of zooplankton to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1807,
+    "word": "Z-plane",
+    "pos": "noun",
+    "pronunciation": "/zplane/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding z-plane.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how z-plane serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of z-plane to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1808,
+    "word": "Z-score",
+    "pos": "noun",
+    "pronunciation": "/zscore/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding z-score.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how z-score serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of z-score to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1809,
+    "word": "Z-stack",
+    "pos": "noun",
+    "pronunciation": "/zstack/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding z-stack.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how z-stack serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of z-stack to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1810,
+    "word": "Z-transformation",
+    "pos": "noun",
+    "pronunciation": "/ztransformation/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding z-transformation.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how z-transformation serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of z-transformation to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1811,
+    "word": "Zwitterion",
+    "pos": "noun",
+    "pronunciation": "/zwitterion/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding zwitterion.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how zwitterion serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of zwitterion to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1812,
+    "word": "Zwitterionic",
+    "pos": "adj.",
+    "pronunciation": "/zwitterionic/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding zwitterionic.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how zwitterionic serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of zwitterionic to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1813,
+    "word": "Zymogen",
+    "pos": "noun",
+    "pronunciation": "/zymogen/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding zymogen.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how zymogen serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of zymogen to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1814,
     "word": "Zymography",
     "pos": "noun",
-    "pronunciation": "/zaɪˈmɒɡ.rə.fi/",
-    "definition": "An electrophoretic technique for detecting hydrolytic enzyme activity using substrate-impregnated gels.",
-    "etymology": "From Ancient Greek ζύμη (zúmē, 'leaven') + -graphy.",
-    "manuscriptExample": "Gelatin zymography revealed elevated MMP-2 and MMP-9 enzymatic cleavage in conditioned media.",
-    "conferenceExample": "Reviewer 1 requested gel zymography quantification alongside Western blotting to verify protease secretion.",
-    "tags": ["Life Sciences", "Peer Review"],
-    "synonyms": ["Substrate gel electrophoresis", "Enzymatic assay"],
-    "antonyms": ["Static protein blot"]
+    "pronunciation": "/zymography/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding zymography.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how zymography serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of zymography to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1815,
+    "word": "Zymogram",
+    "pos": "noun",
+    "pronunciation": "/zymogram/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding zymogram.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how zymogram serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of zymogram to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1816,
+    "word": "Zymogenic",
+    "pos": "adj.",
+    "pronunciation": "/zymogenic/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding zymogenic.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how zymogenic serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of zymogenic to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   }
 ]

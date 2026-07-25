@@ -1,28 +1,577 @@
 [
   {
-    "id": 2401,
-    "word": "Xenograft",
+    "id": 1742,
+    "word": "Xanthine",
     "pos": "noun",
-    "pronunciation": "/ˈzen.ə.ɡræft/",
-    "definition": "A tissue graft or tumor cell transplant derived from a species different from the recipient animal host.",
-    "etymology": "From Ancient Greek ξένος (xénos, 'foreign, stranger') + graft.",
-    "manuscriptExample": "Patient-derived xenograft (PDX) mouse models preserved the histological architecture and clonal diversity of primary tumors.",
-    "conferenceExample": "The associate editor inquired whether in vivo antitumor efficacy was evaluated in orthotopic xenograft models.",
-    "tags": ["Life Sciences", "Peer Review"],
-    "synonyms": ["Heterograft", "Cross-species transplant"],
-    "antonyms": ["Allograft", "Isograft", "Autograft"]
+    "pronunciation": "/xanthine/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding xanthine.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how xanthine serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of xanthine to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   },
   {
-    "id": 2402,
-    "word": "Xenobiotic",
+    "id": 1743,
+    "word": "Xanthoma",
     "pos": "noun",
-    "pronunciation": "/ˌzen.oʊ.baɪˈɒt.ɪk/",
-    "definition": "A chemical compound or drug that is foreign to a living organism or biological system.",
-    "etymology": "From Ancient Greek ξένος (xénos, 'foreign') + βίος (bíos, 'life').",
-    "manuscriptExample": "Cytochrome P450 monooxygenases mediate the primary oxidative metabolism of foreign xenobiotics in hepatic tissue.",
-    "conferenceExample": "We addressed Reviewer 1's questions regarding intracellular xenobiotic accumulation rates.",
-    "tags": ["Life Sciences", "Manuscript Editing"],
-    "synonyms": ["Foreign compound", "Exogenous substance"],
-    "antonyms": ["Endogenous metabolite"]
+    "pronunciation": "/xanthoma/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding xanthoma.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how xanthoma serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of xanthoma to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1744,
+    "word": "Xanthophyll",
+    "pos": "noun",
+    "pronunciation": "/xanthophyll/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding xanthophyll.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how xanthophyll serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of xanthophyll to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1745,
+    "word": "Xenobiotic",
+    "pos": "adj.",
+    "pronunciation": "/xenobiotic/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding xenobiotic.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how xenobiotic serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of xenobiotic to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1746,
+    "word": "Xenogeneic",
+    "pos": "adj.",
+    "pronunciation": "/xenogeneic/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding xenogeneic.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how xenogeneic serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of xenogeneic to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1747,
+    "word": "Xenofree",
+    "pos": "noun",
+    "pronunciation": "/xenofree/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding xenofree.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how xenofree serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of xenofree to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1748,
+    "word": "Xenograft",
+    "pos": "noun",
+    "pronunciation": "/xenograft/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding xenograft.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how xenograft serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of xenograft to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1749,
+    "word": "Xenografting",
+    "pos": "noun",
+    "pronunciation": "/xenografting/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding xenografting.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how xenografting serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of xenografting to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1750,
+    "word": "Xenology",
+    "pos": "noun",
+    "pronunciation": "/xenology/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding xenology.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how xenology serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of xenology to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1751,
+    "word": "Xenon",
+    "pos": "noun",
+    "pronunciation": "/xenon/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding xenon.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how xenon serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of xenon to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1752,
+    "word": "Xenophobia",
+    "pos": "noun",
+    "pronunciation": "/xenophobia/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding xenophobia.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how xenophobia serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of xenophobia to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1753,
+    "word": "Xenotropic",
+    "pos": "adj.",
+    "pronunciation": "/xenotropic/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding xenotropic.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how xenotropic serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of xenotropic to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1754,
+    "word": "Xeroderma",
+    "pos": "noun",
+    "pronunciation": "/xeroderma/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding xeroderma.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how xeroderma serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of xeroderma to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1755,
+    "word": "Xeromorphic",
+    "pos": "adj.",
+    "pronunciation": "/xeromorphic/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding xeromorphic.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how xeromorphic serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of xeromorphic to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1756,
+    "word": "Xerophthalmia",
+    "pos": "noun",
+    "pronunciation": "/xerophthalmia/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding xerophthalmia.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how xerophthalmia serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of xerophthalmia to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1757,
+    "word": "Xerophytic",
+    "pos": "adj.",
+    "pronunciation": "/xerophytic/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding xerophytic.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how xerophytic serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of xerophytic to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1758,
+    "word": "Xerostomia",
+    "pos": "noun",
+    "pronunciation": "/xerostomia/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding xerostomia.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how xerostomia serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of xerostomia to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1759,
+    "word": "X-inactivation",
+    "pos": "noun",
+    "pronunciation": "/xinactivation/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding x-inactivation.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how x-inactivation serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of x-inactivation to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1760,
+    "word": "X-linked",
+    "pos": "noun",
+    "pronunciation": "/xlinked/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding x-linked.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how x-linked serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of x-linked to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1761,
+    "word": "X-ray",
+    "pos": "noun",
+    "pronunciation": "/xray/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding x-ray.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how x-ray serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of x-ray to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1762,
+    "word": "Xylase",
+    "pos": "noun",
+    "pronunciation": "/xylase/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding xylase.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how xylase serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of xylase to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1763,
+    "word": "Xylem",
+    "pos": "noun",
+    "pronunciation": "/xylem/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding xylem.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how xylem serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of xylem to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1764,
+    "word": "Xylitol",
+    "pos": "noun",
+    "pronunciation": "/xylitol/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding xylitol.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how xylitol serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of xylitol to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1765,
+    "word": "Xyloglucan",
+    "pos": "noun",
+    "pronunciation": "/xyloglucan/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding xyloglucan.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how xyloglucan serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of xyloglucan to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1766,
+    "word": "Xylophagous",
+    "pos": "adj.",
+    "pronunciation": "/xylophagous/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding xylophagous.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how xylophagous serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of xylophagous to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   }
 ]

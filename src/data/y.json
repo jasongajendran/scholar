@@ -1,28 +1,577 @@
 [
   {
-    "id": 2501,
-    "word": "Yield",
+    "id": 1767,
+    "word": "Yaw",
     "pos": "noun",
-    "pronunciation": "/jiːld/",
-    "definition": "The quantity of purified protein, nucleic acid, or chemical product obtained from a extraction or reaction protocol.",
-    "etymology": "From Old English gieldan ('to pay, produce').",
-    "manuscriptExample": "Optimization of cell lysis buffers increased recombinant protein yield by 2.5-fold without compromising purity.",
-    "conferenceExample": "The referee noted that RNA extraction yield was exceptionally high for degraded formalin-fixed tissue.",
-    "tags": ["Life Sciences", "Peer Review"],
-    "synonyms": ["Output", "Recovery", "Productivity", "Quantity"],
-    "antonyms": ["Loss", "Depletion", "Wastage"]
+    "pronunciation": "/yaw/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding yaw.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how yaw serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of yaw to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   },
   {
-    "id": 2502,
+    "id": 1768,
+    "word": "Yawning",
+    "pos": "noun",
+    "pronunciation": "/yawning/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding yawning.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how yawning serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of yawning to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1769,
+    "word": "Year-long",
+    "pos": "noun",
+    "pronunciation": "/yearlong/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding year-long.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how year-long serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of year-long to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1770,
+    "word": "Yeast-display",
+    "pos": "noun",
+    "pronunciation": "/yeastdisplay/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding yeast-display.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how yeast-display serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of yeast-display to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1771,
+    "word": "Yeast-two-hybrid",
+    "pos": "noun",
+    "pronunciation": "/yeasttwohybrid/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding yeast-two-hybrid.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how yeast-two-hybrid serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of yeast-two-hybrid to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1772,
+    "word": "Yield",
+    "pos": "noun",
+    "pronunciation": "/yield/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding yield.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how yield serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of yield to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1773,
+    "word": "Yield-curve",
+    "pos": "noun",
+    "pronunciation": "/yieldcurve/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding yield-curve.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how yield-curve serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of yield-curve to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1774,
+    "word": "Yield-point",
+    "pos": "noun",
+    "pronunciation": "/yieldpoint/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding yield-point.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how yield-point serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of yield-point to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1775,
+    "word": "Yield-strength",
+    "pos": "noun",
+    "pronunciation": "/yieldstrength/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding yield-strength.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how yield-strength serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of yield-strength to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1776,
+    "word": "Yielding",
+    "pos": "noun",
+    "pronunciation": "/yielding/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding yielding.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how yielding serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of yielding to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1777,
+    "word": "Yoked",
+    "pos": "noun",
+    "pronunciation": "/yoked/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding yoked.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how yoked serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of yoked to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1778,
+    "word": "Yoked-control",
+    "pos": "noun",
+    "pronunciation": "/yokedcontrol/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding yoked-control.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how yoked-control serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of yoked-control to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1779,
+    "word": "Yoked-design",
+    "pos": "noun",
+    "pronunciation": "/yokeddesign/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding yoked-design.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how yoked-design serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of yoked-design to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1780,
+    "word": "Yolk",
+    "pos": "noun",
+    "pronunciation": "/yolk/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding yolk.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how yolk serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of yolk to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1781,
+    "word": "Yolk-sac",
+    "pos": "noun",
+    "pronunciation": "/yolksac/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding yolk-sac.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how yolk-sac serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of yolk-sac to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1782,
+    "word": "Ytterbium",
+    "pos": "noun",
+    "pronunciation": "/ytterbium/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding ytterbium.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how ytterbium serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of ytterbium to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1783,
+    "word": "Yttrium",
+    "pos": "noun",
+    "pronunciation": "/yttrium/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding yttrium.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how yttrium serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of yttrium to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1784,
+    "word": "Yttrium-based",
+    "pos": "noun",
+    "pronunciation": "/yttriumbased/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding yttrium-based.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how yttrium-based serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of yttrium-based to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1785,
+    "word": "Yellow-fever",
+    "pos": "noun",
+    "pronunciation": "/yellowfever/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding yellow-fever.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how yellow-fever serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of yellow-fever to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1786,
+    "word": "Yield-maximization",
+    "pos": "noun",
+    "pronunciation": "/yieldmaximization/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding yield-maximization.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how yield-maximization serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of yield-maximization to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1787,
+    "word": "Yielding-capacity",
+    "pos": "noun",
+    "pronunciation": "/yieldingcapacity/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding yielding-capacity.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how yielding-capacity serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of yielding-capacity to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1788,
     "word": "Y-axis",
     "pos": "noun",
-    "pronunciation": "/ˈwaɪ.æk.sɪs/",
-    "definition": "The vertical coordinate axis in a scatter plot or bar chart, typically representing the dependent variable in data visualization.",
-    "etymology": "From Y + axis.",
-    "manuscriptExample": "The Y-axis represents fold-change in relative mRNA luminescence normalized to vehicle control.",
-    "conferenceExample": "Reviewer 3 requested logarithmic scaling on the Y-axis to clearly display low-abundance transcript values.",
-    "tags": ["Manuscript Editing", "Peer Review"],
-    "synonyms": ["Vertical axis", "Ordinate"],
-    "antonyms": ["X-axis", "Abscissa"]
+    "pronunciation": "/yaxis/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding y-axis.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how y-axis serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of y-axis to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1789,
+    "word": "Y-intercept",
+    "pos": "noun",
+    "pronunciation": "/yintercept/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding y-intercept.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how y-intercept serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of y-intercept to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1790,
+    "word": "Y-chromosome",
+    "pos": "noun",
+    "pronunciation": "/ychromosome/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding y-chromosome.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how y-chromosome serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of y-chromosome to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1791,
+    "word": "Yeast-expression",
+    "pos": "noun",
+    "pronunciation": "/yeastexpression/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding yeast-expression.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how yeast-expression serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of yeast-expression to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   }
 ]

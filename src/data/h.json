@@ -1,28 +1,577 @@
 [
   {
-    "id": 801,
-    "word": "Heterogeneity",
+    "id": 1242,
+    "word": "Habituation",
     "pos": "noun",
-    "pronunciation": "/ˌhet.ər.oʊ.dʒəˈniː.ə.ti/",
-    "definition": "The quality or state of being diverse in character, cellular state, or gene expression within a population.",
-    "etymology": "From Ancient Greek ἑτερογενής (heterogenḗs, 'of different kinds').",
-    "manuscriptExample": "Single-cell RNA sequencing unveiled extensive transcriptional heterogeneity in the tumor microenvironment.",
-    "conferenceExample": "Reviewers noted that tumor heterogeneity might account for divergent patient responses in the clinical trial.",
-    "tags": ["Life Sciences", "Peer Review"],
-    "synonyms": ["Diversity", "Variance", "Multiformity", "Disparity"],
-    "antonyms": ["Homogeneity", "Uniformity", "Sameness"]
+    "pronunciation": "/habituation/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding habituation.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how habituation serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of habituation to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   },
   {
-    "id": 802,
-    "word": "Histology",
+    "id": 1243,
+    "word": "Halflife",
     "pos": "noun",
-    "pronunciation": "/hɪˈstɒl.ə.dʒi/",
-    "definition": "The microscopic study of tissue structures, cellular organization, and pathological alterations.",
-    "etymology": "From Ancient Greek ἱστός (histós, 'web, tissue') + -logy.",
-    "manuscriptExample": "Histology sections stained with hematoxylin and eosin demonstrated severe necrotic lesion clearance.",
-    "conferenceExample": "The pathologist on our review board confirmed that blind histology scoring verified the treatment effect.",
-    "tags": ["Life Sciences", "Manuscript Editing"],
-    "synonyms": ["Micro-anatomy", "Tissue architecture"],
-    "antonyms": ["Gross anatomy"]
+    "pronunciation": "/halflife/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding halflife.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how halflife serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of halflife to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1244,
+    "word": "Hegemony",
+    "pos": "noun",
+    "pronunciation": "/hegemony/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding hegemony.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how hegemony serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of hegemony to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1245,
+    "word": "Hematopoiesis",
+    "pos": "noun",
+    "pronunciation": "/hematopoiesis/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding hematopoiesis.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how hematopoiesis serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of hematopoiesis to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1246,
+    "word": "Hemostasis",
+    "pos": "noun",
+    "pronunciation": "/hemostasis/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding hemostasis.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how hemostasis serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of hemostasis to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1247,
+    "word": "Hepatic",
+    "pos": "adj.",
+    "pronunciation": "/hepatic/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding hepatic.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how hepatic serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of hepatic to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1248,
+    "word": "Heterogeneity",
+    "pos": "noun",
+    "pronunciation": "/heterogeneity/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding heterogeneity.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how heterogeneity serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of heterogeneity to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1249,
+    "word": "Heterologous",
+    "pos": "adj.",
+    "pronunciation": "/heterologous/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding heterologous.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how heterologous serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of heterologous to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1250,
+    "word": "Heuristic",
+    "pos": "adj.",
+    "pronunciation": "/heuristic/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding heuristic.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how heuristic serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of heuristic to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1251,
+    "word": "Hierarchy",
+    "pos": "noun",
+    "pronunciation": "/hierarchy/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding hierarchy.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how hierarchy serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of hierarchy to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1252,
+    "word": "Histological",
+    "pos": "adj.",
+    "pronunciation": "/histological/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding histological.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how histological serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of histological to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1253,
+    "word": "Histone",
+    "pos": "noun",
+    "pronunciation": "/histone/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding histone.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how histone serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of histone to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1254,
+    "word": "Homeostasis",
+    "pos": "noun",
+    "pronunciation": "/homeostasis/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding homeostasis.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how homeostasis serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of homeostasis to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1255,
+    "word": "Homogeneity",
+    "pos": "noun",
+    "pronunciation": "/homogeneity/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding homogeneity.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how homogeneity serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of homogeneity to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1256,
+    "word": "Homologous",
+    "pos": "adj.",
+    "pronunciation": "/homologous/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding homologous.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how homologous serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of homologous to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1257,
+    "word": "Hormone",
+    "pos": "noun",
+    "pronunciation": "/hormone/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding hormone.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how hormone serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of hormone to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1258,
+    "word": "Host-pathogen",
+    "pos": "noun",
+    "pronunciation": "/hostpathogen/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding host-pathogen.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how host-pathogen serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of host-pathogen to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1259,
+    "word": "Hybridization",
+    "pos": "noun",
+    "pronunciation": "/hybridization/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding hybridization.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how hybridization serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of hybridization to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1260,
+    "word": "Hydrophilic",
+    "pos": "adj.",
+    "pronunciation": "/hydrophilic/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding hydrophilic.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how hydrophilic serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of hydrophilic to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1261,
+    "word": "Hydrophobic",
+    "pos": "adj.",
+    "pronunciation": "/hydrophobic/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding hydrophobic.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how hydrophobic serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of hydrophobic to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1262,
+    "word": "Hyperbolic",
+    "pos": "adj.",
+    "pronunciation": "/hyperbolic/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding hyperbolic.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how hyperbolic serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of hyperbolic to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1263,
+    "word": "Hyperplasia",
+    "pos": "noun",
+    "pronunciation": "/hyperplasia/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding hyperplasia.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how hyperplasia serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of hyperplasia to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1264,
+    "word": "Hypertrophy",
+    "pos": "noun",
+    "pronunciation": "/hypertrophy/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding hypertrophy.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how hypertrophy serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of hypertrophy to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1265,
+    "word": "Hypothesis",
+    "pos": "noun",
+    "pronunciation": "/hypothesis/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding hypothesis.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how hypothesis serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of hypothesis to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1266,
+    "word": "Hypothetical",
+    "pos": "adj.",
+    "pronunciation": "/hypothetical/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding hypothetical.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how hypothetical serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of hypothetical to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   }
 ]

@@ -1,41 +1,577 @@
 [
   {
-    "id": 1501,
+    "id": 1450,
     "word": "Obfuscate",
     "pos": "verb",
-    "pronunciation": "/ˈɒb.fʌs.keɪt/",
-    "definition": "To obscure, render unclear, or complicate language in a way that conceals methodological details or weak findings.",
-    "etymology": "From Late Latin obfuscatus, past participle of obfuscare ('to darken').",
-    "manuscriptExample": "Passive voice constructions in the results section serve only to obfuscate the sequence of enzyme digestion steps.",
-    "conferenceExample": "We asked the authors to revise Figure 3 because crowded axes obfuscate statistical differences between wild-type and mutant lineages.",
-    "tags": ["Manuscript Editing", "Peer Review"],
-    "synonyms": ["Obscure", "Muddle", "Cloud", "Befog"],
-    "antonyms": ["Elucidate", "Clarify", "Illuminate"]
+    "pronunciation": "/obfuscate/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding obfuscate.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how obfuscate serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of obfuscate to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   },
   {
-    "id": 1502,
-    "word": "Ostensible",
+    "id": 1451,
+    "word": "Objective",
     "pos": "adj.",
-    "pronunciation": "/ɒsˈten.sə.bəl/",
-    "definition": "Stated or appearing to be true or present, but not necessarily confirmed upon rigorous mechanistic inspection.",
-    "etymology": "From French ostensible, from Latin ostensus ('shown').",
-    "manuscriptExample": "The ostensible increase in proliferation was shown to stem from vehicle evaporation in outer microplate wells.",
-    "conferenceExample": "Reviewer 1 pointed out that the ostensible drug selectivity vanished when tested against isoform variants.",
-    "tags": ["Peer Review", "Manuscript Editing"],
-    "synonyms": ["Apparent", "Seeming", "Superficial", "Supposed"],
-    "antonyms": ["Genuine", "Real", "Actual"]
+    "pronunciation": "/objective/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding objective.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how objective serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of objective to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   },
   {
-    "id": 1503,
+    "id": 1452,
+    "word": "Obligate",
+    "pos": "verb",
+    "pronunciation": "/obligate/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding obligate.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how obligate serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of obligate to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1453,
+    "word": "Obliterate",
+    "pos": "verb",
+    "pronunciation": "/obliterate/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding obliterate.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how obliterate serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of obliterate to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1454,
+    "word": "Obviate",
+    "pos": "verb",
+    "pronunciation": "/obviate/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding obviate.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how obviate serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of obviate to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1455,
+    "word": "Occlusion",
+    "pos": "noun",
+    "pronunciation": "/occlusion/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding occlusion.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how occlusion serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of occlusion to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1456,
+    "word": "Off-target",
+    "pos": "noun",
+    "pronunciation": "/offtarget/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding off-target.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how off-target serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of off-target to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1457,
+    "word": "Oligomer",
+    "pos": "noun",
+    "pronunciation": "/oligomer/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding oligomer.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how oligomer serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of oligomer to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1458,
+    "word": "Omics",
+    "pos": "noun",
+    "pronunciation": "/omics/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding omics.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how omics serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of omics to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1459,
+    "word": "Onerous",
+    "pos": "adj.",
+    "pronunciation": "/onerous/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding onerous.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how onerous serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of onerous to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1460,
+    "word": "Ontological",
+    "pos": "adj.",
+    "pronunciation": "/ontological/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding ontological.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how ontological serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of ontological to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1461,
+    "word": "Opaque",
+    "pos": "noun",
+    "pronunciation": "/opaque/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding opaque.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how opaque serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of opaque to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1462,
+    "word": "Operational",
+    "pos": "adj.",
+    "pronunciation": "/operational/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding operational.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how operational serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of operational to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1463,
+    "word": "Optimal",
+    "pos": "adj.",
+    "pronunciation": "/optimal/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding optimal.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how optimal serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of optimal to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1464,
     "word": "Orthogonal",
     "pos": "adj.",
-    "pronunciation": "/ɔːˈθɒɡ.ən.əl/",
-    "definition": "Statistically independent or utilizing completely distinct physical/chemical methods to validate a hypothesis.",
-    "etymology": "From Ancient Greek ὀρθογώνιος (orthogṓnios, 'right-angled').",
-    "manuscriptExample": "To confirm flow cytometry results, we employed an orthogonal assay based on single-molecule mass photometry.",
-    "conferenceExample": "The referee strongly urged the authors to provide orthogonal evidence before claiming direct receptor activation.",
-    "tags": ["Peer Review", "Life Sciences"],
-    "synonyms": ["Independent", "Complementary", "Uncorrelated"],
-    "antonyms": ["Redundant", "Dependent", "Identical"]
+    "pronunciation": "/orthogonal/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding orthogonal.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how orthogonal serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of orthogonal to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1465,
+    "word": "Oscillate",
+    "pos": "verb",
+    "pronunciation": "/oscillate/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding oscillate.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how oscillate serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of oscillate to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1466,
+    "word": "Outlier",
+    "pos": "noun",
+    "pronunciation": "/outlier/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding outlier.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how outlier serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of outlier to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1467,
+    "word": "Overarching",
+    "pos": "noun",
+    "pronunciation": "/overarching/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding overarching.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how overarching serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of overarching to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1468,
+    "word": "Oxidation",
+    "pos": "noun",
+    "pronunciation": "/oxidation/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding oxidation.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how oxidation serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of oxidation to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1469,
+    "word": "Oxidative",
+    "pos": "adj.",
+    "pronunciation": "/oxidative/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding oxidative.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how oxidative serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of oxidative to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1470,
+    "word": "Oncogenic",
+    "pos": "adj.",
+    "pronunciation": "/oncogenic/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding oncogenic.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how oncogenic serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of oncogenic to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1471,
+    "word": "Oncology",
+    "pos": "noun",
+    "pronunciation": "/oncology/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding oncology.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how oncology serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of oncology to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1472,
+    "word": "Oncogene",
+    "pos": "noun",
+    "pronunciation": "/oncogene/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding oncogene.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how oncogene serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of oncogene to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1473,
+    "word": "Optical",
+    "pos": "adj.",
+    "pronunciation": "/optical/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding optical.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how optical serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of optical to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1474,
+    "word": "Osmotic",
+    "pos": "adj.",
+    "pronunciation": "/osmotic/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding osmotic.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how osmotic serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of osmotic to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   }
 ]

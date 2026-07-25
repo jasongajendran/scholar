@@ -1,28 +1,577 @@
 [
   {
-    "id": 1201,
-    "word": "Lineage",
+    "id": 1371,
+    "word": "Labile",
     "pos": "noun",
-    "pronunciation": "/ˈlɪn.i.ɪdʒ/",
-    "definition": "The direct line of cell division or evolutionary descent linking a progenitor stem cell to its specialized progeny.",
-    "etymology": "From Old French lignage, from ligne ('line').",
-    "manuscriptExample": "Single-cell lineage tracing mapped embryonic neural crest cell migration into peripheral autonomic ganglia.",
-    "conferenceExample": "The reviewer commended the manuscript for validating lineage commitment markers across multiple differentiation stages.",
-    "tags": ["Life Sciences", "Manuscript Editing"],
-    "synonyms": ["Pedigree", "Ancestry", "Derivation", "Progeniture"],
-    "antonyms": ["Unrelated pool", "Admixture"]
+    "pronunciation": "/labile/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding labile.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how labile serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of labile to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   },
   {
-    "id": 1202,
+    "id": 1372,
+    "word": "Laconic",
+    "pos": "adj.",
+    "pronunciation": "/laconic/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding laconic.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how laconic serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of laconic to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1373,
+    "word": "Latency",
+    "pos": "noun",
+    "pronunciation": "/latency/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding latency.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how latency serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of latency to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1374,
+    "word": "Latent",
+    "pos": "adj.",
+    "pronunciation": "/latent/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding latent.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how latent serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of latent to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1375,
+    "word": "Laudable",
+    "pos": "noun",
+    "pronunciation": "/laudable/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding laudable.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how laudable serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of laudable to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1376,
+    "word": "Leeway",
+    "pos": "noun",
+    "pronunciation": "/leeway/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding leeway.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how leeway serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of leeway to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1377,
+    "word": "Legitimacy",
+    "pos": "noun",
+    "pronunciation": "/legitimacy/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding legitimacy.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how legitimacy serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of legitimacy to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1378,
+    "word": "Lethality",
+    "pos": "noun",
+    "pronunciation": "/lethality/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding lethality.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how lethality serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of lethality to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1379,
+    "word": "Lexicon",
+    "pos": "noun",
+    "pronunciation": "/lexicon/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding lexicon.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how lexicon serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of lexicon to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1380,
+    "word": "Ligand",
+    "pos": "noun",
+    "pronunciation": "/ligand/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding ligand.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how ligand serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of ligand to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1381,
+    "word": "Lineage",
+    "pos": "noun",
+    "pronunciation": "/lineage/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding lineage.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how lineage serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of lineage to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1382,
+    "word": "Lipophilic",
+    "pos": "adj.",
+    "pronunciation": "/lipophilic/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding lipophilic.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how lipophilic serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of lipophilic to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1383,
+    "word": "Longitudinal",
+    "pos": "adj.",
+    "pronunciation": "/longitudinal/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding longitudinal.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how longitudinal serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of longitudinal to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1384,
+    "word": "Lucid",
+    "pos": "noun",
+    "pronunciation": "/lucid/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding lucid.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how lucid serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of lucid to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1385,
+    "word": "Lucidity",
+    "pos": "noun",
+    "pronunciation": "/lucidity/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding lucidity.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how lucidity serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of lucidity to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1386,
+    "word": "Lucrative",
+    "pos": "adj.",
+    "pronunciation": "/lucrative/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding lucrative.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how lucrative serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of lucrative to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1387,
     "word": "Luminescence",
     "pos": "noun",
-    "pronunciation": "/ˌluː.mɪˈnes.əns/",
-    "definition": "Light emission from a chemical or enzymatic reaction not resulting from heat, widely used in reporter gene assays.",
-    "etymology": "From Latin lumen ('light') + -escence.",
-    "manuscriptExample": "Bioluminescence signal intensity was monitored in real-time using a CCD camera imaging chamber.",
-    "conferenceExample": "The section editor asked for vehicle luminescence baselines to verify signal specificity.",
-    "tags": ["Life Sciences", "Peer Review"],
-    "synonyms": ["Fluorescence", "Phosphorescence", "Chemiluminescence"],
-    "antonyms": ["Darkness", "Absorbance"]
+    "pronunciation": "/luminescence/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding luminescence.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how luminescence serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of luminescence to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1388,
+    "word": "Luminous",
+    "pos": "adj.",
+    "pronunciation": "/luminous/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding luminous.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how luminous serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of luminous to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1389,
+    "word": "Lymphatic",
+    "pos": "adj.",
+    "pronunciation": "/lymphatic/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding lymphatic.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how lymphatic serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of lymphatic to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1390,
+    "word": "Lymphocyte",
+    "pos": "noun",
+    "pronunciation": "/lymphocyte/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding lymphocyte.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how lymphocyte serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of lymphocyte to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1391,
+    "word": "Lysis",
+    "pos": "noun",
+    "pronunciation": "/lysis/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding lysis.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how lysis serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of lysis to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1392,
+    "word": "Lysosome",
+    "pos": "noun",
+    "pronunciation": "/lysosome/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding lysosome.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how lysosome serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of lysosome to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1393,
+    "word": "Lysosomal",
+    "pos": "adj.",
+    "pronunciation": "/lysosomal/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding lysosomal.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how lysosomal serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of lysosomal to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1394,
+    "word": "Lytic",
+    "pos": "adj.",
+    "pronunciation": "/lytic/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding lytic.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how lytic serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of lytic to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1395,
+    "word": "Ligated",
+    "pos": "noun",
+    "pronunciation": "/ligated/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding ligated.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how ligated serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of ligated to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   }
 ]

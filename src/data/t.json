@@ -1,54 +1,738 @@
 [
   {
-    "id": 2001,
+    "id": 1635,
     "word": "Tacit",
-    "pos": "adj.",
-    "pronunciation": "/ˈtæs.ɪt/",
-    "definition": "Implied, understood, or inferred without being explicitly stated in text or protocol manuals.",
-    "etymology": "From French tacite, from Latin tacitus ('silent').",
-    "manuscriptExample": "The manuscript relies on the tacit assumption that cell density remains constant throughout the 72-hour readout.",
-    "conferenceExample": "There was tacit consensus among peer reviewers that the manuscript merits a major revision.",
-    "tags": ["Editorial Meetings", "Peer Review"],
-    "synonyms": ["Implicit", "Unspoken", "Inferred", "Understood"],
-    "antonyms": ["Explicit", "Expressed", "Stated", "Direct"]
+    "pos": "noun",
+    "pronunciation": "/tacit/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding tacit.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how tacit serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of tacit to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   },
   {
-    "id": 2002,
+    "id": 1636,
+    "word": "Taciturn",
+    "pos": "noun",
+    "pronunciation": "/taciturn/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding taciturn.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how taciturn serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of taciturn to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1637,
+    "word": "Tantalizing",
+    "pos": "noun",
+    "pronunciation": "/tantalizing/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding tantalizing.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how tantalizing serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of tantalizing to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1638,
+    "word": "Taxonomy",
+    "pos": "noun",
+    "pronunciation": "/taxonomy/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding taxonomy.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how taxonomy serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of taxonomy to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1639,
+    "word": "Temporal",
+    "pos": "adj.",
+    "pronunciation": "/temporal/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding temporal.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how temporal serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of temporal to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1640,
+    "word": "Tenacious",
+    "pos": "adj.",
+    "pronunciation": "/tenacious/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding tenacious.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how tenacious serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of tenacious to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1641,
+    "word": "Tenacity",
+    "pos": "noun",
+    "pronunciation": "/tenacity/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding tenacity.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how tenacity serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of tenacity to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1642,
+    "word": "Tenet",
+    "pos": "noun",
+    "pronunciation": "/tenet/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding tenet.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how tenet serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of tenet to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1643,
+    "word": "Tentative",
+    "pos": "adj.",
+    "pronunciation": "/tentative/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding tentative.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how tentative serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of tentative to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1644,
+    "word": "Terminology",
+    "pos": "noun",
+    "pronunciation": "/terminology/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding terminology.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how terminology serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of terminology to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1645,
+    "word": "Therapeutic",
+    "pos": "adj.",
+    "pronunciation": "/therapeutic/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding therapeutic.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how therapeutic serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of therapeutic to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1646,
+    "word": "Threshold",
+    "pos": "noun",
+    "pronunciation": "/threshold/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding threshold.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how threshold serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of threshold to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1647,
+    "word": "Tissue",
+    "pos": "noun",
+    "pronunciation": "/tissue/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding tissue.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how tissue serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of tissue to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1648,
+    "word": "Topology",
+    "pos": "noun",
+    "pronunciation": "/topology/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding topology.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how topology serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of topology to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1649,
+    "word": "Toxicity",
+    "pos": "noun",
+    "pronunciation": "/toxicity/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding toxicity.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how toxicity serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of toxicity to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1650,
+    "word": "Tractable",
+    "pos": "noun",
+    "pronunciation": "/tractable/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding tractable.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how tractable serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of tractable to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1651,
+    "word": "Trajectory",
+    "pos": "noun",
+    "pronunciation": "/trajectory/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding trajectory.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how trajectory serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of trajectory to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1652,
+    "word": "Transcription",
+    "pos": "noun",
+    "pronunciation": "/transcription/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding transcription.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how transcription serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of transcription to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1653,
     "word": "Transcriptomic",
     "pos": "adj.",
-    "pronunciation": "/ˌtræn.skrɪpˈtoʊ.mɪk/",
-    "definition": "Relating to the complete set of RNA transcripts produced by the genome under specific physiological conditions.",
-    "etymology": "From transcript + -omic.",
-    "manuscriptExample": "Transcriptomic profiling identified 142 differentially expressed genes involved in cholesterol biosynthesis.",
-    "conferenceExample": "The reviewer commended the inclusion of bulk and single-cell transcriptomic validation cohorts.",
-    "tags": ["Life Sciences", "Peer Review"],
-    "synonyms": ["Gene expression profiling", "RNA-seq analysis"],
-    "antonyms": ["Genomic DNA static sequencing"]
+    "pronunciation": "/transcriptomic/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding transcriptomic.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how transcriptomic serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of transcriptomic to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   },
   {
-    "id": 2003,
+    "id": 1654,
+    "word": "Transduction",
+    "pos": "noun",
+    "pronunciation": "/transduction/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding transduction.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how transduction serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of transduction to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1655,
+    "word": "Transfection",
+    "pos": "noun",
+    "pronunciation": "/transfection/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding transfection.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how transfection serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of transfection to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1656,
+    "word": "Transformation",
+    "pos": "noun",
+    "pronunciation": "/transformation/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding transformation.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how transformation serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of transformation to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1657,
+    "word": "Transgenic",
+    "pos": "adj.",
+    "pronunciation": "/transgenic/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding transgenic.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how transgenic serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of transgenic to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1658,
     "word": "Transient",
     "pos": "adj.",
-    "pronunciation": "/ˈtræn.zi.ənt/",
-    "definition": "Lasting only for a short time; impermanent or non-integrated gene expression or physiological event.",
-    "etymology": "From Latin transiens, present participle of transire ('to pass over').",
-    "manuscriptExample": "Transient plasmid transfection achieved peak luciferase expression at 24 hours post-lipofection.",
-    "conferenceExample": "We addressed whether the calcium flux represented a transient spike or sustained cytosolic elevation.",
-    "tags": ["Life Sciences", "Peer Review"],
-    "synonyms": ["Ephemeral", "Fleeting", "Short-lived", "Temporary"],
-    "antonyms": ["Stable", "Sustained", "Permanent"]
+    "pronunciation": "/transient/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding transient.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how transient serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of transient to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   },
   {
-    "id": 2004,
+    "id": 1659,
+    "word": "Translation",
+    "pos": "noun",
+    "pronunciation": "/translation/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding translation.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how translation serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of translation to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1660,
     "word": "Translational",
     "pos": "adj.",
-    "pronunciation": "/trænzˈleɪ.ʃən.əl/",
-    "definition": "Relating to the application of basic scientific discoveries into clinical therapies or medical practice.",
-    "etymology": "From translation + -al.",
-    "manuscriptExample": "The manuscript highlights the translational significance of targeting mutant allele X in patient-derived models.",
-    "conferenceExample": "The associate editor praised the study for bridging basic mechanistic insights and clinical translational potential.",
-    "tags": ["Life Sciences", "Manuscript Editing"],
-    "synonyms": ["Clinical application", "Bench-to-bedside"],
-    "antonyms": ["Purely theoretical", "In vitro isolated"]
+    "pronunciation": "/translational/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding translational.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how translational serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of translational to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1661,
+    "word": "Translocation",
+    "pos": "noun",
+    "pronunciation": "/translocation/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding translocation.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how translocation serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of translocation to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1662,
+    "word": "Transmission",
+    "pos": "noun",
+    "pronunciation": "/transmission/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding transmission.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how transmission serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of transmission to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1663,
+    "word": "Transverse",
+    "pos": "noun",
+    "pronunciation": "/transverse/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding transverse.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how transverse serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of transverse to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1664,
+    "word": "Triangulation",
+    "pos": "noun",
+    "pronunciation": "/triangulation/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding triangulation.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how triangulation serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of triangulation to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1665,
+    "word": "Truncation",
+    "pos": "noun",
+    "pronunciation": "/truncation/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding truncation.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how truncation serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of truncation to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1666,
+    "word": "Tumorigeneic",
+    "pos": "adj.",
+    "pronunciation": "/tumorigeneic/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding tumorigeneic.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how tumorigeneic serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of tumorigeneic to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   }
 ]

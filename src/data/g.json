@@ -1,28 +1,577 @@
 [
   {
-    "id": 701,
-    "word": "Germane",
-    "pos": "adj.",
-    "pronunciation": "/dʒɜːˈmeɪn/",
-    "definition": "Relevant, pertinent, and directly applicable to the specific reviewer inquiry or research focus.",
-    "etymology": "From Middle English germain ('having the same parents').",
-    "manuscriptExample": "Only literature germane to mammalian homolog regulation was cited in the introduction.",
-    "conferenceExample": "The referee's comment was highly germane, leading us to incorporate an essential negative control.",
-    "tags": ["Peer Review", "Manuscript Editing"],
-    "synonyms": ["Pertinent", "Relevant", "Applicable", "Apropos"],
-    "antonyms": ["Irrelevant", "Extraneous", "Impertinent"]
+    "id": 1217,
+    "word": "Galvanize",
+    "pos": "verb",
+    "pronunciation": "/galvanize/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding galvanize.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how galvanize serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of galvanize to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   },
   {
-    "id": 702,
+    "id": 1218,
+    "word": "Gamete",
+    "pos": "noun",
+    "pronunciation": "/gamete/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding gamete.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how gamete serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of gamete to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1219,
     "word": "Gating",
     "pos": "noun",
-    "pronunciation": "/ˈɡeɪ.tɪŋ/",
-    "definition": "The sequential selection of specific cell populations based on fluorescence or scatter parameters in flow cytometry.",
-    "etymology": "From gate + -ing.",
-    "manuscriptExample": "Detailed flow cytometry gating strategies are provided in Supplementary Figure S3.",
-    "conferenceExample": "Reviewer 1 requested singlet gating controls to rule out doublet contamination in the live-cell gate.",
-    "tags": ["Life Sciences", "Peer Review"],
-    "synonyms": ["Filtering", "Selection", "Thresholding", "Isolation"],
-    "antonyms": ["Unfiltered", "Broad sampling"]
+    "pronunciation": "/gating/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding gating.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how gating serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of gating to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1220,
+    "word": "Gene-expression",
+    "pos": "noun",
+    "pronunciation": "/geneexpression/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding gene-expression.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how gene-expression serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of gene-expression to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1221,
+    "word": "Generalizability",
+    "pos": "noun",
+    "pronunciation": "/generalizability/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding generalizability.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how generalizability serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of generalizability to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1222,
+    "word": "Genesis",
+    "pos": "noun",
+    "pronunciation": "/genesis/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding genesis.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how genesis serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of genesis to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1223,
+    "word": "Genomic",
+    "pos": "adj.",
+    "pronunciation": "/genomic/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding genomic.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how genomic serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of genomic to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1224,
+    "word": "Genotype",
+    "pos": "noun",
+    "pronunciation": "/genotype/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding genotype.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how genotype serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of genotype to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1225,
+    "word": "Germane",
+    "pos": "noun",
+    "pronunciation": "/germane/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding germane.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how germane serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of germane to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1226,
+    "word": "Germline",
+    "pos": "noun",
+    "pronunciation": "/germline/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding germline.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how germline serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of germline to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1227,
+    "word": "Gestation",
+    "pos": "noun",
+    "pronunciation": "/gestation/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding gestation.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how gestation serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of gestation to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1228,
+    "word": "Granularity",
+    "pos": "noun",
+    "pronunciation": "/granularity/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding granularity.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how granularity serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of granularity to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1229,
+    "word": "Gratuitous",
+    "pos": "adj.",
+    "pronunciation": "/gratuitous/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding gratuitous.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how gratuitous serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of gratuitous to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1230,
+    "word": "Groundwork",
+    "pos": "noun",
+    "pronunciation": "/groundwork/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding groundwork.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how groundwork serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of groundwork to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1231,
+    "word": "Guise",
+    "pos": "noun",
+    "pronunciation": "/guise/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding guise.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how guise serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of guise to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1232,
+    "word": "Gut-microbiome",
+    "pos": "noun",
+    "pronunciation": "/gutmicrobiome/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding gut-microbiome.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how gut-microbiome serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of gut-microbiome to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1233,
+    "word": "Gradient",
+    "pos": "adj.",
+    "pronunciation": "/gradient/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding gradient.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how gradient serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of gradient to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1234,
+    "word": "Gravimetric",
+    "pos": "adj.",
+    "pronunciation": "/gravimetric/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding gravimetric.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how gravimetric serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of gravimetric to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1235,
+    "word": "Gyrate",
+    "pos": "verb",
+    "pronunciation": "/gyrate/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding gyrate.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how gyrate serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of gyrate to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1236,
+    "word": "Glycosylation",
+    "pos": "noun",
+    "pronunciation": "/glycosylation/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding glycosylation.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how glycosylation serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of glycosylation to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1237,
+    "word": "Growth-factor",
+    "pos": "noun",
+    "pronunciation": "/growthfactor/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding growth-factor.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how growth-factor serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of growth-factor to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1238,
+    "word": "Group-level",
+    "pos": "noun",
+    "pronunciation": "/grouplevel/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding group-level.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how group-level serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of group-level to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1239,
+    "word": "Glial",
+    "pos": "adj.",
+    "pronunciation": "/glial/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding glial.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how glial serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of glial to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1240,
+    "word": "Genome-wide",
+    "pos": "noun",
+    "pronunciation": "/genomewide/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding genome-wide.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how genome-wide serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of genome-wide to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1241,
+    "word": "Gut-brain",
+    "pos": "noun",
+    "pronunciation": "/gutbrain/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding gut-brain.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how gut-brain serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of gut-brain to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   }
 ]

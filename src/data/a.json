@@ -1,41 +1,631 @@
 [
   {
-    "id": 101,
+    "id": 1001,
+    "word": "Aberration",
+    "pos": "noun",
+    "pronunciation": "/ˌæb.əˈreɪ.ʃən/",
+    "definition": "A departure from what is normal, usual, or expected, typically an unwelcome one.",
+    "etymology": "From Latin aberratio ('wandering away').",
+    "manuscriptExample": "Chromosomal aberrations were quantified in lymphocytes using high-resolution spectral karyotyping.",
+    "conferenceExample": "The reviewer questioned whether the signal intensity drop was a technical aberration or true apoptosis.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Anomalous event",
+      "Deviation",
+      "Irregularity"
+    ],
+    "antonyms": [
+      "Conformity",
+      "Normality"
+    ]
+  },
+  {
+    "id": 1002,
+    "word": "Abrogate",
+    "pos": "verb",
+    "pronunciation": "/ˈæb.rə.ɡeɪt/",
+    "definition": "To repeal or do away with a formal rule, mechanism, or cellular pathway constraint.",
+    "etymology": "From Latin abrogatus ('repealed').",
+    "manuscriptExample": "Pharmacological inhibition abrogated the protective effect of antioxidant pre-treatment.",
+    "conferenceExample": "We inquired whether genetic rescue could abrogate the lethal phenotype observed in homozygous mutants.",
+    "tags": [
+      "Peer Review",
+      "Manuscript Editing"
+    ],
+    "synonyms": [
+      "Abolish",
+      "Nullify",
+      "Override"
+    ],
+    "antonyms": [
+      "Establish",
+      "Enforce",
+      "Validate"
+    ]
+  },
+  {
+    "id": 1003,
+    "word": "Abstruse",
+    "pos": "adj.",
+    "pronunciation": "/æbˈstruːs/",
+    "definition": "Difficult to understand; obscure or esoteric in theoretical formulation.",
+    "etymology": "From Latin abstrusus ('hidden away').",
+    "manuscriptExample": "The reviewer noted that the theoretical physics derivation was needlessly abstruse for a general biology audience.",
+    "conferenceExample": "In the editorial board meeting, we recommended simplifying the abstruse mathematical model.",
+    "tags": [
+      "Editorial Meetings",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Recondite",
+      "Esoteric",
+      "Arcane"
+    ],
+    "antonyms": [
+      "Clear",
+      "Lucid",
+      "Accessible"
+    ]
+  },
+  {
+    "id": 1004,
+    "word": "Acclimatization",
+    "pos": "noun",
+    "pronunciation": "/əˌklaɪ.mə.taɪˈzeɪ.ʃən/",
+    "definition": "The process by which an organism adjusts to a change in its environment over time.",
+    "etymology": "From French acclimatation.",
+    "manuscriptExample": "Acute physiological acclimatization to hypoxia was tracked across a 14-day altitude exposure trial.",
+    "conferenceExample": "The referee asked if mouse strain acclimatization times were standardized prior to behavioural testing.",
+    "tags": [
+      "Life Sciences"
+    ],
+    "synonyms": [
+      "Adaptation",
+      "Habitualization"
+    ],
+    "antonyms": [
+      "Maladaptation"
+    ]
+  },
+  {
+    "id": 1005,
+    "word": "Acquiesce",
+    "pos": "verb",
+    "pronunciation": "/ˌæk.wiˈes/",
+    "definition": "To accept something reluctantly but without protest in manuscript revision.",
+    "etymology": "From Latin acquiescere.",
+    "manuscriptExample": "The authors acquiesced to the editor's request for additional Western blot replicates.",
+    "conferenceExample": "After extensive debate, the panel acquiesced to publishing the short communication.",
+    "tags": [
+      "Editorial Meetings",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Comply",
+      "Concede",
+      "Yield"
+    ],
+    "antonyms": [
+      "Dissent",
+      "Refuse",
+      "Protest"
+    ]
+  },
+  {
+    "id": 1006,
+    "word": "Acumen",
+    "pos": "noun",
+    "pronunciation": "/ˈæk.jə.mən/",
+    "definition": "The ability to make good judgments and quick decisions in experimental design.",
+    "etymology": "From Latin acumen ('sharpness').",
+    "manuscriptExample": "Her diagnostic acumen enabled the rapid identification of a novel rare genetic variant.",
+    "conferenceExample": "Reviewers praised the author's methodological acumen in isolating single-cell RNA transcriptomes.",
+    "tags": [
+      "Manuscript Editing"
+    ],
+    "synonyms": [
+      "Perspicacity",
+      "Astuteness",
+      "Insight"
+    ],
+    "antonyms": [
+      "Incompetence",
+      "Obtuseness"
+    ]
+  },
+  {
+    "id": 1007,
+    "word": "Adjudicate",
+    "pos": "verb",
+    "pronunciation": "/əˈdʒuː.dɪ.keɪt/",
+    "definition": "To make a formal judgment or decision about a disputed scientific issue.",
+    "etymology": "From Latin adjudicatus.",
+    "manuscriptExample": "A third independent peer reviewer was brought in to adjudicate conflicting opinions.",
+    "conferenceExample": "The editorial committee met to adjudicate priority disputes between two concurrent submissions.",
+    "tags": [
+      "Editorial Meetings",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Arbitrate",
+      "Determine",
+      "Settle"
+    ],
+    "antonyms": [
+      "Defer",
+      "Ignore"
+    ]
+  },
+  {
+    "id": 1008,
+    "word": "Admonition",
+    "pos": "noun",
+    "pronunciation": "/ˌæd.məˈnɪʃ.ən/",
+    "definition": "A gentle or authoritative warning or critique regarding experimental rigor.",
+    "etymology": "From Latin admonitio.",
+    "manuscriptExample": "The reviewer's admonition regarding small sample sizes prompted an additional power calculation.",
+    "conferenceExample": "Authors heeded the associate editor's admonition to clarify all antibody dilution factors.",
+    "tags": [
+      "Peer Review",
+      "Editorial Meetings"
+    ],
+    "synonyms": [
+      "Caution",
+      "Warning",
+      "Exhortation"
+    ],
+    "antonyms": [
+      "Praise",
+      "Approval"
+    ]
+  },
+  {
+    "id": 1009,
+    "word": "Adumbrate",
+    "pos": "verb",
+    "pronunciation": "/ˈæd.əm.breɪt/",
+    "definition": "To represent or outline in a sketchy, preliminary, or faint way.",
+    "etymology": "From Latin adumbratus.",
+    "manuscriptExample": "The preliminary communication adumbrates a novel mechanism for chromatin remodeling.",
+    "conferenceExample": "In the discussion section, the authors adumbrated future directions for clinical translation.",
+    "tags": [
+      "Manuscript Editing"
+    ],
+    "synonyms": [
+      "Foreshadow",
+      "Outline",
+      "Intimate"
+    ],
+    "antonyms": [
+      "Elaborate",
+      "Explicate"
+    ]
+  },
+  {
+    "id": 1010,
+    "word": "Aegis",
+    "pos": "noun",
+    "pronunciation": "/ˈiː.dʒɪs/",
+    "definition": "The protection, backing, or sponsorship of a person or scientific institution.",
+    "etymology": "From Greek aigís ('shield').",
+    "manuscriptExample": "The multi-center phase III clinical trial was conducted under the aegis of the National Institutes of Health.",
+    "conferenceExample": "Under the aegis of the editorial society, standardized reporting guidelines were promulgated.",
+    "tags": [
+      "Editorial Meetings"
+    ],
+    "synonyms": [
+      "Auspices",
+      "Patronage",
+      "Sponsorship"
+    ],
+    "antonyms": [
+      "Opposition"
+    ]
+  },
+  {
+    "id": 1011,
+    "word": "Affinity",
+    "pos": "noun",
+    "pronunciation": "/əˈfɪn.ə.ti/",
+    "definition": "A natural liking or strong binding attraction between molecules or receptor sites.",
+    "etymology": "From Latin affinitas.",
+    "manuscriptExample": "Surface plasmon resonance demonstrated high-affinity antibody binding with a Kd of 0.2 nM.",
+    "conferenceExample": "The referee asked for binding affinity measurements comparing wild-type and mutant peptides.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Avidity",
+      "Attraction",
+      "Propensity"
+    ],
+    "antonyms": [
+      "Aversion",
+      "Repulsion"
+    ]
+  },
+  {
+    "id": 1012,
+    "word": "Aggregation",
+    "pos": "noun",
+    "pronunciation": "/ˌæɡ.rɪˈɡeɪ.ʃən/",
+    "definition": "The formation of a number of biological things into a cluster or mass.",
+    "etymology": "From Latin aggregatio.",
+    "manuscriptExample": "Protein aggregation was monitored using dynamic light scattering across varying pH conditions.",
+    "conferenceExample": "The reviewer noted that insoluble protein aggregation could confound fluorescence signals.",
+    "tags": [
+      "Life Sciences"
+    ],
+    "synonyms": [
+      "Clustering",
+      "Accumulation"
+    ],
+    "antonyms": [
+      "Dispersion",
+      "Dissolution"
+    ]
+  },
+  {
+    "id": 1013,
+    "word": "Alacrity",
+    "pos": "noun",
+    "pronunciation": "/əˈlæk.rə.ti/",
+    "definition": "Brisk and cheerful readiness in responding to referee comments.",
+    "etymology": "From Latin alacritas.",
+    "manuscriptExample": "The corresponding author addressed all reviewer revisions with impressive thoroughness and alacrity.",
+    "conferenceExample": "The editorial team processed the breaking pandemic manuscript with unprecedented alacrity.",
+    "tags": [
+      "Editorial Meetings",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Promptness",
+      "Eagerness",
+      "Dispatch"
+    ],
+    "antonyms": [
+      "Apathy",
+      "Reluctance"
+    ]
+  },
+  {
+    "id": 1014,
+    "word": "Allay",
+    "pos": "verb",
+    "pronunciation": "/əˈleɪ/",
+    "definition": "To diminish or put at rest scientific doubts, fears, or concerns.",
+    "etymology": "From Old English ālegan.",
+    "manuscriptExample": "Supplementary cell viability controls helped allay reviewer concerns regarding cytotoxicity.",
+    "conferenceExample": "The authors provided secondary cohort data to allay doubts about generalizability.",
+    "tags": [
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Assuage",
+      "Mitigate",
+      "Alleviate"
+    ],
+    "antonyms": [
+      "Exacerbate",
+      "Heighten"
+    ]
+  },
+  {
+    "id": 1015,
+    "word": "Ameliorate",
+    "pos": "verb",
+    "pronunciation": "/əˈmiː.li.ə.reɪt/",
+    "definition": "To make something bad or unsatisfactory better or more tolerable.",
+    "etymology": "From Latin melior ('better').",
+    "manuscriptExample": "Administration of the therapeutic antibody ameliorated neuroinflammatory pathology in vivo.",
+    "conferenceExample": "Reviewers noted that adjusting background noise levels significantly ameliorated plot clarity.",
+    "tags": [
+      "Life Sciences",
+      "Manuscript Editing"
+    ],
+    "synonyms": [
+      "Improve",
+      "Enhance",
+      "Alleviate"
+    ],
+    "antonyms": [
+      "Worsen",
+      "Aggravate"
+    ]
+  },
+  {
+    "id": 1016,
+    "word": "Amplification",
+    "pos": "noun",
+    "pronunciation": "/ˌæm.plɪ.fɪˈkeɪ.ʃən/",
+    "definition": "The process of increasing the volume, magnitude, or copy number of a gene or signal.",
+    "etymology": "From Latin amplificatio.",
+    "manuscriptExample": "Quantitative PCR revealed a sixfold amplification of the ERBB2 gene in resistant tumor tissue.",
+    "conferenceExample": "The reviewer requested genomic controls to rule out non-specific PCR amplification artifacts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Enlargement",
+      "Expansion",
+      "Potentiation"
+    ],
+    "antonyms": [
+      "Attenuation",
+      "Reduction"
+    ]
+  },
+  {
+    "id": 1017,
+    "word": "Anachronistic",
+    "pos": "adj.",
+    "pronunciation": "/ənˌæk.rəˈnɪs.tɪk/",
+    "definition": "Out of date or belonging to a period other than that in which it exists.",
+    "etymology": "From Greek anakhronismos.",
+    "manuscriptExample": "Using outdated gel electrophoresis alone without mass spectrometry felt anachronistic to peer reviewers.",
+    "conferenceExample": "The panel highlighted that referencing 20-year-old criteria without modern nomenclature was anachronistic.",
+    "tags": [
+      "Peer Review",
+      "Manuscript Editing"
+    ],
+    "synonyms": [
+      "Outdated",
+      "Obsolete",
+      "Archaic"
+    ],
+    "antonyms": [
+      "Contemporary",
+      "Modern"
+    ]
+  },
+  {
+    "id": 1018,
+    "word": "Analogous",
+    "pos": "adj.",
+    "pronunciation": "/əˈnæl.ə.ɡəs/",
+    "definition": "Comparable in certain respects, typically in a way which makes clearer the nature of the things compared.",
+    "etymology": "From Greek analogos.",
+    "manuscriptExample": "The murine phenotype was functionally analogous to human early-onset cardiomyopathy.",
+    "conferenceExample": "The referee agreed that the organoid response was analogous to patient tumor biopsies.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Comparable",
+      "Equivalent",
+      "Parallel"
+    ],
+    "antonyms": [
+      "Disparate",
+      "Unrelated"
+    ]
+  },
+  {
+    "id": 1019,
     "word": "Anomaly",
     "pos": "noun",
     "pronunciation": "/əˈnɒm.ə.li/",
     "definition": "A deviation from expected theoretical rules, standard physiological baselines, or general control outcomes.",
-    "etymology": "From Ancient Greek ἀνωμαλία (anōmalía, 'irregularity').",
+    "etymology": "From Ancient Greek ἀνωμαλία.",
     "manuscriptExample": "The outlier point in batch 3 was flagged as a technical anomaly caused by a pipette calibration error.",
     "conferenceExample": "The reviewer asked whether the transient temperature spike represented a biological anomaly or equipment drift.",
-    "tags": ["Life Sciences", "Peer Review"],
-    "synonyms": ["Aberration", "Irregularity", "Deviance", "Outlier"],
-    "antonyms": ["Norm", "Standard", "Regularity"]
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Aberration",
+      "Irregularity",
+      "Outlier"
+    ],
+    "antonyms": [
+      "Norm",
+      "Standard"
+    ]
   },
   {
-    "id": 102,
-    "word": "Attenuate",
-    "pos": "verb",
-    "pronunciation": "/əˈten.ju.eɪt/",
-    "definition": "To reduce the force, intensity, virulence, or amplitude of a biological signal or response.",
-    "etymology": "From Latin attenuatus, past participle of attenuare ('to make thin, diminish').",
-    "manuscriptExample": "Pre-treatment with the antioxidant compound significantly attenuated ROS-induced apoptotic signaling.",
-    "conferenceExample": "Reviewers asked whether siRNA knockdowns attenuated target protein levels by at least 80%.",
-    "tags": ["Life Sciences", "Peer Review"],
-    "synonyms": ["Diminish", "Dampen", "Mitigate", "Weaken"],
-    "antonyms": ["Exacerbate", "Amplify", "Enhance"]
+    "id": 1020,
+    "word": "Antecedent",
+    "pos": "noun",
+    "pronunciation": "/ˌæn.təˈsiː.dənt/",
+    "definition": "A thing or event that existed before or logically precedes another.",
+    "etymology": "From Latin antecedens.",
+    "manuscriptExample": "Inflammatory cascade activation was identified as the key antecedent to vascular dysfunction.",
+    "conferenceExample": "The editor requested a clearer explanation of historical antecedents to this research hypothesis.",
+    "tags": [
+      "Life Sciences",
+      "Manuscript Editing"
+    ],
+    "synonyms": [
+      "Precursor",
+      "Predecessor",
+      "Forerunner"
+    ],
+    "antonyms": [
+      "Consequent",
+      "Descendant"
+    ]
   },
   {
-    "id": 103,
+    "id": 1021,
+    "word": "Anthropogenic",
+    "pos": "adj.",
+    "pronunciation": "/ˌæn.θrə.pəˈdʒen.ɪk/",
+    "definition": "Originating in human activity, particularly regarding environmental or ecological impact.",
+    "etymology": "From Greek anthropos + genesis.",
+    "manuscriptExample": "Anthropogenic chemical discharge caused measurable shifts in estuarine microbial biodiversity.",
+    "conferenceExample": "The study provides compelling longitudinal evidence of anthropogenic nitrogen deposition.",
+    "tags": [
+      "Life Sciences"
+    ],
+    "synonyms": [
+      "Human-induced",
+      "Man-made"
+    ],
+    "antonyms": [
+      "Natural",
+      "Biogenic"
+    ]
+  },
+  {
+    "id": 1022,
+    "word": "Antipathy",
+    "pos": "noun",
+    "pronunciation": "/ænˈtɪp.ə.θi/",
+    "definition": "A deep-seated feeling of aversion or opposition toward a hypothesis or method.",
+    "etymology": "From Greek antipatheia.",
+    "manuscriptExample": "The author expressed strong antipathy toward reductive biomedical paradigms in the introduction.",
+    "conferenceExample": "Philosophical antipathy between the two academic schools delayed consensus on diagnostic criteria.",
+    "tags": [
+      "Editorial Meetings"
+    ],
+    "synonyms": [
+      "Aversion",
+      "Hostility"
+    ],
+    "antonyms": [
+      "Affinity",
+      "Sympathy"
+    ]
+  },
+  {
+    "id": 1023,
+    "word": "Antithesis",
+    "pos": "noun",
+    "pronunciation": "/ænˈtɪθ.ə.sɪs/",
+    "definition": "A person or thing that is the direct opposite of someone or something else.",
+    "etymology": "From Greek antithesis.",
+    "manuscriptExample": "The observed rapid regression of the tumor was the exact antithesis of the expected progression.",
+    "conferenceExample": "This mechanistic conclusion stands as the direct antithesis of the classical dogma.",
+    "tags": [
+      "Peer Review",
+      "Manuscript Editing"
+    ],
+    "synonyms": [
+      "Polar opposite",
+      "Inverse"
+    ],
+    "antonyms": [
+      "Identity",
+      "Equivalence"
+    ]
+  },
+  {
+    "id": 1024,
+    "word": "Apposite",
+    "pos": "adj.",
+    "pronunciation": "/ˈæp.ə.zɪt/",
+    "definition": "Apt, appropriate, or highly relevant in the circumstances of a manuscript argument.",
+    "etymology": "From Latin appositus.",
+    "manuscriptExample": "The author selected an apposite anatomical model to illustrate regional tissue vascularization.",
+    "conferenceExample": "Reviewers commended the introduction for providing an apposite historical overview of the field.",
+    "tags": [
+      "Manuscript Editing"
+    ],
+    "synonyms": [
+      "Germane",
+      "Pertinent",
+      "Fitting"
+    ],
+    "antonyms": [
+      "Inapposite",
+      "Irrelevant"
+    ]
+  },
+  {
+    "id": 1025,
+    "word": "Approbation",
+    "pos": "noun",
+    "pronunciation": "/ˌæp.rəˈbeɪ.ʃən/",
+    "definition": "Approval or praise, particularly from peer review panels or editorial boards.",
+    "etymology": "From Latin approbatio.",
+    "manuscriptExample": "The novel CRISPR discovery met with enthusiastic approbation from international reviewers.",
+    "conferenceExample": "Securing the editor's approbation required providing rigorous orthogonal validation datasets.",
+    "tags": [
+      "Peer Review",
+      "Editorial Meetings"
+    ],
+    "synonyms": [
+      "Commendation",
+      "Sanction"
+    ],
+    "antonyms": [
+      "Disapproval",
+      "Censure"
+    ]
+  },
+  {
+    "id": 1026,
+    "word": "Arbitrary",
+    "pos": "adj.",
+    "pronunciation": "/ˈɑː.bɪ.trər.i/",
+    "definition": "Based on random choice or personal whim, rather than any reason or biological system.",
+    "etymology": "From Latin arbitrarius.",
+    "manuscriptExample": "Setting the cutoff value at p = 0.03 appeared arbitrary without a prior sensitivity power calculation.",
+    "conferenceExample": "Reviewers flagged the selection of 48-hour time points as arbitrary without kinetic justification.",
+    "tags": [
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Capricious",
+      "Random",
+      "Unsubstantiated"
+    ],
+    "antonyms": [
+      "Systematic",
+      "Rational"
+    ]
+  },
+  {
+    "id": 1027,
     "word": "Assay",
     "pos": "noun",
     "pronunciation": "/ˈæs.eɪ/",
-    "definition": "An investigative procedure in laboratory medicine or biological research for measuring the presence or amount of a substance.",
-    "etymology": "From Old French essai ('trial, attempt').",
-    "manuscriptExample": "A luminescent ATP cell viability assay was deployed to assess drug toxicity across 12 somatic cell lines.",
+    "definition": "An investigative procedure in laboratory medicine or biological research for measuring a substance.",
+    "etymology": "From Old French essai.",
+    "manuscriptExample": "A luminescent ATP cell viability assay was deployed to assess drug toxicity across 12 cell lines.",
     "conferenceExample": "The committee inquired whether an orthogonal enzymatic assay was performed to confirm binding.",
-    "tags": ["Life Sciences", "Manuscript Editing"],
-    "synonyms": ["Analysis", "Evaluation", "Test", "Screen"],
-    "antonyms": ["Conjecture", "Guess"]
+    "tags": [
+      "Life Sciences",
+      "Manuscript Editing"
+    ],
+    "synonyms": [
+      "Analysis",
+      "Evaluation",
+      "Test"
+    ],
+    "antonyms": [
+      "Conjecture",
+      "Guess"
+    ]
+  },
+  {
+    "id": 1028,
+    "word": "Attenuate",
+    "pos": "verb",
+    "pronunciation": "/əˈten.ju.eɪt/",
+    "definition": "To reduce the force, intensity, virulence, or amplitude of a biological signal.",
+    "etymology": "From Latin attenuatus.",
+    "manuscriptExample": "Pre-treatment with the antioxidant compound significantly attenuated ROS-induced apoptotic signaling.",
+    "conferenceExample": "Reviewers asked whether siRNA knockdowns attenuated target protein levels by at least 80%.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Diminish",
+      "Dampen",
+      "Mitigate"
+    ],
+    "antonyms": [
+      "Exacerbate",
+      "Amplify"
+    ]
   }
 ]

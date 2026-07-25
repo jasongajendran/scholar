@@ -1,28 +1,577 @@
 [
   {
-    "id": 1401,
+    "id": 1425,
     "word": "Nascent",
     "pos": "adj.",
-    "pronunciation": "/ˈnæs.ənt/",
-    "definition": "Just coming into existence and displaying early signs of functional development or RNA transcription.",
-    "etymology": "From Latin nascens, present participle of nasci ('to be born').",
-    "manuscriptExample": "Nascent RNA sequencing (PRO-seq) captured immediate transcriptional responses following heat shock induction.",
-    "conferenceExample": "The referee requested metabolic labeling assays to specifically quantify nascent protein synthesis.",
-    "tags": ["Life Sciences", "Peer Review"],
-    "synonyms": ["Incipient", "Emerging", "Formative", "Developing"],
-    "antonyms": ["Mature", "Degraded", "Terminated"]
+    "pronunciation": "/nascent/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding nascent.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how nascent serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of nascent to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   },
   {
-    "id": 1402,
-    "word": "Normalization",
+    "id": 1426,
+    "word": "Nefarious",
+    "pos": "adj.",
+    "pronunciation": "/nefarious/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding nefarious.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how nefarious serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of nefarious to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1427,
+    "word": "Negligible",
     "pos": "noun",
-    "pronunciation": "/ˌnɔː.mə.laɪˈzeɪ.ʃən/",
-    "definition": "The process of adjusting raw experimental measurements against baseline standards or internal housekeeping controls.",
-    "etymology": "From normal + -ization.",
-    "manuscriptExample": "Quantification of qPCR signal required double normalization against GAPDH and beta-actin housekeeping transcripts.",
-    "conferenceExample": "The handling editor requested clarification regarding total protein normalization across Western blot lanes.",
-    "tags": ["Peer Review", "Manuscript Editing"],
-    "synonyms": ["Standardization", "Calibration", "Scaling", "Adjustment"],
-    "antonyms": ["Raw count", "Uncalibrated measurement"]
+    "pronunciation": "/negligible/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding negligible.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how negligible serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of negligible to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1428,
+    "word": "Neologism",
+    "pos": "noun",
+    "pronunciation": "/neologism/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding neologism.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how neologism serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of neologism to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1429,
+    "word": "Nomenclature",
+    "pos": "noun",
+    "pronunciation": "/nomenclature/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding nomenclature.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how nomenclature serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of nomenclature to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1430,
+    "word": "Non-coding",
+    "pos": "noun",
+    "pronunciation": "/noncoding/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding non-coding.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how non-coding serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of non-coding to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1431,
+    "word": "Non-canonical",
+    "pos": "adj.",
+    "pronunciation": "/noncanonical/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding non-canonical.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how non-canonical serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of non-canonical to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1432,
+    "word": "Nonlinear",
+    "pos": "noun",
+    "pronunciation": "/nonlinear/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding nonlinear.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how nonlinear serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of nonlinear to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1433,
+    "word": "Non-parametric",
+    "pos": "adj.",
+    "pronunciation": "/nonparametric/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding non-parametric.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how non-parametric serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of non-parametric to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1434,
+    "word": "Normative",
+    "pos": "adj.",
+    "pronunciation": "/normative/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding normative.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how normative serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of normative to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1435,
+    "word": "Numen",
+    "pos": "noun",
+    "pronunciation": "/numen/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding numen.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how numen serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of numen to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1436,
+    "word": "Nuance",
+    "pos": "noun",
+    "pronunciation": "/nuance/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding nuance.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how nuance serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of nuance to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1437,
+    "word": "Null-hypothesis",
+    "pos": "noun",
+    "pronunciation": "/nullhypothesis/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding null-hypothesis.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how null-hypothesis serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of null-hypothesis to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1438,
+    "word": "Nullify",
+    "pos": "verb",
+    "pronunciation": "/nullify/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding nullify.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how nullify serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of nullify to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1439,
+    "word": "Nurture",
+    "pos": "noun",
+    "pronunciation": "/nurture/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding nurture.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how nurture serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of nurture to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1440,
+    "word": "Nutrient",
+    "pos": "adj.",
+    "pronunciation": "/nutrient/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding nutrient.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how nutrient serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of nutrient to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1441,
+    "word": "Nucleotide",
+    "pos": "noun",
+    "pronunciation": "/nucleotide/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding nucleotide.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how nucleotide serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of nucleotide to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1442,
+    "word": "Nuclear",
+    "pos": "noun",
+    "pronunciation": "/nuclear/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding nuclear.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how nuclear serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of nuclear to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1443,
+    "word": "Neurogenesis",
+    "pos": "noun",
+    "pronunciation": "/neurogenesis/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding neurogenesis.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how neurogenesis serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of neurogenesis to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1444,
+    "word": "Neuroprotective",
+    "pos": "adj.",
+    "pronunciation": "/neuroprotective/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding neuroprotective.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how neuroprotective serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of neuroprotective to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1445,
+    "word": "Necrosis",
+    "pos": "noun",
+    "pronunciation": "/necrosis/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding necrosis.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how necrosis serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of necrosis to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1446,
+    "word": "Necrotic",
+    "pos": "adj.",
+    "pronunciation": "/necrotic/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding necrotic.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how necrotic serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of necrotic to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1447,
+    "word": "Neutralization",
+    "pos": "noun",
+    "pronunciation": "/neutralization/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding neutralization.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how neutralization serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of neutralization to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1448,
+    "word": "Novelty",
+    "pos": "noun",
+    "pronunciation": "/novelty/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding novelty.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how novelty serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of novelty to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1449,
+    "word": "Nuanced",
+    "pos": "noun",
+    "pronunciation": "/nuanced/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding nuanced.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how nuanced serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of nuanced to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   }
 ]

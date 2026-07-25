@@ -1,41 +1,623 @@
 [
   {
-    "id": 1801,
-    "word": "Rigorous",
-    "pos": "adj.",
-    "pronunciation": "/ˈrɪɡ.ər.əs/",
-    "definition": "Extremely thorough, exhaustive, and adhering strictly to methodological standards and statistical controls.",
-    "etymology": "From Middle English rigour, from Old French rigor, from Latin rigor ('stiffness').",
-    "manuscriptExample": "To ensure rigorous evaluation of Western blot quantification, all signal densities were normalized against total protein stain.",
-    "conferenceExample": "The editorial board commended the manuscript for its rigorous statistical controls and blind validation cohorts.",
-    "tags": ["Peer Review", "Manuscript Editing"],
-    "synonyms": ["Meticulous", "Scrupulous", "Exhaustive", "Stringent"],
-    "antonyms": ["Cursory", "Sloppy", "Lax", "Superficial"]
-  },
-  {
-    "id": 1802,
-    "word": "Rebuttal",
+    "id": 1555,
+    "word": "Rationale",
     "pos": "noun",
-    "pronunciation": "/rɪˈbʌt.əl/",
-    "definition": "A formal written argument or evidence presented by manuscript authors to address referee criticisms during peer review.",
-    "etymology": "From Anglo-Norman rebuter ('to push back').",
-    "manuscriptExample": "In our point-by-point rebuttal, we supplied additional flow cytometry gating controls requested in Comment 4.",
-    "conferenceExample": "The editorial team reviewed the author rebuttal and agreed that new siRNA knockout experiments resolved earlier doubts.",
-    "tags": ["Peer Review", "Editorial Meetings"],
-    "synonyms": ["Counterargument", "Refutation", "Response", "Rejoinder"],
-    "antonyms": ["Concession", "Acquiescence", "Agreement"]
+    "pronunciation": "/rationale/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding rationale.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how rationale serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of rationale to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   },
   {
-    "id": 1803,
-    "word": "Refractory",
+    "id": 1556,
+    "word": "Recalcitrant",
+    "pos": "noun",
+    "pronunciation": "/recalcitrant/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding recalcitrant.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how recalcitrant serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of recalcitrant to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1557,
+    "word": "Recapitulate",
+    "pos": "verb",
+    "pronunciation": "/recapitulate/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding recapitulate.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how recapitulate serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of recapitulate to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1558,
+    "word": "Reciprocal",
     "pos": "adj.",
-    "pronunciation": "/rɪˈfræk.tər.i/",
-    "definition": "Resistant to treatment, stimulus, or pharmacological intervention; unmanageable by standard protocols.",
-    "etymology": "From Latin refractarius ('stubborn').",
-    "manuscriptExample": "Patients with refractory acute myeloid leukemia displayed elevated expression of efflux transporter ABCB1.",
-    "conferenceExample": "The panel debated whether the cell line was completely refractory to targeted kinase inhibition.",
-    "tags": ["Life Sciences", "Peer Review"],
-    "synonyms": ["Resistant", "Unresponsive", "Intractable"],
-    "antonyms": ["Responsive", "Sensitive", "Susceptible"]
+    "pronunciation": "/reciprocal/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding reciprocal.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how reciprocal serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of reciprocal to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1559,
+    "word": "Recombinant",
+    "pos": "noun",
+    "pronunciation": "/recombinant/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding recombinant.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how recombinant serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of recombinant to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1560,
+    "word": "Reconstitution",
+    "pos": "noun",
+    "pronunciation": "/reconstitution/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding reconstitution.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how reconstitution serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of reconstitution to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1561,
+    "word": "Redundant",
+    "pos": "noun",
+    "pronunciation": "/redundant/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding redundant.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how redundant serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of redundant to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1562,
+    "word": "Refractory",
+    "pos": "noun",
+    "pronunciation": "/refractory/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding refractory.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how refractory serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of refractory to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1563,
+    "word": "Refutation",
+    "pos": "noun",
+    "pronunciation": "/refutation/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding refutation.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how refutation serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of refutation to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1564,
+    "word": "Regeneration",
+    "pos": "noun",
+    "pronunciation": "/regeneration/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding regeneration.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how regeneration serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of regeneration to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1565,
+    "word": "Regime",
+    "pos": "noun",
+    "pronunciation": "/regime/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding regime.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how regime serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of regime to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1566,
+    "word": "Regression",
+    "pos": "noun",
+    "pronunciation": "/regression/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding regression.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how regression serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of regression to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1567,
+    "word": "Regulation",
+    "pos": "noun",
+    "pronunciation": "/regulation/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding regulation.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how regulation serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of regulation to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1568,
+    "word": "Reiteration",
+    "pos": "noun",
+    "pronunciation": "/reiteration/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding reiteration.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how reiteration serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of reiteration to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1569,
+    "word": "Remediate",
+    "pos": "verb",
+    "pronunciation": "/remediate/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding remediate.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how remediate serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of remediate to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1570,
+    "word": "Replicability",
+    "pos": "noun",
+    "pronunciation": "/replicability/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding replicability.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how replicability serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of replicability to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1571,
+    "word": "Representation",
+    "pos": "noun",
+    "pronunciation": "/representation/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding representation.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how representation serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of representation to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1572,
+    "word": "Repression",
+    "pos": "noun",
+    "pronunciation": "/repression/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding repression.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how repression serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of repression to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1573,
+    "word": "Requisite",
+    "pos": "noun",
+    "pronunciation": "/requisite/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding requisite.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how requisite serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of requisite to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1574,
+    "word": "Resilience",
+    "pos": "noun",
+    "pronunciation": "/resilience/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding resilience.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how resilience serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of resilience to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1575,
+    "word": "Resolution",
+    "pos": "noun",
+    "pronunciation": "/resolution/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding resolution.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how resolution serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of resolution to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1576,
+    "word": "Resonance",
+    "pos": "noun",
+    "pronunciation": "/resonance/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding resonance.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how resonance serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of resonance to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1577,
+    "word": "Respiration",
+    "pos": "noun",
+    "pronunciation": "/respiration/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding respiration.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how respiration serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of respiration to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1578,
+    "word": "Retrospective",
+    "pos": "adj.",
+    "pronunciation": "/retrospective/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding retrospective.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how retrospective serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of retrospective to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1579,
+    "word": "Rigor",
+    "pos": "noun",
+    "pronunciation": "/rigor/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding rigor.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how rigor serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of rigor to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1580,
+    "word": "Robustness",
+    "pos": "noun",
+    "pronunciation": "/robustness/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding robustness.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how robustness serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of robustness to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1581,
+    "word": "Rudimentary",
+    "pos": "noun",
+    "pronunciation": "/rudimentary/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding rudimentary.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how rudimentary serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of rudimentary to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   }
 ]

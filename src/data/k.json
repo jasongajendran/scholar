@@ -1,28 +1,623 @@
 [
   {
-    "id": 1101,
-    "word": "Kinetics",
+    "id": 1344,
+    "word": "Kallikrein",
     "pos": "noun",
-    "pronunciation": "/kɪˈnet.ɪks/",
-    "definition": "The rate of chemical or biochemical reactions and the specific mechanisms governing ligand-receptor association and dissociation.",
-    "etymology": "From Ancient Greek κινητικός (kinētikós, 'moving, put in motion').",
-    "manuscriptExample": "Surface plasmon resonance (SPR) assays established rapid association kinetics alongside an exceptionally slow off-rate.",
-    "conferenceExample": "Reviewer 2 queried whether temperature shifts altered enzymatic cleavage kinetics in cell-free systems.",
-    "tags": ["Life Sciences", "Peer Review"],
-    "synonyms": ["Reaction rate", "Dynamics", "Velocity"],
-    "antonyms": ["Statics", "Thermodynamic equilibrium"]
+    "pronunciation": "/kallikrein/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding kallikrein.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how kallikrein serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of kallikrein to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   },
   {
-    "id": 1102,
-    "word": "Knockdown",
+    "id": 1345,
+    "word": "Karyokinesis",
     "pos": "noun",
-    "pronunciation": "/ˈnɒk.daʊn/",
-    "definition": "An experimental technique that transiently reduces gene expression without complete genetic deletion.",
-    "etymology": "From knock + down.",
-    "manuscriptExample": "siRNA-mediated knockdown of GAPDH reduced transcript levels by 85% compared to non-targeting controls.",
-    "conferenceExample": "We performed Western blot verification 48 hours post-transfection to confirm sustained protein knockdown.",
-    "tags": ["Life Sciences", "Peer Review"],
-    "synonyms": ["Silencing", "Attenuated expression", "Depletion"],
-    "antonyms": ["Overexpression", "Knockin", "Upregulation"]
+    "pronunciation": "/karyokinesis/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding karyokinesis.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how karyokinesis serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of karyokinesis to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1346,
+    "word": "Karyolysis",
+    "pos": "noun",
+    "pronunciation": "/karyolysis/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding karyolysis.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how karyolysis serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of karyolysis to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1347,
+    "word": "Karyorrhexis",
+    "pos": "noun",
+    "pronunciation": "/karyorrhexis/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding karyorrhexis.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how karyorrhexis serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of karyorrhexis to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1348,
+    "word": "Karyotype",
+    "pos": "noun",
+    "pronunciation": "/karyotype/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding karyotype.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how karyotype serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of karyotype to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1349,
+    "word": "Karyotypic",
+    "pos": "adj.",
+    "pronunciation": "/karyotypic/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding karyotypic.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how karyotypic serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of karyotypic to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1350,
+    "word": "Katabolism",
+    "pos": "noun",
+    "pronunciation": "/katabolism/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding katabolism.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how katabolism serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of katabolism to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1351,
+    "word": "Keratinocyte",
+    "pos": "noun",
+    "pronunciation": "/keratinocyte/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding keratinocyte.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how keratinocyte serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of keratinocyte to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1352,
+    "word": "Keratolysis",
+    "pos": "noun",
+    "pronunciation": "/keratolysis/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding keratolysis.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how keratolysis serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of keratolysis to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1353,
+    "word": "Keyframe",
+    "pos": "noun",
+    "pronunciation": "/keyframe/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding keyframe.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how keyframe serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of keyframe to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1354,
+    "word": "Keynote",
+    "pos": "noun",
+    "pronunciation": "/keynote/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding keynote.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how keynote serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of keynote to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1355,
+    "word": "Keystone",
+    "pos": "noun",
+    "pronunciation": "/keystone/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding keystone.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how keystone serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of keystone to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1356,
+    "word": "Keystoned",
+    "pos": "noun",
+    "pronunciation": "/keystoned/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding keystoned.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how keystoned serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of keystoned to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1357,
+    "word": "Keystoning",
+    "pos": "noun",
+    "pronunciation": "/keystoning/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding keystoning.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how keystoning serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of keystoning to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1358,
+    "word": "Kinematic",
+    "pos": "adj.",
+    "pronunciation": "/kinematic/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding kinematic.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how kinematic serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of kinematic to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1359,
+    "word": "Kinematics",
+    "pos": "noun",
+    "pronunciation": "/kinematics/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding kinematics.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how kinematics serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of kinematics to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1360,
+    "word": "Kinase",
+    "pos": "noun",
+    "pronunciation": "/kinase/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding kinase.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how kinase serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of kinase to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1361,
+    "word": "Kinesin",
+    "pos": "noun",
+    "pronunciation": "/kinesin/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding kinesin.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how kinesin serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of kinesin to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1362,
+    "word": "Kinetic",
+    "pos": "adj.",
+    "pronunciation": "/kinetic/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding kinetic.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how kinetic serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of kinetic to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1363,
+    "word": "Kineticist",
+    "pos": "noun",
+    "pronunciation": "/kineticist/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding kineticist.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how kineticist serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of kineticist to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1364,
+    "word": "Kinetics",
+    "pos": "noun",
+    "pronunciation": "/kinetics/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding kinetics.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how kinetics serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of kinetics to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1365,
+    "word": "Knockin",
+    "pos": "noun",
+    "pronunciation": "/knockin/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding knockin.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how knockin serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of knockin to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1366,
+    "word": "Knockout",
+    "pos": "noun",
+    "pronunciation": "/knockout/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding knockout.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how knockout serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of knockout to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1367,
+    "word": "Knowledge-base",
+    "pos": "noun",
+    "pronunciation": "/knowledgebase/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding knowledge-base.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how knowledge-base serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of knowledge-base to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1368,
+    "word": "Knowledgeable",
+    "pos": "noun",
+    "pronunciation": "/knowledgeable/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding knowledgeable.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how knowledgeable serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of knowledgeable to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1369,
+    "word": "Kymograph",
+    "pos": "noun",
+    "pronunciation": "/kymograph/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding kymograph.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how kymograph serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of kymograph to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1370,
+    "word": "Kymography",
+    "pos": "noun",
+    "pronunciation": "/kymography/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding kymography.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how kymography serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of kymography to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   }
 ]

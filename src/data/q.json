@@ -1,28 +1,577 @@
 [
   {
-    "id": 1701,
-    "word": "Quantification",
-    "pos": "noun",
-    "pronunciation": "/ˌkwɒn.tɪ.fɪˈkeɪ.ʃən/",
-    "definition": "The act of giving numerical or statistical form to biological measurements, intensity signals, or cell counts.",
-    "etymology": "From Latin quantus ('how much') + facere ('to make').",
-    "manuscriptExample": "Densitometric quantification of Western blot bands was performed across four biological replicates.",
-    "conferenceExample": "The referee required robust automated image quantification rather than manual spot counting.",
-    "tags": ["Life Sciences", "Peer Review"],
-    "synonyms": ["Measurement", "Estimation", "Enumeration", "Rating"],
-    "antonyms": ["Qualitative description", "Subjective impression"]
+    "id": 1530,
+    "word": "Qualitative",
+    "pos": "adj.",
+    "pronunciation": "/qualitative/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding qualitative.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how qualitative serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of qualitative to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   },
   {
-    "id": 1702,
-    "word": "Quench",
+    "id": 1531,
+    "word": "Quality-control",
+    "pos": "noun",
+    "pronunciation": "/qualitycontrol/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding quality-control.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how quality-control serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of quality-control to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1532,
+    "word": "Quantifiable",
+    "pos": "noun",
+    "pronunciation": "/quantifiable/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding quantifiable.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how quantifiable serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of quantifiable to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1533,
+    "word": "Quantify",
     "pos": "verb",
-    "pronunciation": "/kwentʃ/",
-    "definition": "To suppress, extinguish, or decrease fluorescence intensity or enzymatic activity rapidly during a assay.",
-    "etymology": "From Middle English quenchen, from Old English cwencan.",
-    "manuscriptExample": "Extracellular fluorescence was quenched using trypan blue prior to microplate reader analysis.",
-    "conferenceExample": "Reviewer 3 queried whether auto-fluorescence background was adequately quenched in tissue sections.",
-    "tags": ["Life Sciences", "Peer Review"],
-    "synonyms": ["Suppress", "Extinguish", "Dampen", "Neutralize"],
-    "antonyms": ["Excite", "Amplify", "Enhance"]
+    "pronunciation": "/quantify/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding quantify.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how quantify serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of quantify to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1534,
+    "word": "Quantile",
+    "pos": "noun",
+    "pronunciation": "/quantile/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding quantile.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how quantile serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of quantile to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1535,
+    "word": "Quantitative",
+    "pos": "adj.",
+    "pronunciation": "/quantitative/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding quantitative.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how quantitative serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of quantitative to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1536,
+    "word": "Quantization",
+    "pos": "noun",
+    "pronunciation": "/quantization/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding quantization.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how quantization serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of quantization to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1537,
+    "word": "Quantum",
+    "pos": "noun",
+    "pronunciation": "/quantum/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding quantum.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how quantum serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of quantum to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1538,
+    "word": "Quarantine",
+    "pos": "noun",
+    "pronunciation": "/quarantine/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding quarantine.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how quarantine serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of quarantine to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1539,
+    "word": "Quartile",
+    "pos": "noun",
+    "pronunciation": "/quartile/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding quartile.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how quartile serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of quartile to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1540,
+    "word": "Quasi-experimental",
+    "pos": "adj.",
+    "pronunciation": "/quasiexperimental/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding quasi-experimental.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how quasi-experimental serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of quasi-experimental to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1541,
+    "word": "Quasi-random",
+    "pos": "noun",
+    "pronunciation": "/quasirandom/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding quasi-random.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how quasi-random serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of quasi-random to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1542,
+    "word": "Quasi-static",
+    "pos": "adj.",
+    "pronunciation": "/quasistatic/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding quasi-static.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how quasi-static serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of quasi-static to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1543,
+    "word": "Quasi-steady",
+    "pos": "noun",
+    "pronunciation": "/quasisteady/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding quasi-steady.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how quasi-steady serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of quasi-steady to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1544,
+    "word": "Quaternary",
+    "pos": "noun",
+    "pronunciation": "/quaternary/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding quaternary.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how quaternary serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of quaternary to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1545,
+    "word": "Quench",
+    "pos": "noun",
+    "pronunciation": "/quench/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding quench.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how quench serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of quench to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1546,
+    "word": "Quenching",
+    "pos": "noun",
+    "pronunciation": "/quenching/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding quenching.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how quenching serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of quenching to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1547,
+    "word": "Query",
+    "pos": "noun",
+    "pronunciation": "/query/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding query.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how query serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of query to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1548,
+    "word": "Quiescence",
+    "pos": "noun",
+    "pronunciation": "/quiescence/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding quiescence.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how quiescence serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of quiescence to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1549,
+    "word": "Quiescent",
+    "pos": "adj.",
+    "pronunciation": "/quiescent/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding quiescent.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how quiescent serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of quiescent to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1550,
+    "word": "Quintessential",
+    "pos": "adj.",
+    "pronunciation": "/quintessential/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding quintessential.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how quintessential serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of quintessential to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1551,
+    "word": "Quintessence",
+    "pos": "noun",
+    "pronunciation": "/quintessence/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding quintessence.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how quintessence serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of quintessence to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1552,
+    "word": "Quorum",
+    "pos": "noun",
+    "pronunciation": "/quorum/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding quorum.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how quorum serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of quorum to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1553,
+    "word": "Quorum-sensing",
+    "pos": "noun",
+    "pronunciation": "/quorumsensing/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding quorum-sensing.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how quorum-sensing serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of quorum-sensing to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1554,
+    "word": "Quota",
+    "pos": "noun",
+    "pronunciation": "/quota/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding quota.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how quota serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of quota to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   }
 ]

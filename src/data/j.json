@@ -1,28 +1,623 @@
 [
   {
-    "id": 1001,
-    "word": "Juxtacrine",
-    "pos": "adj.",
-    "pronunciation": "/ˈdʒʌk.stə.krɪn/",
-    "definition": "Relating to a form of cell-to-cell signaling where a ligand on one cell binds directly to a receptor on an adjacent cell.",
-    "etymology": "From Latin juxta ('near, adjacent') + Greek κρίνειν (krínein, 'to separate, secrete').",
-    "manuscriptExample": "Notch receptor signaling operates via juxtacrine interaction between neighboring membrane-bound proteins.",
-    "conferenceExample": "The reviewer inquired whether paracrine factors could be excluded in favor of purely juxtacrine communication.",
-    "tags": ["Life Sciences", "Manuscript Editing"],
-    "synonyms": ["Contact-dependent", "Membrane-bound signaling"],
-    "antonyms": ["Paracrine", "Endocrine", "Autocrine"]
+    "id": 1317,
+    "word": "Jargon",
+    "pos": "noun",
+    "pronunciation": "/jargon/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding jargon.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how jargon serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of jargon to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   },
   {
-    "id": 1002,
+    "id": 1318,
+    "word": "Jargon-free",
+    "pos": "noun",
+    "pronunciation": "/jargonfree/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding jargon-free.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how jargon-free serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of jargon-free to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1319,
+    "word": "Jeopardy",
+    "pos": "noun",
+    "pronunciation": "/jeopardy/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding jeopardy.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how jeopardy serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of jeopardy to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1320,
+    "word": "Jettison",
+    "pos": "noun",
+    "pronunciation": "/jettison/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding jettison.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how jettison serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of jettison to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1321,
+    "word": "Jettisoned",
+    "pos": "noun",
+    "pronunciation": "/jettisoned/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding jettisoned.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how jettisoned serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of jettisoned to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1322,
+    "word": "Jettisoning",
+    "pos": "noun",
+    "pronunciation": "/jettisoning/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding jettisoning.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how jettisoning serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of jettisoning to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1323,
+    "word": "Joint-distribution",
+    "pos": "noun",
+    "pronunciation": "/jointdistribution/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding joint-distribution.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how joint-distribution serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of joint-distribution to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1324,
+    "word": "Jointly",
+    "pos": "noun",
+    "pronunciation": "/jointly/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding jointly.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how jointly serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of jointly to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1325,
+    "word": "Jovial",
+    "pos": "adj.",
+    "pronunciation": "/jovial/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding jovial.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how jovial serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of jovial to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1326,
+    "word": "Jubilant",
+    "pos": "noun",
+    "pronunciation": "/jubilant/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding jubilant.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how jubilant serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of jubilant to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1327,
+    "word": "Judicious",
+    "pos": "adj.",
+    "pronunciation": "/judicious/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding judicious.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how judicious serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of judicious to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1328,
+    "word": "Judiciously",
+    "pos": "noun",
+    "pronunciation": "/judiciously/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding judiciously.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how judiciously serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of judiciously to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1329,
+    "word": "Junction",
+    "pos": "noun",
+    "pronunciation": "/junction/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding junction.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how junction serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of junction to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1330,
+    "word": "Junctional",
+    "pos": "adj.",
+    "pronunciation": "/junctional/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding junctional.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how junctional serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of junctional to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1331,
+    "word": "Juncture",
+    "pos": "noun",
+    "pronunciation": "/juncture/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding juncture.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how juncture serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of juncture to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1332,
+    "word": "Juridical",
+    "pos": "adj.",
+    "pronunciation": "/juridical/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding juridical.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how juridical serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of juridical to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1333,
+    "word": "Jurisdiction",
+    "pos": "noun",
+    "pronunciation": "/jurisdiction/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding jurisdiction.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how jurisdiction serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of jurisdiction to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1334,
+    "word": "Justifiable",
+    "pos": "noun",
+    "pronunciation": "/justifiable/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding justifiable.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how justifiable serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of justifiable to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1335,
+    "word": "Justification",
+    "pos": "noun",
+    "pronunciation": "/justification/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding justification.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how justification serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of justification to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1336,
+    "word": "Juxtapose",
+    "pos": "noun",
+    "pronunciation": "/juxtapose/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding juxtapose.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how juxtapose serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of juxtapose to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1337,
+    "word": "Juxtaposed",
+    "pos": "noun",
+    "pronunciation": "/juxtaposed/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding juxtaposed.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how juxtaposed serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of juxtaposed to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1338,
+    "word": "Juxtaposing",
+    "pos": "noun",
+    "pronunciation": "/juxtaposing/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding juxtaposing.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how juxtaposing serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of juxtaposing to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1339,
     "word": "Juxtaposition",
     "pos": "noun",
-    "pronunciation": "/ˌdʒʌk.stə.pəˈzɪʃ.ən/",
-    "definition": "The act or placement of two elements or biological structures side by side to highlight comparison or contrast.",
-    "etymology": "From Latin juxta ('next to') + French position.",
-    "manuscriptExample": "The structural juxtaposition of wild-type and mutant active sites illuminated key catalytic differences.",
-    "conferenceExample": "In Figure 4, side-by-side juxtaposition of immunofluorescence channels clearly demonstrated co-localization.",
-    "tags": ["Manuscript Editing", "Editorial Meetings"],
-    "synonyms": ["Collocation", "Comparison", "Adjacency"],
-    "antonyms": ["Separation", "Distance", "Isolation"]
+    "pronunciation": "/juxtaposition/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding juxtaposition.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how juxtaposition serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of juxtaposition to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1340,
+    "word": "Juxtacrine",
+    "pos": "noun",
+    "pronunciation": "/juxtacrine/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding juxtacrine.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how juxtacrine serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of juxtacrine to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1341,
+    "word": "Juxtaglomerular",
+    "pos": "noun",
+    "pronunciation": "/juxtaglomerular/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding juxtaglomerular.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how juxtaglomerular serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of juxtaglomerular to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1342,
+    "word": "Juxtamembrane",
+    "pos": "noun",
+    "pronunciation": "/juxtamembrane/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding juxtamembrane.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how juxtamembrane serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of juxtamembrane to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1343,
+    "word": "Juxtavascular",
+    "pos": "noun",
+    "pronunciation": "/juxtavascular/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding juxtavascular.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how juxtavascular serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of juxtavascular to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   }
 ]

@@ -1,28 +1,577 @@
 [
   {
-    "id": 2301,
-    "word": "Wild-type",
-    "pos": "adj.",
-    "pronunciation": "/ˈwaɪld.taɪp/",
-    "definition": "The typical form of an organism, strain, gene, or characteristic as it occurs in nature, as distinguished from mutant forms.",
-    "etymology": "From wild + type.",
-    "manuscriptExample": "Heterozygous mutants exhibited a 50% reduction in enzyme activity relative to wild-type littermate controls.",
-    "conferenceExample": "Reviewer 2 requested wild-type rescue expression vectors to confirm gene specificity.",
-    "tags": ["Life Sciences", "Peer Review"],
-    "synonyms": ["Unmutated", "Baseline strain", "Native form"],
-    "antonyms": ["Mutant", "Knockout", "Transgenic"]
+    "id": 1717,
+    "word": "Warrant",
+    "pos": "noun",
+    "pronunciation": "/warrant/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding warrant.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how warrant serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of warrant to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   },
   {
-    "id": 2302,
-    "word": "Washout",
+    "id": 1718,
+    "word": "Warranted",
     "pos": "noun",
-    "pronunciation": "/ˈwɒʃ.aʊt/",
-    "definition": "A period during an experiment where drug treatment is withdrawn and cells are washed to evaluate signal reversibility.",
-    "etymology": "From wash + out.",
-    "manuscriptExample": "Inhibition of receptor autophosphorylation was fully reversible following a 2-hour compound washout.",
-    "conferenceExample": "The panel requested a washout study to determine if targeted pathway shutdown induced persistent senescence.",
-    "tags": ["Life Sciences", "Peer Review"],
-    "synonyms": ["Clearance phase", "Recovery period"],
-    "antonyms": ["Continuous exposure", "Sustained dosing"]
+    "pronunciation": "/warranted/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding warranted.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how warranted serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of warranted to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1719,
+    "word": "Wastewater",
+    "pos": "noun",
+    "pronunciation": "/wastewater/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding wastewater.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how wastewater serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of wastewater to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1720,
+    "word": "Wavelength",
+    "pos": "noun",
+    "pronunciation": "/wavelength/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding wavelength.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how wavelength serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of wavelength to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1721,
+    "word": "Weakness",
+    "pos": "noun",
+    "pronunciation": "/weakness/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding weakness.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how weakness serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of weakness to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1722,
+    "word": "Well-being",
+    "pos": "noun",
+    "pronunciation": "/wellbeing/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding well-being.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how well-being serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of well-being to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1723,
+    "word": "Whole-genome",
+    "pos": "noun",
+    "pronunciation": "/wholegenome/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding whole-genome.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how whole-genome serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of whole-genome to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1724,
+    "word": "Wide-ranging",
+    "pos": "noun",
+    "pronunciation": "/wideranging/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding wide-ranging.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how wide-ranging serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of wide-ranging to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1725,
+    "word": "Widespread",
+    "pos": "noun",
+    "pronunciation": "/widespread/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding widespread.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how widespread serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of widespread to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1726,
+    "word": "Wild-type",
+    "pos": "noun",
+    "pronunciation": "/wildtype/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding wild-type.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how wild-type serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of wild-type to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1727,
+    "word": "Withdrawal",
+    "pos": "adj.",
+    "pronunciation": "/withdrawal/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding withdrawal.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how withdrawal serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of withdrawal to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1728,
+    "word": "Workflow",
+    "pos": "noun",
+    "pronunciation": "/workflow/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding workflow.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how workflow serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of workflow to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1729,
+    "word": "Workhorse",
+    "pos": "noun",
+    "pronunciation": "/workhorse/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding workhorse.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how workhorse serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of workhorse to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1730,
+    "word": "Working-hypothesis",
+    "pos": "noun",
+    "pronunciation": "/workinghypothesis/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding working-hypothesis.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how working-hypothesis serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of working-hypothesis to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1731,
+    "word": "Worldwide",
+    "pos": "noun",
+    "pronunciation": "/worldwide/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding worldwide.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how worldwide serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of worldwide to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1732,
+    "word": "Worthwhile",
+    "pos": "noun",
+    "pronunciation": "/worthwhile/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding worthwhile.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how worthwhile serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of worthwhile to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1733,
+    "word": "Water-soluble",
+    "pos": "noun",
+    "pronunciation": "/watersoluble/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding water-soluble.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how water-soluble serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of water-soluble to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1734,
+    "word": "Wavelength-dependent",
+    "pos": "adj.",
+    "pronunciation": "/wavelengthdependent/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding wavelength-dependent.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how wavelength-dependent serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of wavelength-dependent to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1735,
+    "word": "Weight-adjusted",
+    "pos": "noun",
+    "pronunciation": "/weightadjusted/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding weight-adjusted.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how weight-adjusted serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of weight-adjusted to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1736,
+    "word": "Western-blot",
+    "pos": "noun",
+    "pronunciation": "/westernblot/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding western-blot.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how western-blot serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of western-blot to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1737,
+    "word": "Within-group",
+    "pos": "noun",
+    "pronunciation": "/withingroup/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding within-group.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how within-group serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of within-group to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1738,
+    "word": "Wound-healing",
+    "pos": "noun",
+    "pronunciation": "/woundhealing/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding wound-healing.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how wound-healing serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of wound-healing to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1739,
+    "word": "Wet-lab",
+    "pos": "noun",
+    "pronunciation": "/wetlab/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding wet-lab.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how wet-lab serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of wet-lab to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1740,
+    "word": "Wide-field",
+    "pos": "noun",
+    "pronunciation": "/widefield/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding wide-field.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how wide-field serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of wide-field to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1741,
+    "word": "Waveform",
+    "pos": "noun",
+    "pronunciation": "/waveform/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding waveform.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how waveform serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of waveform to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   }
 ]

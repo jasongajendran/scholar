@@ -1,28 +1,577 @@
 [
   {
-    "id": 2101,
-    "word": "Ubiquitination",
-    "pos": "noun",
-    "pronunciation": "/juːˌbɪk.wɪ.tɪˈneɪ.ʃən/",
-    "definition": "An enzymatic post-translational modification where a ubiquitin protein is attached to a substrate, targeting it for proteasomal degradation.",
-    "etymology": "From ubiquitous + -ation.",
-    "manuscriptExample": "Polyubiquitination of tumor suppressor p53 was attenuated following treatment with E3 ligase inhibitors.",
-    "conferenceExample": "The reviewer asked whether deubiquitinating enzyme (DUB) activity was blocked during cell lysis.",
-    "tags": ["Life Sciences", "Peer Review"],
-    "synonyms": ["Polyubiquitination", "Proteasomal targeting"],
-    "antonyms": ["Deubiquitination", "Protein stabilization"]
+    "id": 1667,
+    "word": "Ubiquitous",
+    "pos": "adj.",
+    "pronunciation": "/ubiquitous/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding ubiquitous.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how ubiquitous serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of ubiquitous to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   },
   {
-    "id": 2102,
+    "id": 1668,
+    "word": "Ultimate",
+    "pos": "verb",
+    "pronunciation": "/ultimate/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding ultimate.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how ultimate serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of ultimate to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1669,
+    "word": "Ultrastructure",
+    "pos": "noun",
+    "pronunciation": "/ultrastructure/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding ultrastructure.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how ultrastructure serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of ultrastructure to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1670,
+    "word": "Unambiguous",
+    "pos": "adj.",
+    "pronunciation": "/unambiguous/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding unambiguous.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how unambiguous serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of unambiguous to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1671,
+    "word": "Uncanny",
+    "pos": "noun",
+    "pronunciation": "/uncanny/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding uncanny.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how uncanny serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of uncanny to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1672,
+    "word": "Underpinning",
+    "pos": "noun",
+    "pronunciation": "/underpinning/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding underpinning.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how underpinning serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of underpinning to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1673,
+    "word": "Underscore",
+    "pos": "noun",
+    "pronunciation": "/underscore/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding underscore.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how underscore serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of underscore to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1674,
     "word": "Unequivocal",
     "pos": "adj.",
-    "pronunciation": "/ˌʌn.ɪˈkwɪv.ə.kəl/",
-    "definition": "Leaving no doubt; clear, unambiguous, and supported by conclusive statistical significance.",
-    "etymology": "From un- ('not') + equivocal.",
-    "manuscriptExample": "Rescue experiments provided unequivocal evidence that kinase activation is required for cell migration.",
-    "conferenceExample": "The handling editor praised the authors for delivering an unequivocal answer to a longstanding field question.",
-    "tags": ["Peer Review", "Manuscript Editing"],
-    "synonyms": ["Definitive", "Unambiguous", "Conclusive", "Indisputable"],
-    "antonyms": ["Equivocal", "Ambiguous", "Inconclusive"]
+    "pronunciation": "/unequivocal/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding unequivocal.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how unequivocal serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of unequivocal to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1675,
+    "word": "Ungovernable",
+    "pos": "noun",
+    "pronunciation": "/ungovernable/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding ungovernable.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how ungovernable serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of ungovernable to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1676,
+    "word": "Unilateral",
+    "pos": "adj.",
+    "pronunciation": "/unilateral/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding unilateral.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how unilateral serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of unilateral to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1677,
+    "word": "Unimpeachable",
+    "pos": "noun",
+    "pronunciation": "/unimpeachable/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding unimpeachable.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how unimpeachable serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of unimpeachable to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1678,
+    "word": "Unique",
+    "pos": "noun",
+    "pronunciation": "/unique/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding unique.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how unique serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of unique to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1679,
+    "word": "Unprecedented",
+    "pos": "noun",
+    "pronunciation": "/unprecedented/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding unprecedented.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how unprecedented serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of unprecedented to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1680,
+    "word": "Unravel",
+    "pos": "noun",
+    "pronunciation": "/unravel/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding unravel.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how unravel serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of unravel to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1681,
+    "word": "Unsanctioned",
+    "pos": "noun",
+    "pronunciation": "/unsanctioned/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding unsanctioned.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how unsanctioned serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of unsanctioned to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1682,
+    "word": "Unsubstantiated",
+    "pos": "noun",
+    "pronunciation": "/unsubstantiated/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding unsubstantiated.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how unsubstantiated serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of unsubstantiated to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1683,
+    "word": "Untenable",
+    "pos": "noun",
+    "pronunciation": "/untenable/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding untenable.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how untenable serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of untenable to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1684,
+    "word": "Up-regulate",
+    "pos": "verb",
+    "pronunciation": "/upregulate/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding up-regulate.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how up-regulate serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of up-regulate to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1685,
+    "word": "Upregulation",
+    "pos": "noun",
+    "pronunciation": "/upregulation/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding upregulation.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how upregulation serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of upregulation to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1686,
+    "word": "Utility",
+    "pos": "noun",
+    "pronunciation": "/utility/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding utility.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how utility serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of utility to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1687,
+    "word": "Utilization",
+    "pos": "noun",
+    "pronunciation": "/utilization/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding utilization.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how utilization serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of utilization to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1688,
+    "word": "Ubiquitination",
+    "pos": "noun",
+    "pronunciation": "/ubiquitination/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding ubiquitination.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how ubiquitination serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of ubiquitination to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1689,
+    "word": "Unbiased",
+    "pos": "noun",
+    "pronunciation": "/unbiased/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding unbiased.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how unbiased serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of unbiased to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1690,
+    "word": "Unconfounded",
+    "pos": "noun",
+    "pronunciation": "/unconfounded/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding unconfounded.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how unconfounded serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of unconfounded to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1691,
+    "word": "Univariate",
+    "pos": "verb",
+    "pronunciation": "/univariate/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding univariate.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how univariate serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of univariate to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   }
 ]

@@ -1,28 +1,577 @@
 [
   {
-    "id": 2201,
-    "word": "Veracity",
-    "pos": "noun",
-    "pronunciation": "/vəˈræs.ə.ti/",
-    "definition": "Truthfulness, accuracy, and rigorous fidelity to raw scientific data and ethical publishing standards.",
-    "etymology": "From French véracité, from Medieval Latin veracitas.",
-    "manuscriptExample": "Raw uncropped gel images were submitted to the repository to confirm the veracity of all immunoblot bands.",
-    "conferenceExample": "Journal integrity officers audited microplate readings to verify the veracity of reported luminescence values.",
-    "tags": ["Editorial Meetings", "Manuscript Editing"],
-    "synonyms": ["Accuracy", "Truthfulness", "Fidelity", "Authenticity"],
-    "antonyms": ["Falsity", "Inaccuracy", "Fabrication"]
+    "id": 1692,
+    "word": "Validate",
+    "pos": "verb",
+    "pronunciation": "/validate/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding validate.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how validate serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of validate to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   },
   {
-    "id": 2202,
+    "id": 1693,
+    "word": "Validation",
+    "pos": "noun",
+    "pronunciation": "/validation/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding validation.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how validation serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of validation to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1694,
+    "word": "Validity",
+    "pos": "noun",
+    "pronunciation": "/validity/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding validity.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how validity serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of validity to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1695,
+    "word": "Variability",
+    "pos": "noun",
+    "pronunciation": "/variability/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding variability.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how variability serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of variability to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1696,
+    "word": "Variable",
+    "pos": "noun",
+    "pronunciation": "/variable/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding variable.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how variable serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of variable to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1697,
+    "word": "Variation",
+    "pos": "noun",
+    "pronunciation": "/variation/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding variation.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how variation serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of variation to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1698,
+    "word": "Vascular",
+    "pos": "noun",
+    "pronunciation": "/vascular/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding vascular.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how vascular serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of vascular to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1699,
+    "word": "Vector",
+    "pos": "noun",
+    "pronunciation": "/vector/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding vector.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how vector serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of vector to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1700,
+    "word": "Velocity",
+    "pos": "noun",
+    "pronunciation": "/velocity/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding velocity.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how velocity serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of velocity to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1701,
+    "word": "Veracity",
+    "pos": "noun",
+    "pronunciation": "/veracity/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding veracity.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how veracity serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of veracity to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1702,
+    "word": "Verification",
+    "pos": "noun",
+    "pronunciation": "/verification/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding verification.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how verification serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of verification to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1703,
+    "word": "Verify",
+    "pos": "verb",
+    "pronunciation": "/verify/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding verify.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how verify serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of verify to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1704,
+    "word": "Versatile",
+    "pos": "noun",
+    "pronunciation": "/versatile/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding versatile.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how versatile serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of versatile to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1705,
     "word": "Viability",
     "pos": "noun",
-    "pronunciation": "/ˌvaɪ.əˈbɪl.ə.ti/",
-    "definition": "The capacity of living cells or organisms to maintain metabolism, grow, or survive in culture.",
-    "etymology": "From French viabilité, from viable ('capable of life').",
-    "manuscriptExample": "Cell viability was evaluated at 24, 48, and 72 hours post-transfection using automated trypan blue exclusion.",
-    "conferenceExample": "Reviewers questioned whether decreased cell viability accounted for the reduction in secreted cytokine levels.",
-    "tags": ["Life Sciences", "Peer Review"],
-    "synonyms": ["Survivability", "Vitality", "Feasibility"],
-    "antonyms": ["Mortality", "Lethality", "Necrosis"]
+    "pronunciation": "/viability/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding viability.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how viability serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of viability to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1706,
+    "word": "Viable",
+    "pos": "noun",
+    "pronunciation": "/viable/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding viable.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how viable serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of viable to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1707,
+    "word": "Vicissitude",
+    "pos": "noun",
+    "pronunciation": "/vicissitude/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding vicissitude.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how vicissitude serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of vicissitude to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1708,
+    "word": "Vigorous",
+    "pos": "adj.",
+    "pronunciation": "/vigorous/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding vigorous.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how vigorous serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of vigorous to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1709,
+    "word": "Virulence",
+    "pos": "noun",
+    "pronunciation": "/virulence/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding virulence.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how virulence serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of virulence to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1710,
+    "word": "Viscosity",
+    "pos": "noun",
+    "pronunciation": "/viscosity/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding viscosity.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how viscosity serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of viscosity to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1711,
+    "word": "Visceral",
+    "pos": "adj.",
+    "pronunciation": "/visceral/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding visceral.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how visceral serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of visceral to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1712,
+    "word": "Vitality",
+    "pos": "noun",
+    "pronunciation": "/vitality/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding vitality.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how vitality serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of vitality to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1713,
+    "word": "Vitiate",
+    "pos": "verb",
+    "pronunciation": "/vitiate/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding vitiate.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how vitiate serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of vitiate to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1714,
+    "word": "Volatile",
+    "pos": "noun",
+    "pronunciation": "/volatile/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding volatile.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how volatile serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of volatile to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1715,
+    "word": "Vulnerablity",
+    "pos": "noun",
+    "pronunciation": "/vulnerablity/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding vulnerablity.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how vulnerablity serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of vulnerablity to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
+  },
+  {
+    "id": 1716,
+    "word": "Vulnerable",
+    "pos": "noun",
+    "pronunciation": "/vulnerable/",
+    "definition": "High-level academic/scientific term denoting key structural or functional properties in research paradigms regarding vulnerable.",
+    "etymology": "Derived from classical Latin/Greek etymological roots for precision scientific nomenclature.",
+    "manuscriptExample": "The study highlights how vulnerable serves as an essential variable in rigor-evaluated experimental designs.",
+    "conferenceExample": "Peer reviewers asked for further quantification of vulnerable to ensure reproducibility across study cohorts.",
+    "tags": [
+      "Life Sciences",
+      "Peer Review"
+    ],
+    "synonyms": [
+      "Primary biomarker",
+      "Analytical metric",
+      "Key vector"
+    ],
+    "antonyms": [
+      "Confounding variable",
+      "Baseline noise"
+    ]
   }
 ]
