@@ -13,13 +13,14 @@
       "Peer Review"
     ],
     "synonyms": [
-      "Primary biomarker",
-      "Analytical metric",
-      "Key vector"
+      "Omnipresent",
+      "Pervasive",
+      "Widespread"
     ],
     "antonyms": [
-      "Confounding variable",
-      "Baseline noise"
+      "Rare",
+      "Sparse",
+      "Localized"
     ]
   },
   {
@@ -36,12 +37,11 @@
       "Peer Review"
     ],
     "synonyms": [
-      "Primary biomarker",
-      "Analytical metric",
-      "Key vector"
+      "Primary correlate",
+      "Associated factor"
     ],
     "antonyms": [
-      "Confounding variable",
+      "Inverse variable",
       "Baseline noise"
     ]
   },
@@ -59,12 +59,11 @@
       "Peer Review"
     ],
     "synonyms": [
-      "Primary biomarker",
-      "Analytical metric",
-      "Key vector"
+      "Primary correlate",
+      "Associated factor"
     ],
     "antonyms": [
-      "Confounding variable",
+      "Inverse variable",
       "Baseline noise"
     ]
   },
@@ -82,13 +81,13 @@
       "Peer Review"
     ],
     "synonyms": [
-      "Primary biomarker",
-      "Analytical metric",
-      "Key vector"
+      "Definitive",
+      "Clear",
+      "Unequivocal"
     ],
     "antonyms": [
-      "Confounding variable",
-      "Baseline noise"
+      "Ambiguous",
+      "Equivocal"
     ]
   },
   {
@@ -105,13 +104,12 @@
       "Peer Review"
     ],
     "synonyms": [
-      "Primary biomarker",
-      "Analytical metric",
-      "Key vector"
+      "Atypical state",
+      "Secondary factor"
     ],
     "antonyms": [
-      "Confounding variable",
-      "Baseline noise"
+      "Canonical form",
+      "Standard baseline"
     ]
   },
   {
@@ -128,13 +126,12 @@
       "Peer Review"
     ],
     "synonyms": [
-      "Primary biomarker",
-      "Analytical metric",
-      "Key vector"
+      "Foundation",
+      "Rationale",
+      "Basis"
     ],
     "antonyms": [
-      "Confounding variable",
-      "Baseline noise"
+      "Superstructure"
     ]
   },
   {
@@ -151,13 +148,12 @@
       "Peer Review"
     ],
     "synonyms": [
-      "Primary biomarker",
-      "Analytical metric",
-      "Key vector"
+      "Atypical state",
+      "Secondary factor"
     ],
     "antonyms": [
-      "Confounding variable",
-      "Baseline noise"
+      "Canonical form",
+      "Standard baseline"
     ]
   },
   {
@@ -174,13 +170,13 @@
       "Peer Review"
     ],
     "synonyms": [
-      "Primary biomarker",
-      "Analytical metric",
-      "Key vector"
+      "Clear-cut",
+      "Definitive",
+      "Incontrovertible"
     ],
     "antonyms": [
-      "Confounding variable",
-      "Baseline noise"
+      "Ambiguous",
+      "Uncertain"
     ]
   },
   {
@@ -197,13 +193,12 @@
       "Peer Review"
     ],
     "synonyms": [
-      "Primary biomarker",
-      "Analytical metric",
-      "Key vector"
+      "Atypical state",
+      "Secondary factor"
     ],
     "antonyms": [
-      "Confounding variable",
-      "Baseline noise"
+      "Canonical form",
+      "Standard baseline"
     ]
   },
   {
@@ -220,13 +215,12 @@
       "Peer Review"
     ],
     "synonyms": [
-      "Primary biomarker",
-      "Analytical metric",
-      "Key vector"
+      "Atypical state",
+      "Secondary factor"
     ],
     "antonyms": [
-      "Confounding variable",
-      "Baseline noise"
+      "Canonical form",
+      "Standard baseline"
     ]
   },
   {
@@ -243,13 +237,12 @@
       "Peer Review"
     ],
     "synonyms": [
-      "Primary biomarker",
-      "Analytical metric",
-      "Key vector"
+      "Atypical state",
+      "Secondary factor"
     ],
     "antonyms": [
-      "Confounding variable",
-      "Baseline noise"
+      "Canonical form",
+      "Standard baseline"
     ]
   },
   {
@@ -266,13 +259,12 @@
       "Peer Review"
     ],
     "synonyms": [
-      "Primary biomarker",
-      "Analytical metric",
-      "Key vector"
+      "Atypical state",
+      "Secondary factor"
     ],
     "antonyms": [
-      "Confounding variable",
-      "Baseline noise"
+      "Canonical form",
+      "Standard baseline"
     ]
   },
   {
@@ -289,13 +281,13 @@
       "Peer Review"
     ],
     "synonyms": [
-      "Primary biomarker",
-      "Analytical metric",
-      "Key vector"
+      "Novel",
+      "First-in-class",
+      "Unmatched"
     ],
     "antonyms": [
-      "Confounding variable",
-      "Baseline noise"
+      "Conventional",
+      "Routine"
     ]
   },
   {
@@ -312,13 +304,12 @@
       "Peer Review"
     ],
     "synonyms": [
-      "Primary biomarker",
-      "Analytical metric",
-      "Key vector"
+      "Atypical state",
+      "Secondary factor"
     ],
     "antonyms": [
-      "Confounding variable",
-      "Baseline noise"
+      "Canonical form",
+      "Standard baseline"
     ]
   },
   {
@@ -335,13 +326,12 @@
       "Peer Review"
     ],
     "synonyms": [
-      "Primary biomarker",
-      "Analytical metric",
-      "Key vector"
+      "Atypical state",
+      "Secondary factor"
     ],
     "antonyms": [
-      "Confounding variable",
-      "Baseline noise"
+      "Canonical form",
+      "Standard baseline"
     ]
   },
   {
@@ -358,13 +348,12 @@
       "Peer Review"
     ],
     "synonyms": [
-      "Primary biomarker",
-      "Analytical metric",
-      "Key vector"
+      "Atypical state",
+      "Secondary factor"
     ],
     "antonyms": [
-      "Confounding variable",
-      "Baseline noise"
+      "Canonical form",
+      "Standard baseline"
     ]
   },
   {
@@ -381,13 +370,12 @@
       "Peer Review"
     ],
     "synonyms": [
-      "Primary biomarker",
-      "Analytical metric",
-      "Key vector"
+      "Atypical state",
+      "Secondary factor"
     ],
     "antonyms": [
-      "Confounding variable",
-      "Baseline noise"
+      "Canonical form",
+      "Standard baseline"
     ]
   },
   {
@@ -404,12 +392,11 @@
       "Peer Review"
     ],
     "synonyms": [
-      "Primary biomarker",
-      "Analytical metric",
-      "Key vector"
+      "Primary correlate",
+      "Associated factor"
     ],
     "antonyms": [
-      "Confounding variable",
+      "Inverse variable",
       "Baseline noise"
     ]
   },
@@ -427,13 +414,12 @@
       "Peer Review"
     ],
     "synonyms": [
-      "Primary biomarker",
-      "Analytical metric",
-      "Key vector"
+      "Induction",
+      "Expression increase"
     ],
     "antonyms": [
-      "Confounding variable",
-      "Baseline noise"
+      "Downregulation",
+      "Suppression"
     ]
   },
   {
@@ -450,13 +436,13 @@
       "Peer Review"
     ],
     "synonyms": [
-      "Primary biomarker",
-      "Analytical metric",
-      "Key vector"
+      "Usefulness",
+      "Applicability",
+      "Value"
     ],
     "antonyms": [
-      "Confounding variable",
-      "Baseline noise"
+      "Futility",
+      "Inefficacy"
     ]
   },
   {
@@ -473,12 +459,11 @@
       "Peer Review"
     ],
     "synonyms": [
-      "Primary biomarker",
-      "Analytical metric",
-      "Key vector"
+      "Primary correlate",
+      "Associated factor"
     ],
     "antonyms": [
-      "Confounding variable",
+      "Inverse variable",
       "Baseline noise"
     ]
   },
@@ -496,12 +481,11 @@
       "Peer Review"
     ],
     "synonyms": [
-      "Primary biomarker",
-      "Analytical metric",
-      "Key vector"
+      "Primary correlate",
+      "Associated factor"
     ],
     "antonyms": [
-      "Confounding variable",
+      "Inverse variable",
       "Baseline noise"
     ]
   },
@@ -519,13 +503,12 @@
       "Peer Review"
     ],
     "synonyms": [
-      "Primary biomarker",
-      "Analytical metric",
-      "Key vector"
+      "Atypical state",
+      "Secondary factor"
     ],
     "antonyms": [
-      "Confounding variable",
-      "Baseline noise"
+      "Canonical form",
+      "Standard baseline"
     ]
   },
   {
@@ -542,13 +525,12 @@
       "Peer Review"
     ],
     "synonyms": [
-      "Primary biomarker",
-      "Analytical metric",
-      "Key vector"
+      "Atypical state",
+      "Secondary factor"
     ],
     "antonyms": [
-      "Confounding variable",
-      "Baseline noise"
+      "Canonical form",
+      "Standard baseline"
     ]
   },
   {
@@ -565,13 +547,12 @@
       "Peer Review"
     ],
     "synonyms": [
-      "Primary biomarker",
-      "Analytical metric",
-      "Key vector"
+      "Atypical state",
+      "Secondary factor"
     ],
     "antonyms": [
-      "Confounding variable",
-      "Baseline noise"
+      "Canonical form",
+      "Standard baseline"
     ]
   }
 ]

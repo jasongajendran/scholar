@@ -206,20 +206,20 @@ export function WordRow({
       <div className="lg:w-7/12 flex flex-col justify-center gap-4">
         {/* Manuscript Context */}
         <div className="relative p-4 rounded-xl bg-zinc-950/80 border border-zinc-800/80 group-hover:border-sky-500/30 transition-colors duration-200">
-          <div className="flex items-center gap-2 text-sky-300 font-mono text-xs uppercase tracking-wider mb-1 font-semibold">
-            <FileText size={14} />
-            <span>📄 Manuscript / Editorial Context</span>
+          <div className="flex items-center gap-2 text-sky-300 font-mono text-xs uppercase tracking-wider mb-1 font-semibold flex-wrap">
+            <FileText size={14} className="shrink-0" />
+            <span>Manuscript Context</span>
           </div>
           <p className="text-sm md:text-base font-serif text-zinc-200 italic leading-relaxed">
             "{highlightMatch(word.manuscriptExample, word.word)}"
           </p>
         </div>
         
-        {/* Academic Meeting / Conference Context */}
+        {/* Conference & Meeting Context */}
         <div className="relative p-4 rounded-xl bg-zinc-950/80 border border-zinc-800/80 group-hover:border-indigo-500/30 transition-colors duration-200">
-          <div className="flex items-center gap-2 text-indigo-300 font-mono text-xs uppercase tracking-wider mb-1 font-semibold">
-            <Landmark size={14} />
-            <span>🏛️ Academic Meeting / Conference Context</span>
+          <div className="flex items-center gap-2 text-indigo-300 font-mono text-xs uppercase tracking-wider mb-1 font-semibold flex-wrap">
+            <Landmark size={14} className="shrink-0" />
+            <span>Conference & Meeting Context</span>
           </div>
           <p className="text-sm md:text-base font-serif text-zinc-200 italic leading-relaxed">
             "{highlightMatch(word.conferenceExample, word.word)}"

@@ -153,9 +153,9 @@ export function WordCard({
       {/* Dual Context Cards (Manuscript & Conference) */}
       <div className="space-y-2.5 mb-5">
         <div className="p-3 rounded-xl bg-zinc-950/70 border border-zinc-800/60 text-xs">
-          <div className="flex items-center gap-1.5 text-sky-400 font-mono text-[10px] uppercase tracking-wider mb-1 font-semibold">
-            <FileText size={12} />
-            <span>Manuscript / Editorial Context</span>
+          <div className="flex items-center gap-1.5 text-sky-400 font-mono text-[10px] uppercase tracking-wider mb-1 font-semibold flex-wrap">
+            <FileText size={12} className="shrink-0" />
+            <span>Manuscript Context</span>
           </div>
           <p className="text-zinc-300 font-serif italic line-clamp-2">
             "{word.manuscriptExample}"
@@ -163,9 +163,9 @@ export function WordCard({
         </div>
 
         <div className="p-3 rounded-xl bg-zinc-950/70 border border-zinc-800/60 text-xs">
-          <div className="flex items-center gap-1.5 text-indigo-400 font-mono text-[10px] uppercase tracking-wider mb-1 font-semibold">
-            <Landmark size={12} />
-            <span>Academic Meeting / Conference Context</span>
+          <div className="flex items-center gap-1.5 text-indigo-400 font-mono text-[10px] uppercase tracking-wider mb-1 font-semibold flex-wrap">
+            <Landmark size={12} className="shrink-0" />
+            <span>Conference & Meeting Context</span>
           </div>
           <p className="text-zinc-300 font-serif italic line-clamp-2">
             "{word.conferenceExample}"

@@ -228,22 +228,22 @@ export function WordDetailModal({
 
               {/* Dual Context Cards */}
               <div className="space-y-3">
-                {/* 📄 Manuscript / Editorial Context */}
+                {/* Manuscript Context */}
                 <div className="p-5 rounded-2xl bg-zinc-950/80 border border-sky-900/40">
-                  <div className="flex items-center gap-2 mb-2">
-                    <FileText size={15} className="text-sky-400" />
-                    <h4 className="text-xs font-mono text-sky-300 uppercase tracking-widest font-semibold">📄 Manuscript / Editorial Context</h4>
+                  <div className="flex items-center gap-2 mb-2 flex-wrap">
+                    <FileText size={15} className="text-sky-400 shrink-0" />
+                    <h4 className="text-xs font-mono text-sky-300 uppercase tracking-widest font-semibold">Manuscript Context</h4>
                   </div>
                   <p className="text-zinc-200 font-serif italic text-base leading-relaxed">
                     "{word.manuscriptExample}"
                   </p>
                 </div>
 
-                {/* 🏛️ Academic Meeting / Conference Context */}
+                {/* Conference & Meeting Context */}
                 <div className="p-5 rounded-2xl bg-zinc-950/80 border border-indigo-900/40">
-                  <div className="flex items-center gap-2 mb-2">
-                    <Landmark size={15} className="text-indigo-400" />
-                    <h4 className="text-xs font-mono text-indigo-300 uppercase tracking-widest font-semibold">🏛️ Academic Meeting / Conference Context</h4>
+                  <div className="flex items-center gap-2 mb-2 flex-wrap">
+                    <Landmark size={15} className="text-indigo-400 shrink-0" />
+                    <h4 className="text-xs font-mono text-indigo-300 uppercase tracking-widest font-semibold">Conference & Meeting Context</h4>
                   </div>
                   <p className="text-zinc-200 font-serif italic text-base leading-relaxed">
                     "{word.conferenceExample}"
